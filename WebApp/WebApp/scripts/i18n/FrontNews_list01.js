@@ -1,0 +1,1 @@
+var i18n_FrontNews_list01_news_page_haveNoRight="您没有浏览此条信息的权限！";

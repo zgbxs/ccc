@@ -1,0 +1,13 @@
+var i18n_frontpublic_recommendToFriend01_error1="好友姓名为必填项，请填写。";
+var i18n_frontpublic_recommendToFriend01_error2="好友姓名不允许超过20个字符，请重新填写。";
+var i18n_frontpublic_recommendToFriend01_error3="不能接受的字符，请输入适合的信息！";
+var i18n_frontpublic_recommendToFriend01_error4="好友邮箱为必填项，请填写。";
+var i18n_frontpublic_recommendToFriend01_error5="好友邮箱不允许超过50个字符，请重新填写。";
+var i18n_frontpublic_recommendToFriend01_error6="好友邮箱中应该包含 @ 和.字符，请重新填写。";
+var i18n_frontpublic_recommendToFriend01_error7="您的姓名为必填项，请填写。";
+var i18n_frontpublic_recommendToFriend01_error8="您的姓名不允许超过20个字符，请重新填写。";
+var i18n_frontpublic_recommendToFriend01_error9="您的邮箱为必填项，请填写。";
+var i18n_frontpublic_recommendToFriend01_error10="您的邮箱不允许超过50个字符，请重新填写。";
+var i18n_frontpublic_recommendToFriend01_error11="您的邮箱中应该包含 @ 和.字符，请重新填写。";
+var i18n_frontpublic_recommendToFriend01_error12="主题不允许超过50个字符，请重新填写。";
+var i18n_frontpublic_recommendToFriend01_error13="留言不允许超过500个字符，请重新填写。";

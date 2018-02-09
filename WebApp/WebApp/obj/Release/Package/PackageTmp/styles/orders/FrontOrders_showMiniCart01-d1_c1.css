@@ -1,0 +1,411 @@
+@charset "utf-8";
+/** 全局样式 **/
+.FrontOrders_showMiniCart01-d1_c1 {
+	width:100%;
+	margin:0 auto;
+	clear:both;
+	text-align:left;
+}
+.FrontOrders_showMiniCart01-d1_c1 img {
+	vertical-align:middle;
+}
+/** 链接 **/
+.FrontOrders_showMiniCart01-d1_c1 a {
+	text-decoration:underline;
+	vertical-align:baseline;
+	zoom:1;
+}
+.FrontOrders_showMiniCart01-d1_c1 a:hover {
+	text-decoration:none;
+}
+/** 购物车布局 **/
+.FrontOrders_showMiniCart01-d1_c1 .shopping-stat {
+	float:left;
+	position:relative;
+	z-index:109;
+	width:60%;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-operate {
+	float:right;
+	width:40%;
+}
+/** 数值样式 **/
+.FrontOrders_showMiniCart01-d1_c1 .shopping-stat em {
+	color:#e60012;
+	font-style:normal;
+	padding:0;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-stat span {
+	padding-left:10px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-operate {
+	padding:0;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-operate span {
+	padding:0 0 0 10px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-car {
+}
+/** 迷你购物车弹出浮动层 开始 **/
+
+.FrontOrders_showMiniCart01-d1_c1 .my-minicar {
+	position:absolute;
+	width:385px;
+	top:25px;
+	left:-20px;
+	z-index:100;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-top {
+	background-image:url("../../images/orders/minicar-bg.gif"/*tpa=http://www.lypbhg.com/images/orders/minicar-bg.gif*/);
+	background-repeat:no-repeat;
+	background-position:left top;
+	height:13px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-body {
+	background-image:url("../../images/orders/minicar-bg.gif"/*tpa=http://www.lypbhg.com/images/orders/minicar-bg.gif*/);
+	background-repeat:no-repeat;
+	background-position:left -13px;
+	background-color: #ECECEC;
+	border-left:#d8d8d8 1px solid;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-body h3 {
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:5px;
+	text-align:left;
+	position: relative;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-list {
+	background-image:url("../../images/orders/minicar-right.gif"/*tpa=http://www.lypbhg.com/images/orders/minicar-right.gif*/);
+	background-repeat:repeat-y;
+	background-position:right top;
+	padding:5px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-list .close {
+	position:absolute;
+	top:-1px;
+	right:0px;
+ *top:-5px;
+	_top:-5px;
+	_right:10px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-list .close a {
+	background-image:url("../../images/orders/close1.gif"/*tpa=http://www.lypbhg.com/images/orders/close1.gif*/);
+	background-repeat:no-repeat;
+	background-position:center center;
+	display:inline-block;
+	width:24px;
+	height:24px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-list .close a:hover {
+	background-image:url("../../images/orders/close1-hover.gif"/*tpa=http://www.lypbhg.com/images/orders/close1-hover.gif*/);
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-list .list-top {
+	background-image:url("../../images/orders/minicar-list-top.gif"/*tpa=http://www.lypbhg.com/images/orders/minicar-list-top.gif*/);
+	background-repeat:no-repeat;
+	background-position:5px top;
+	height:10px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-list .list-bottom {
+	background-image:url("../../images/orders/minicar-list-bottom.gif"/*tpa=http://www.lypbhg.com/images/orders/minicar-list-bottom.gif*/);
+	background-repeat:no-repeat;
+	background-position:5px bottom;
+	height:10px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-list .list-product {
+	background-color:#FFF;
+	width:358px;
+	margin-left:5px;
+	border-left:#d8d8d8 1px solid;
+	border-right:#d8d8d8 1px solid;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .products {
+	width:353px;
+	display:inline-block;
+	border-bottom:#d8d8d8 1px dotted;
+	padding-left:5px;
+	padding-top:5px;
+	_padding-bottom:0px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .gifts {
+	width:353px;
+	border-bottom:#d8d8d8 1px dotted;
+	padding-left:5px;
+	padding-top:5px;
+	height:25px;
+	clear:both;
+	_padding-bottom:0px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .first {
+	padding-top:0px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .last {
+	border-bottom-style:solid;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .product-pic {
+	float:left;
+	height:60px;
+	width:80px;
+	margin:5px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .product-pic1 {
+	float:left;
+	height:60px;
+	width:0;
+	margin:5px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .product-pic img{
+	width:70px;
+	height:65px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .product-pic1 img{
+	width:0px;
+	height:0px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-pic {
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-pic a {
+	border:#d8d8d8 1px solid;
+	display:inline-block;
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-pic a:hover {
+	border:#ff0000 1px solid;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .product-info {
+	margin-left:5px;
+	width:230px;
+	padding-left:10px;
+	text-align:left;
+	float:left;
+}
+.FrontOrders_showMiniCart01-d1_c1 .list-product .product-info1 {
+	margin-left:5px;
+	width:310px;
+	padding-left:10px;
+	text-align:left;
+	float:left;
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-info .product-name {
+	line-height:36px;
+	color:#36C;
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-info .product-name a {
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-info .delete {
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-price {
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-price .price {
+	float:right;
+	margin-bottom:20px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-price .product-memo {
+	float:left;
+	width:100%;
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-total {
+	background-color:#FFF;
+	width:348px;
+	padding-top:5px;
+	margin-left:5px;
+	border-left:#d8d8d8 1px solid;
+	border-right:#d8d8d8 1px solid;
+	text-align:right;
+	padding-right:10px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .minicar-bottom {
+	background-image:url("../../images/orders/minicar-bottom.gif"/*tpa=http://www.lypbhg.com/images/orders/minicar-bottom.gif*/);
+	background-repeat:no-repeat;
+	background-position:left top;
+	height:4px;
+	padding-top:-5px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-operate {
+	float:right;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-operate a {
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-operate .check-out {
+	background-image:url("../../images/orders/clear.gif"/*tpa=http://www.lypbhg.com/images/orders/clear.gif*/);
+	background-repeat:no-repeat;
+	background-position:left center;
+	display:inline-block;
+	padding-left:20px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-operate .my-order {
+	background-image:url("../../images/orders/order.gif"/*tpa=http://www.lypbhg.com/images/orders/order.gif*/);
+	background-repeat:no-repeat;
+	background-position:left center;
+	display:inline-block;
+	padding-left:20px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .shopping-operate .my-favor {
+	background-image:url("../../images/orders/favor.gif"/*tpa=http://www.lypbhg.com/images/orders/favor.gif*/);
+	background-repeat:no-repeat;
+	background-position:left center;
+	display:inline-block;
+	padding-left:20px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .user-operate {
+	margin-top:10px;
+	padding-bottom:5px;
+	display:inline-block;
+	width:100%;
+}
+.FrontOrders_showMiniCart01-d1_c1 .user-operate .clear-car {
+	background-image:url("../../images/orders/close-icon.gif"/*tpa=http://www.lypbhg.com/images/orders/close-icon.gif*/);
+	background-repeat:no-repeat;
+	background-position:left center;
+	display:inline-block;
+	text-align:left;
+	padding-left:20px;
+	float:left;
+	margin-left:5px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .user-operate .check-out {
+	float:right;
+	margin-right:10px;
+}
+/** 迷你购物车弹出浮动层 结束 **/
+
+/** 浮出层 结束 **/
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-gb {
+	text-align:left;
+	width:351px;
+	line-height:25px;
+	display:none;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-gb .popup-product {
+	background-image:url("../../images/orders/ok.gif"/*tpa=http://www.lypbhg.com/images/orders/ok.gif*/);
+	background-repeat:no-repeat;
+	background-position:left 2px;
+	display: inline-block;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-gb .close {
+	display:inline-block;
+	float:right;
+	margin-top:-7px;
+	top: 10px;
+	right: 5px;
+	position: absolute;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-gb .close a {
+	background-image:url("../../images/orders/close1.gif"/*tpa=http://www.lypbhg.com/images/orders/close1.gif*/);
+	background-repeat:no-repeat;
+	background-position:center center;
+	display:inline-block;
+	width:24px;
+	height:24px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-gb .close a:hover {
+	background-image:url("../../images/orders/close1-hover.gif"/*tpa=http://www.lypbhg.com/images/orders/close1-hover.gif*/);
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-top {
+	background-image:url("../../images/orders/popup-frame-gb.gif"/*tpa=http://www.lypbhg.com/images/orders/popup-frame-gb.gif*/);
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-color: #F2F2F2;
+	padding-top: 6px;
+	position: relative;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-con {
+	background-image: url("../../images/orders/popup_frame_gb3.gif"/*tpa=http://www.lypbhg.com/images/orders/popup_frame_gb3.gif*/);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #F2F2F2;
+	border-right: #C9C9C9 1px solid;
+	border-left: #C9C9C9 1px solid;
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-right: 5px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-bottom {
+	background-image: url("../../images/orders/popup-frame-gb2.gif"/*tpa=http://www.lypbhg.com/images/orders/popup-frame-gb2.gif*/);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	height: 6px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .add-product {
+	padding-left:20px;
+	color:#0066cc;
+}
+.FrontOrders_showMiniCart01-d1_c1 .add-product-car {
+	color: #000;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-total {
+	margin-left:20px;
+	margin-top:3px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-operate {
+	margin-left:20px;
+	margin-top:7px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-operate a {
+	margin-right:5px;
+	color:#0066cc;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-number {
+	color: #F00;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-price {
+	color: #F00;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-frame-gb .shopping {
+	background-image:url("../../images/orders/cart.gif"/*tpa=http://www.lypbhg.com/images/orders/cart.gif*/);
+	background-repeat:no-repeat;
+	background-position:left center;
+	display:inline-block;
+	padding-left:35px;
+}
+/** 浮出层 结束 **/
+
+/** 隐藏式迷你购物车 开始 **/
+
+.FrontOrders_showMiniCart01-d1_c1 .popup-onec {
+	background-image:url("../../images/orders/product-popup-onec-gb.gif"/*tpa=http://www.lypbhg.com/images/orders/product-popup-onec-gb.gif*/);
+	background-repeat:no-repeat;
+	background-position:left top;
+	width:241px;
+	padding-top:16px;
+	text-align:center;
+	line-height:25px;
+	display:none;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-onec-bottom {
+	background-image: url("../../images/orders/product-popup-onec-gb.gif"/*tpa=http://www.lypbhg.com/images/orders/product-popup-onec-gb.gif*/);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	padding-bottom: 15px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .popup-onec-content {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #CACCCB;
+	border-left-color: #CACCCB;
+	background-color: #FFF;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.FrontOrders_showMiniCart01-d1_c1 .product-onec-name {
+	background-image:url("../../images/orders/ok.gif"/*tpa=http://www.lypbhg.com/images/orders/ok.gif*/);
+	background-repeat:no-repeat;
+	background-position:left top;
+	padding-left:20px;
+	display:inline-block;
+	color:#0066cc;
+	text-align: left;
+}
+/** 隐藏式迷你购物车 结束 **/
+.FrontOrders_showMiniCart01-d1_c1 .product-onec-car {
+	color: #000;
+}
+.FrontOrders_showMiniCart01-d1_c1 .red-font{
+	color:#f00;
+	font-weight:bold;
+}
+
+
+
+

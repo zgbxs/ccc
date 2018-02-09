@@ -1,0 +1,583 @@
+@charset "utf-8";
+/** 全局样式 **/
+
+.FrontProducts_list01_view3-d1_c1 {
+	width:98%;
+	margin:0 auto;
+	clear:both;
+	height:100%;
+	overflow:hidden;
+	text-align:left;
+}
+.FrontProducts_list01_view3-d1_c1 ul {
+	width:100%;
+}
+/** 重点文字 **/
+
+.FrontProducts_list01_view3-d1_c1 .focustext {
+	color:#f39800;
+	font-style:normal;
+}
+/** 选择浏览方式、排序方式样式 **/
+
+.FrontProducts_list01_view3-d1_c1 .type {
+	width:100%;
+	overflow:hidden;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.skim {
+	float:left;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort {
+	float:right;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort select {
+	float:left;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort .ph {
+	float:left;
+	width:19px;
+	height:12px;
+	margin:5px 4px 0 0;
+	text-indent:-9999px;
+	overflow:hidden;
+	background:url("../../images/products/icon-07.gif"/*tpa=http://www.lypbhg.com/images/products/icon-07.gif*/) 0 0 no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort .ph1:hover {
+	background:url("../../images/products/icon-07.gif"/*tpa=http://www.lypbhg.com/images/products/icon-07.gif*/) 0 -12px no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort .ph2 {
+	background:url("../../images/products/icon-08.gif"/*tpa=http://www.lypbhg.com/images/products/icon-08.gif*/) 0 0 no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort .ph2:hover {
+	background:url("../../images/products/icon-08.gif"/*tpa=http://www.lypbhg.com/images/products/icon-08.gif*/) 0 -12px no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort .ph3 {
+	width:13px;
+	height:13px;
+	background:url("../../images/products/icon-09.gif"/*tpa=http://www.lypbhg.com/images/products/icon-09.gif*/) 0 0 no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort .ph3:hover {
+	background:url("../../images/products/icon-09.gif"/*tpa=http://www.lypbhg.com/images/products/icon-09.gif*/) 0 -14px no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort .ph4 {
+	width:13px;
+	height:13px;
+	background:url("../../images/products/icon-10.gif"/*tpa=http://www.lypbhg.com/images/products/icon-10.gif*/) 0 0 no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.sort .ph4:hover {
+	background:url("../../images/products/icon-10.gif"/*tpa=http://www.lypbhg.com/images/products/icon-10.gif*/) 0 -14px no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.skim a {
+	padding-right:5px;
+}
+.FrontProducts_list01_view3-d1_c1 .type span.skim a img {
+	border:0;
+	vertical-align:middle;
+}
+.FrontProducts_list01_view3-d1_c1 .content {
+	float:left;
+	overflow:hidden;
+	margin-top:5px;
+}
+/** 属性部分 **/
+
+
+/** 尺寸 链接 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.text {
+	clear:both;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.text em {
+	background:url("../../images/products/size_bg.gif"/*tpa=http://www.lypbhg.com/images/products/size_bg.gif*/) left top repeat-x;
+	height:13px;
+	border:1px solid #adb9c2;
+	padding:0 3px;
+	margin:0;
+	font-style:normal;
+	color:#0099FF;
+	cursor: pointer;
+
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.text span {
+	margin-right:5px;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module .specifications{
+	background: #FFFFCC;
+	padding-left:10px;
+}
+/** 选择颜色 **/
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.property{
+	vertical-align:middle;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.property label {
+	padding-right:10px;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.property img {
+	width:12px;
+	height:12px;
+	padding:4px;
+	cursor: pointer;
+}
+.FrontProducts_list01_view3-d1_c1 .content .pro-module {
+	float:left;
+	width:100%;/* 注：火狐和ie8需要加宽度才能出两列的效果*/
+
+}
+/** 商品详细部分 **/
+
+.FrontProducts_list01_view3-d1_c1 .detail {
+	clear:both;
+}
+/** 图片样式 **/
+
+.FrontProducts_list01_view3-d1_c1 .pic-module {
+	float:left;
+	width:140px;
+	margin-right:5px;
+	position:relative;
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module .pic a {
+	float:left;
+	text-align:center;
+	display:block;/*border:1px solid #e6e7e7;
+
+	padding:4px;*/
+
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module .pic a:hover {
+/*border:1px solid #F60;
+
+	background:#fff4ce;*/
+
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module .pic a img {
+	width:120px;
+	height:90px;
+	border:0;
+}
+/** 特殊标记 **/
+
+.FrontProducts_list01_view3-d1_c1 .pic-module span.lab {
+	position:absolute;
+	top:75px;
+	left:10px;
+	z-index:999;
+	cursor:pointer;
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module span.lab img {
+	max-height:40px;
+	max-width:40px;
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module .compare {
+	width:100%;
+	overflow:hidden;
+	padding-top:10px;
+}
+/** 标题样式 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module h1 {
+	margin:0;
+	font-size:12px;
+	color:#0068cc;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module h1 span {
+}
+/** 属性样式 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li {
+	line-height:23px;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li span {
+	color:#999;
+	font-weight:normal;
+}
+/** 商品编码 重点文字 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.code {
+	color:#f39800;
+	font-weight:bold;
+}
+/** 品牌名称、商标 链接 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.name a {
+/* color:#0068b7;
+
+	text-decoration:none; */ 
+
+
+
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.name strong {
+	font-weight:normal;
+}
+/** 重量、浏览次数 重点文字 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.weight,  .FrontProducts_list01_view3-d1_c1 .pro-module ul li.skim {
+	color:#f39800;
+}
+/** 市场价 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.marketprice label {
+	text-decoration:line-through;
+}
+/** 会员价 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.memberprice label {
+	color:#e60012;
+	font-size:13px;
+}
+/** 积分、折扣、节省 重点文字 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.integral,  .FrontProducts_list01_view3-d1_c1 .pro-module ul li.discount,  .FrontProducts_list01_view3-d1_c1 .pro-module ul li.save {
+	padding:0 15px 0 0;
+	color:#f39800;
+}
+/** 尺寸 链接 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.size {
+	clear:both;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.size a {
+	background:url("../../images/products/size_bg.gif"/*tpa=http://www.lypbhg.com/images/products/size_bg.gif*/) left top repeat-x;
+	height:13px;
+	/* color:#0068b7;
+
+	text-decoration:none; */ 
+
+
+
+	border:1px solid #adb9c2;
+	padding:0 3px;
+	margin:0 5px 0 0;
+}
+/** 选择颜色 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.color label {
+	padding-right:10px;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.color img {
+	vertical-align:middle;
+	padding-left:2px;
+}
+/** 评论 链接 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.comment1 a {
+/* color:#0068b7;
+
+	text-decoration:none; */ 
+
+
+
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.comment2 {
+	clear:both;
+	vertical-align:middle;
+	padding-right:5px;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.comment2 img {
+	vertical-align:middle;
+	padding-right:5px;
+}
+/** 购买需填项、购买数量 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li .input {
+	border:1px solid #ddddde;
+	height:15px;
+	line-height:15px;
+	width:80px;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li .inputgray {
+	color:#000;
+	font-size:12px;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.number span {
+	padding-left:12px;
+}
+/** 缺货 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module ul li.outstock img {
+	vertical-align:middle;
+}
+/** 按钮 **/
+
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP {
+	clear:both;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP .btna {
+	margin-right:3px;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP .btna span {
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span.buy a,  .FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span.price a {
+	color:#fff;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span.favor a,  .FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span.qq a {
+	color:#727171;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span a:hover {
+	text-decoration:none;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span.buy,  .FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span.price {
+	float:left;
+	background:url("../../images/products/btn-blue1-02.gif"/*tpa=http://www.lypbhg.com/images/products/btn-blue1-02.gif*/) left top no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span.favor {
+	float:left;
+	background:url("../../images/products/btn-gray1-02.gif"/*tpa=http://www.lypbhg.com/images/products/btn-gray1-02.gif*/) left top no-repeat;
+	color:#727171;
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module p.buttonP span.qq {
+	background:url("../../images/products/btn-gray1-03.gif"/*tpa=http://www.lypbhg.com/images/products/btn-gray1-03.gif*/) left top no-repeat;
+	width:51px;
+	color:#727171;
+}
+/** 商品描述 **/
+
+.FrontProducts_list01_view3-d1_c1 .describe {
+	color:#666464;
+}
+.FrontProducts_list01_view3-d1_c1 .describe span {
+	font-weight:bold;
+}
+/** 营销类型、关键词、下载 链接 **/
+
+.FrontProducts_list01_view3-d1_c1 .other {
+	margin:10px 0 0 0;
+}
+.FrontProducts_list01_view3-d1_c1 .other p {
+	margin:0;
+	height:20px;
+	color:#666464;
+}
+.FrontProducts_list01_view3-d1_c1 .other p a {
+/* color:#0068b7;
+
+	text-decoration:none; */ 
+
+
+
+}
+/** 翻页 **/
+
+.FrontProducts_list01_view3-d1_c1 .skip-pages {
+	clear:both;
+	width:100%;
+	overflow:hidden;
+	text-align:right;
+	margin-top:10px;
+}
+/** 商标弹出层 **/
+
+.FrontProducts_list01_view3-d1_c1 .pop-brand {
+	position:absolute;
+	left:205px;
+	top:120px;
+	width:229px;
+	z-index:9999;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-picbig {
+	position:absolute;
+	left:120px;
+	top:160px;
+	width:229px;
+	z-index:9999;
+	border:1px solid #000;
+	padding:5px;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-picbig img {
+	width:400px;
+	height:300px;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand p.top {
+	background:url("../../images/products/pop-top.gif"/*tpa=http://www.lypbhg.com/images/products/pop-top.gif*/) left top no-repeat;
+	margin:0;
+	height:23px;
+	text-align:right;
+	padding:20px 15px 0 0;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand p.top a.close {
+	background:url("../../images/products/close.gif"/*tpa=http://www.lypbhg.com/images/products/close.gif*/) right top no-repeat;
+	width:24px;
+	height:17px;
+	display:block;
+	float:right;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand p.top a.close:hover {
+	background:url("../../images/products/close-hover.gif"/*tpa=http://www.lypbhg.com/images/products/close-hover.gif*/) right top no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro {
+	padding:5px 0;
+	background:url("../../images/products/pop-bg.gif"/*tpa=http://www.lypbhg.com/images/products/pop-bg.gif*/) left top repeat-y;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro p.pic {
+	text-align:center;
+	margin:0;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro p.pic img {
+	padding:5px;
+	width:150px;
+	height:115px;
+	/*border:1px solid #d7d7d7;*/
+
+	
+
+	_margin-bottom:1px;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro h4 {
+	font-size:12px;
+	margin:15px 0 0 15px;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro .info {
+	padding:5px 15px;
+	line-height:18px;
+	font-size:12px;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro p.address {
+	margin:10px 0 0 15px;
+	font-size:12px;
+}
+/** 链接 **/
+
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro p.address a {
+	color:#007dcc;
+	text-decoration:none;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand p.bottom {
+	background:url("../../images/products/pop-bottom.gif"/*tpa=http://www.lypbhg.com/images/products/pop-bottom.gif*/) left bottom no-repeat;
+	height:17px;
+	margin:0;
+	font-size:0;
+}
+/**关闭按钮**/
+
+.FrontProducts_list01_view3-d1_c1 .pop-picbig a.close {
+	position:absolute;
+	right:-10px;
+	top:-8px;
+	background:url("../../images/products/ad-close-01.gif"/*tpa=http://www.lypbhg.com/images/products/ad-close-01.gif*/) left top no-repeat;
+	display:block;
+	width:18px;
+	height:18px;
+}
+.FrontProducts_list01_view3-d1_c1 .pop-picbig a.close:hover {
+	background:url("../../images/products/ad-close-02.gif"/*tpa=http://www.lypbhg.com/images/products/ad-close-02.gif*/) left top no-repeat;
+}
+.FrontProducts_list01_view3-d1_c1 .mainul {
+	width:100%;
+	overflow:hidden;
+	position:relative;
+}
+
+/* -----滚动样式----------------------------------------------------------------------- */
+/* navigation */
+.FrontProducts_list01_view3-d1_c1 .scrollnavi {
+width: 200px;
+height: 20px;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollnavi a {
+width: 8px;
+height: 8px;
+float: left;
+margin: 3px;
+background: url("../../images/products/navigator.png"/*tpa=http://www.lypbhg.com/images/products/navigator.png*/) 0 0 no-repeat;
+display: block;
+font-size: 1px;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollnavi a:hover {
+background-position: 0 -8px;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollnavi a.active {
+background-position: 0 -16px;
+}
+/* buttons */
+.FrontProducts_list01_view3-d1_c1 a.scrollbrowse {
+background: url("../../images/products/hori_large.png"/*tpa=http://www.lypbhg.com/images/products/hori_large.png*/) no-repeat;
+display: block;
+clear:both;
+width: 30px;
+height: 30px;
+float: left;
+margin: 40px 10px;
+cursor: pointer;
+font-size: 1px;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollright {
+background-position: 0 -30px;
+clear: right;
+margin-right: 0px;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollright:hover {
+background-position: -30px -30px;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollright:active {
+background-position: -60px -30px;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollleft {
+margin-left: 0px;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollleft:hover {
+background-position: -30px 0;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollleft:active {
+background-position: -60px 0;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollup,.FrontProducts_list01_view3-d1_c1 a.scrolldown {
+background: url("../../images/products/vert_large.png"/*tpa=http://www.lypbhg.com/images/products/vert_large.png*/) no-repeat;
+float: none;
+margin: 10px 50px;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollup:hover {
+background-position: -30px 0;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrollup:active {
+background-position: -60px 0;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrolldown {
+background-position: 0 -30px;
+clear:both;
+float:left;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrolldown:hover {
+background-position: -30px -30px;
+}
+.FrontProducts_list01_view3-d1_c1 a.scrolldown:active {
+background-position: -60px -30px;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollable {
+position: relative;
+overflow: hidden;
+/**width: 410px;**/
+height: 240px;
+width:575px;
+float:left;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollitems {
+width: 20000px;
+position: absolute;
+clear: both;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollable_vertical {
+position: relative;
+overflow: hidden;
+width: 575px;
+height: 240px;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollable_vertical .scrollitems {
+height: 20000px;
+position: absolute;
+clear: both;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollitems_vertical {
+height: 20000px;
+position: absolute;
+clear: both;
+}
+.FrontProducts_list01_view3-d1_c1 .content1{
+width:180px;
+}
+.FrontProducts_list01_view3-d1_c1 .scrollliner {
+
+}
+.FrontProducts_list01_view3-d1_c1 .scrollliner .scrollitems{
+
+}

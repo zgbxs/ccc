@@ -1,0 +1,137 @@
+@charset "utf-8";
+/** 全局样式n **/
+.FrontColumns_navigation01-d2_c1 {
+	width:100%;
+	margin:0 auto;
+	text-align:left;
+}
+/**1级菜单样式**/
+.FrontColumns_navigation01-d2_c1 ul.nav-first {
+	width:100%;
+	float:left;
+	background:url("../../images/columns/nav1-bg-.gif"/*tpa=http://www.lypbhg.com/images/columns/nav1-bg-.gif*/) left 0 repeat;
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li {
+	float:left;
+	white-space:nowrap;
+	padding-left:2px;
+	position:relative;
+	background:url("../../images/columns/nav1-line.gif"/*tpa=http://www.lypbhg.com/images/columns/nav1-line.gif*/) 0 0 no-repeat;
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li a {
+	float:left;
+	height:50px;
+	line-height:45px;
+	font-weight:bold;
+	padding:0px;
+	text-decoration:none;
+	color:#333333; font-size:16px; width:90px; text-align:center;
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li a:hover {
+	background:url("../../images/columns/nav-hover-04.gif"/*tpa=http://www.lypbhg.com/images/columns/nav-hover-04.gif*/) center top no-repeat;
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li a:hover span {
+/*background:url(/images/columns/nav-arrow-01.gif) 50% bottom no-repeat;*/
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li.first {
+	background:url("../../images/columns/nav1-l-eft.gif"/*tpa=http://www.lypbhg.com/images/columns/nav1-l-eft.gif*/) 0 0 no-repeat;
+	padding:0 0 0 1px;
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li.last {
+	width:1px;
+	height:35px;
+	float:right;
+	background:url("../../images/columns/nav1-rig-ht.gif"/*tpa=http://www.lypbhg.com/images/columns/nav1-rig-ht.gif*/) 0 0 no-repeat;
+}
+/**下拉层样式 **/
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle,.FrontColumns_navigation01-d2_c1 .ddsubmenustyle ul {
+	font: normal 13px Verdana;
+	float:left;
+	overflow:hidden;
+	width:90px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 0;
+	top: 0;
+	list-style-type: none;
+	background: white;
+	border-bottom-width: 0;
+	visibility: hidden;
+	z-index: 100;
+	white-space:nowrap; background:#0093e0; padding-bottom:10px;
+}
+/* ######### Drop Down ULs CSS ######### */
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li a {
+	display:block;
+	width:90px;
+	font-weight:normal;
+	text-decoration:none;
+	color:#fff;
+	padding:0px;
+	height:24px;
+	line-height:24px; text-align:center;
+	text-decoration: none;
+	background:url("../../images/columns/nav-sec1.gif"/*tpa=http://www.lypbhg.com/images/columns/nav-sec1.gif*/) 0 0 repeat-x;}
+	
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li img {
+	margin-top:4px;
+	margin-top:4px\9;
+	+margin-top:0;
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li a:hover {
+	color:#fff;
+	text-decoration:none;	
+	background:url("../../images/columns/nav-sec1.gif"/*tpa=http://www.lypbhg.com/images/columns/nav-sec1.gif*/) 0 -54px repeat-x;
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li { /*IE6 CSS hack*/
+	_width: 90px; /*width of menu (include side paddings of LI A*/
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li a:hover {}
+/* ######### Neutral CSS  ######### */
+
+.FrontColumns_navigation01-d2_c1 .downarrowpointer { /*CSS for "down" arrow image added to top menu items*/
+	padding-left: 4px;
+	border: 0;
+	_margin-top:16px;
+	display:none;
+}
+.FrontColumns_navigation01-d2_c1 .rightarrowpointer { /*CSS for "right" arrow image added to drop down menu items*/
+	position: absolute;
+	padding-top: 3px;
+	left: 100px;
+	border: 0;
+}
+.FrontColumns_navigation01-d2_c1 .ddiframeshim {
+	position: absolute;
+	z-index: 500;
+	background: transparent;
+	border-width: 0;
+	width: 0;
+	height: 0;
+	display: block;
+}
+.FrontColumns_navigation01-d2_c1 .mattblackmenu ul {
+	margin: 0;
+	padding: 0;
+	font: bold 12px Verdana;
+	list-style-type: none;
+	overflow: hidden;
+	width: 100%;
+}
+.FrontColumns_navigation01-d2_c1 .mattblackmenu li {
+	display: inline;
+	margin: 0;
+}
+.FrontColumns_navigation01-d2_c1 .mattblackmenu li a {
+	float: left;
+	display: block;
+	text-decoration: none;
+	margin: 0;
+	padding: 6px 8px; /*padding inside each tab*/
+	/*border-right: 1px solid white; right divider between tabs*/
+	color: white;
+}
+.FrontColumns_navigation01-d2_c1 .mattblackmenu a.selected {
+	background:url("../../images/columns/nav-hover-04.gif"/*tpa=http://www.lypbhg.com/images/columns/nav-hover-04.gif*/) center top no-repeat; /*background of tab with "selected" class assigned to its LI */
+}

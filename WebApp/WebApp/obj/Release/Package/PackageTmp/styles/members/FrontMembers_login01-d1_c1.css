@@ -1,0 +1,406 @@
+@charset "utf-8";
+
+/** 全局样式 **/
+
+
+
+.FrontMembers_login01-d1_c1 {
+
+	width:100% ;
+
+	/*_width:60%;*/
+
+	margin:0 auto;
+
+	clear:both;
+
+	text-align:center;
+
+}
+
+
+
+
+
+/** 链接 **/
+
+
+
+.FrontMembers_login01-d1_c1 a {
+
+	color:#0036cc;
+
+	text-decoration:none;
+
+}
+
+.FrontMembers_login01-d1_c1 a:hover {
+
+	color:#0036cc;
+
+	text-decoration:underline;
+
+}
+
+/** 重点文字 **/
+
+
+
+.FrontMembers_login01-d1_c1 .focustext {
+
+	color:#f39800;
+
+	font-style:normal;
+
+}
+
+/** 输入框 **/
+
+
+
+.FrontMembers_login01-d1_c1 .input {
+
+	width:140px;
+
+	height:18px;
+
+	font-size:12px;
+
+	color:#333;
+
+	margin-top:3px;
+
+	border:1px solid #0068b7;
+
+	
+
+}
+
+#FrontMembers_login01-001 .input {
+
+	width:120px;
+
+	height:18px;
+
+	font-size:12px;
+
+	color:#333;
+
+	margin-top:3px;
+
+	border:1px solid #0068b7;
+
+}
+
+.FrontMembers_login01-d1_c1 .input-verify {
+
+	width:55px;
+
+}
+
+
+
+/** 登录样式 **/
+
+
+
+.FrontMembers_login01-d1_c1 .before-login ul,
+
+ .FrontMembers_login01-d1_c1 .after-login ul {
+
+	padding:0;
+
+	margin:0;
+
+	list-style:none;
+
+
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login li,
+
+ .FrontMembers_login01-d1_c1 .after-login li {
+
+	padding:0;
+
+	margin:0;
+
+	overflow:hidden;
+
+	line-height:30px;
+
+	list-style:none;
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login li span {
+
+	float:left;
+
+	width:40%;
+
+	text-align:right;
+
+}
+
+#FrontMembers_login01-001 .before-login li span {
+
+	float:left;
+
+	width:25%;
+
+	text-align:right;
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login .password{
+
+	text-align:left;
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login .password a{
+
+	margin-left:41%;
+
+	*+margin-left:42%;
+
+	_margin-left:42%;
+
+}
+
+#FrontMembers_login01-001 .before-login .password a{
+
+	margin-left:25%;
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login .input-password{
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login .find-password{
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login .forgot {
+
+	margin-left:8px;
+
+}
+
+.FrontMembers_login01-d1_c1 .verify span,
+
+ .FrontMembers_login01-d1_c1 .verify img,
+
+ .FrontMembers_login01-d1_c1 .verify a,
+
+ .FrontMembers_login01-d1_c1 .verify input {
+
+	vertical-align:middle;
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login .verify .verify-pic {
+
+	margin:0 8px;
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login .btnarea {
+
+	padding:10px 0 10px 41%;
+
+	*+padding:10px 0 10px 42%;
+
+	_padding:10px 0 10px 41%;
+
+	text-align:left;
+
+	overflow:hidden;
+
+}
+
+#FrontMembers_login01-001 .before-login .btnarea {
+
+	padding:10px 0 10px 20%;
+
+	text-align:left;
+
+	overflow:hidden;
+
+}
+
+.FrontMembers_login01-d1_c1 .before-login .non-member {
+
+	width:100%;
+
+	overflow:hidden;
+
+	text-align:left;
+
+}
+
+
+
+.FrontMembers_login01-d1_c1 .before-login .non-member a{
+
+	margin-left:60px;
+
+}
+
+/** 登录后样式 **/
+
+
+
+.FrontMembers_login01-d1_c1 .after-login li {
+
+	height:22px;
+
+	line-height:22px;
+
+}
+
+.FrontMembers_login01-d1_c1 .after-login .name span,
+
+ .FrontMembers_login01-d1_c1 .after-login .nickname span {
+
+	color:#06c;
+
+	font-weight:bold;
+
+}
+
+.FrontMembers_login01-d1_c1 .after-login .level span {
+
+	color:#f60;
+
+}
+
+.FrontMembers_login01-d1_c1 .after-login .btnarea {
+
+	padding:10px 0;
+
+}
+
+.FrontMembers_login01-d1_c1 .after-login .btnarea a {
+
+	padding:0 3px;
+
+}
+
+.FrontMembers_login01-d1_c1 .after-login .btnarea a.btna {
+
+	padding:0;
+
+	margin:0;
+
+}
+
+.FrontMembers_login01-d1_c1 .after-login .btnarea a.btna span {
+
+	padding-right:10px;
+
+}
+
+/** 登录后样式 **/
+
+.FrontMembers_login01-d1_c1 .text-oper {
+
+	float:left;
+
+	margin-left:8px;
+
+}
+
+#FrontMembers_login01-001 .text-oper {
+
+	float:left;
+
+	margin-left:0px;
+
+}
+
+.FrontMembers_login01-d1_c1 .text-tip {
+
+	float:left;
+
+}
+
+.FrontMembers_login01-d1_c1 .text-tip *{
+
+	vertical-align: middle;
+
+}
+
+
+
+.FrontMembers_login01-d1_c1 .text-tip span {
+
+	height:20px;
+
+	line-height:20px;
+
+	width:auto!important;
+
+	word-break:break-all;
+
+}
+
+
+
+/** 按钮 **/
+
+.FrontMembers_login01-d1_c1 .btn {
+
+	width:51px;
+
+	height:26px;
+
+	line-height:26px;
+
+	border:0;
+
+	color:#fff;
+
+	cursor:pointer;
+
+	font-size:14px;
+
+	font-weight:bold;
+
+	text-align:center;
+
+}
+
+/** 按钮1 **/
+
+.FrontMembers_login01-d1_c1 .btn-com-01 {
+
+	background:url("../../images/members/btn-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/members/btn-blue1-01.gif*/) 0 0 no-repeat;
+
+}
+
+.FrontMembers_login01-d1_c1 .btn-com-up01 {
+
+	background:url("../../images/members/btn-blue1-02.gif"/*tpa=http://www.lypbhg.com/images/members/btn-blue1-02.gif*/) 0 0 no-repeat;
+
+}
+
+/** 按钮2 **/
+
+.FrontMembers_login01-d1_c1 .btn-unimp-01 {
+
+	background:url("../../images/members/btn-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/members/btn-blue1-01.gif*/) 0 0 no-repeat;
+
+	color:#fff;
+
+}
+
+.FrontMembers_login01-d1_c1 .btn-unimp-up01 {
+
+	background:url("../../images/members/btn-blue1-02.gif"/*tpa=http://www.lypbhg.com/images/members/btn-blue1-02.gif*/) 0 0 no-repeat;
+
+}
+

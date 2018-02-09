@@ -1,0 +1,277 @@
+@charset "utf-8";
+/** 全局样式 **/
+.FrontQuestionnaire_survey01-d1_c1 {
+	width:98%;
+	margin:0 auto;
+
+	color:#251714;
+	text-align:left;
+	clear:both;
+}
+.FrontQuestionnaire_survey01-d1_c1 .compTitle a {display:none;}
+.FrontQuestionnaire_survey01-d1_c1 p,
+.FrontQuestionnaire_survey01-d1_c1 h4 {
+	margin:0;
+	padding:0;
+	line-height:25px;
+}
+.FrontQuestionnaire_survey01-d1_c1 ul {
+	margin:0;
+}
+/** 链接 **/
+.FrontQuestionnaire_survey01-d1_c1 a {
+}
+.FrontQuestionnaire_survey01-d1_c1 a {
+	color:#06c;
+	text-decoration:none;
+}
+.FrontQuestionnaire_survey01-d1_c1 a:hover {
+	color:#06c;
+	text-decoration:none;
+}
+/** 输入框 **/
+.FrontQuestionnaire_survey01-d1_c1 .input {
+	border:1px solid #ddd;
+	height:17px;
+	line-height:17px;
+}
+#FrontQuestionnaire_survey01-002 a {
+	display:none;
+}
+#FrontQuestionnaire_survey01-002 .input {
+	border:1px solid #ddd;
+	height:17px;
+	line-height:17px;
+	width:25%;
+}
+/** 按钮 **/
+/*.FrontQuestionnaire_survey01-d1_c1 .button {
+	width:71px;
+	height:31px;
+	line-height:31px;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+	border:0;
+	cursor:pointer;
+	margin:5px 0;
+}
+.FrontQuestionnaire_survey01-d1_c1 .button-on1 {
+	background:url(/images/questionnaire/btn-blue1-01.gif) 0 0 no-repeat;
+}
+.FrontQuestionnaire_survey01-d1_c1 .button-up1 {
+	background:url(/images/questionnaire/btn-blue1-02.gif) 0 0 no-repeat;
+}*/
+/** 字体样式 **/
+.FrontQuestionnaire_survey01-d1_c1 .fontred {
+	color:#f60;
+}
+.FrontQuestionnaire_survey01-d1_c1 .fontnone {
+	float:left;
+	width:11px!important;
+	_width:8px!important;
+}
+.FrontQuestionnaire_survey01-d1_c1 .tips {
+	padding-left:10px;
+	color:#A0A0A0;
+}
+/** 调查标题 **/
+.FrontQuestionnaire_survey01-d1_c1 .title h1 {
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+}
+/** 调查时间 **/
+.FrontQuestionnaire_survey01-d1_c1 p.date {
+	text-align:right;
+}
+/** 问卷说明 **/
+.FrontQuestionnaire_survey01-d1_c1 .explain1 {
+	clear:both;
+	background:url("../../images/questionnaire/que-bg-01.gif"/*tpa=http://www.lypbhg.com/images/questionnaire/que-bg-01.gif*/) 0 -135px repeat-x;
+	margin-top:20px;
+	height:35px;
+	line-height:35px;
+	width:100%;
+}
+.FrontQuestionnaire_survey01-d1_c1 .photoul{
+	width:100%;
+}
+.FrontQuestionnaire_survey01-d1_c1 .photoul li{
+	
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+	height:auto;
+	vertical-align:top;
+}
+.FrontQuestionnaire_survey01-d1_c1 .photoul li img{
+	width:100px;
+	height:65px;
+	border:2px solid #A1B0C5;
+	padding:2px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .photoul li p{
+	padding-left:20px;
+	*padding-left:26px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .photoul li p.routep{
+	color:#f00;
+	line-height:15px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .routespan{
+	color:#f00;
+	margin-left:5px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .photoul li p.imgother{
+	padding:0;
+}
+.FrontQuestionnaire_survey01-d1_c1 .photoul li .imgother input{
+	width:60px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .checkfloat{
+	float:left;
+	margin:3px 5px 0 0;
+}
+.FrontQuestionnaire_survey01-d1_c1 .explain1 h3 {
+	float:left;
+	background:url("../../images/questionnaire/que-bg-01.gif"/*tpa=http://www.lypbhg.com/images/questionnaire/que-bg-01.gif*/) 0 -90px no-repeat;
+	padding-left:15px;
+	font-weight:normal;
+	font-size:12px;
+	margin:0;
+}
+.FrontQuestionnaire_survey01-d1_c1 .explain1 h3 em {
+	font-style:normal;
+}
+.FrontQuestionnaire_survey01-d1_c1 .explain1 span.right {
+	float:right;
+	background:url("../../images/questionnaire/que-bg-01.gif"/*tpa=http://www.lypbhg.com/images/questionnaire/que-bg-01.gif*/) 100% -180px no-repeat;
+	width:15px;
+	height:35px;
+}
+/** 问卷列表 **/
+.FrontQuestionnaire_survey01-d1_c1 ul {
+	clear:both;
+}
+.FrontQuestionnaire_survey01-d1_c1 ul li {
+	margin:0;
+}
+.FrontQuestionnaire_survey01-d1_c1 li h4 {
+	font-weight:normal;
+	font-size:12px;
+	*+margin-top:-15px;
+	_margin-top:-15px;
+}
+.FrontQuestionnaire_survey01-d1_c1 p.explain2 {
+	color:#a0a0a0;
+}
+/** 填写个人信息 **/
+.FrontQuestionnaire_survey01-d1_c1 .info {
+	clear:both;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info .infotitle {
+	clear:both;
+	background:url("../../images/questionnaire/que-bg-01.gif"/*tpa=http://www.lypbhg.com/images/questionnaire/que-bg-01.gif*/) 0 -30px repeat-x;
+	margin-top:20px;
+	height:20px;
+	line-height:20px;
+	display:none;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info .infotitle h3 {
+	float:left;
+	background:url("../../images/questionnaire/que-bg-01.gif"/*tpa=http://www.lypbhg.com/images/questionnaire/que-bg-01.gif*/) 0 0 no-repeat;
+	padding-left:15px;
+	font-size:12px;
+	margin:0;
+	height:20px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info .infotitle h3 span {
+	padding-left:15px;
+	background:url("../../images/questionnaire/que-icon-01.gif"/*tpa=http://www.lypbhg.com/images/questionnaire/que-icon-01.gif*/);
+	background-position: 2px 3px;
+	background-position: 2px 6px\9; /* IE8 */
+ *background-position: 2px 3px; /* IE7 */
+	_background-position: 2px 4px; /* IE6 */
+	background-repeat: no-repeat;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info a {
+	display:inline;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info .infotitle span.right {
+	float:right;
+	background:url("../../images/questionnaire/que-bg-01.gif"/*tpa=http://www.lypbhg.com/images/questionnaire/que-bg-01.gif*/) 100% -60px no-repeat;
+	width:15px;
+	height:20px;
+}
+/** 填写个人信息 表格 **/
+.FrontQuestionnaire_survey01-d1_c1 .info .infotitle box {
+	display:none;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info table {
+	margin:0;
+	margin-top:5px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info table th,
+.FrontQuestionnaire_survey01-d1_c1 .info table td {
+	height:27px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info table th {
+	text-align:right;
+	font-weight:normal;
+}
+.FrontQuestionnaire_survey01-d1_c1 .info table td {
+
+}
+#FrontQuestionnaire_survey01-002 .info table tr.button-position {
+	margin-top:5px;
+	display:block;
+}
+.FrontQuestionnaire_survey01-d1_c1 .button-position td {
+}
+/**提示信息**/
+.FrontQuestionnaire_survey01-d1_c1 .alert {
+	padding:20px 0;
+}
+.FrontQuestionnaire_survey01-d1_c1 .alert p {
+	text-align:center;
+	line-height:30px;
+	font-size:14px;
+	font-weight:bold;
+}
+.FrontQuestionnaire_survey01-d1_c1 .alert p img {
+	vertical-align:middle;
+}
+/* 新增修复样式 */
+.text-tip {
+	margin:0 0 0 10px;
+	word-break:break-all;
+}
+.button-position td a {
+	margin-top:5px;
+}
+.FrontQuestionnaire_survey01-d1_c1 table.tablestyle {
+	width:auto;
+}
+/*其他的效果*/
+.FrontQuestionnaire_survey01-d1_c1 .other{
+	display:inline-block;
+}
+/**表单元素样式**/
+.FrontQuestionnaire_survey01-d1_c1  p.select select,.FrontQuestionnaire_survey01-d1_c1 select.infoselect{
+	width:150px;
+	border:1px solid #ddd;
+}
+.FrontQuestionnaire_survey01-d1_c1 .singletxt input{
+	width:350px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .litextarea textarea,.FrontQuestionnaire_survey01-d1_c1 .infomulti{
+	width:350px;
+	height:100px;
+	font-size:12px;
+}
+.FrontQuestionnaire_survey01-d1_c1 .tipmuti{
+	position:relative;
+	top:85px;
+}
+

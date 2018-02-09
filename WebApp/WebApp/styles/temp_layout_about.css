@@ -1,0 +1,103 @@
+@charset "utf-8";
+#box_root{
+   text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+#box_header{   width: 100%;}
+#box_banner{   width: 100%;    float: none;}
+#box_header_top{background-image:url("../images/a/bg_dh.jpg"/*tpa=http://www.lypbhg.com/images/a/bg_dh.jpg*/);background-position:right top;background-repeat:no-repeat;clear:both;float:none;width:1040px; overflow:hidden; margin:auto;}
+
+#box_logo{float:left;width:380px;}
+#box_seach{float:right;margin-top:45px;width:650px;}
+#box_main{
+   background-color: #ffffff;
+    width: 1020px;
+    background-repeat: repeat-x;
+    background-position: center top;
+    float: none;
+    clear: both;
+    padding-top: 30px; margin-bottom:30px;
+}
+#box_left{display:inline;float:left;margin-left:0px;width:216px;}
+#box_left .columnSpace{
+}
+#box_new_list{
+   width: 19%;
+    float: left;
+}
+#adv_picture{
+   margin: 0px 10px;
+    width: 51%;
+    float: left;
+}
+#box_new_products{
+   width: 27%;
+    float: right;
+}
+#box_productsBrandCategory{
+   text-align: left;
+    width: 70%;
+    float: left;
+}
+#box_Products_ranking{
+   width: 27%;
+    float: right;
+    margin-left: 20px;
+}
+#box_adBanner{
+   clear: both;
+}
+#box_questionnaire_survey{
+   width: 19%;
+    float: left;
+}
+#box_questionnaire_survey #box_ad1{
+   width: 100%;
+    height: 60px;
+}
+#box_Products_list{
+   margin: 0px 10px;
+    width: 51%;
+    float: left;
+}
+#box_news_ranking{
+   text-align: left;
+    width: 27%;
+    float: right;
+}
+#box_productsBrand_list{
+   width: 100%;
+    clear: both;
+}
+#box_adv_text{
+   width: 100%;
+    clear: both;
+}
+#box_adv_picture{
+   width: 100%;
+    clear: both;
+}
+#box_footer{background-color:#0093dd;clear:both;float:none;margin:0px auto;width:100%;}
+#box_right{display:inline;float:right;margin-right:0px;width:770px;  background-image: url("../images/a/title_bg.jpg"/*tpa=http://www.lypbhg.com/images/a/title_bg.jpg*/);    background-repeat: no-repeat;
+    background-position: center top;}
+
+
+#box_left_sub1{    width: 100%;
+}
+#box_left_sub2{   width: 100%;}
+#box_left_sub1_sub1{   width: 100%;}
+#box_left_sub1_sub2{    width: 100%;
+}
+#box_left_sub2_sub1{   width: 100%;}
+#box_left_sub2_sub2{}
+
+#box_right_sub1{
+ 
+    width: 100%;
+
+    float: none;
+}
+#box_right_sub2{
+   width: 100%;
+}

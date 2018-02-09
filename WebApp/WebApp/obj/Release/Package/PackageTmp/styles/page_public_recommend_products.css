@@ -1,0 +1,19 @@
+@charset "utf-8";
+/*************************************
+* 文件名称：page_index.css
+* 作   者：界面设计制作部
+* 创建日期：2009-7-24
+* 最后修改：name/ 第X行 / yyyy-mm-dd
+* 文件版本：UI CSS Frameworks Beta
+* 内容概要: 页面引入样式文件
+*************************************/
+
+@import url("common.css"/*tpa=http://www.lypbhg.com/styles/common.css*/);
+@import url("borders.css"/*tpa=http://www.lypbhg.com/styles/borders.css*/);
+@import url("layout_1default.css"/*tpa=http://www.lypbhg.com/styles/layout_1default.css*/);
+/*组件*/
+@import url("page_public_recommend_products_members.css"/*tpa=http://www.lypbhg.com/styles/page_public_recommend_products_members.css*/);
+@import url("page_public_recommend_products_orders.css"/*tpa=http://www.lypbhg.com/styles/page_public_recommend_products_orders.css*/);
+@import url("page_public_recommend_products_specifies.css"/*tpa=http://www.lypbhg.com/styles/page_public_recommend_products_specifies.css*/);
+@import url("page_public_recommend_products_columns.css"/*tpa=http://www.lypbhg.com/styles/page_public_recommend_products_columns.css*/);
+@import url("page_public_recommend_products_public.css"/*tpa=http://www.lypbhg.com/styles/page_public_recommend_products_public.css*/);

@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+/** 全局样式 **/
+.FrontMembersArticle_issue01-d1_c1 {
+	width:90%;
+	margin:0 auto;	
+	clear:both;
+	text-align:left;
+}
+/** 字体样式 **/
+.FrontMembersArticle_issue01-d1_c1 .fontred {
+	float:left;
+	color:#f60;
+	width:12px;
+	height:12px;
+	line-height:12px;
+	text-align:center;
+	padding:10px 3px 0 0;
+}
+.FrontMembersArticle_issue01-d1_c1 .fontnone {
+	float:left;
+	padding:0 3px 0 0;
+}
+.FrontMembersArticle_issue01-d1_c1 .fontgrey {
+	color:#9FA0A0;
+}
+/**按钮样式**/
+.FrontMembersArticle_issue01-d1_c1 .button {
+	width:71px;
+	height:31px;
+	line-height:31px;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+	border:0;
+	margin-right:6px;
+	background:url("../../images/membersarticle/btn-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/membersarticle/btn-blue1-01.gif*/) left top no-repeat;
+}
+.FrontMembersArticle_issue01-d1_c1 .button-on2 {
+	color:#999;
+	background:url("../../images/membersarticle/btn-gray1-01.gif"/*tpa=http://www.lypbhg.com/images/membersarticle/btn-gray1-01.gif*/) left top no-repeat;
+}
+.FrontMembersArticle_issue01-d1_c1 .button-up1 {
+	background:url("../../images/membersarticle/btn-blue1-02.gif"/*tpa=http://www.lypbhg.com/images/membersarticle/btn-blue1-02.gif*/) left top no-repeat;
+}
+.FrontMembersArticle_issue01-d1_c1 .button-up2 {
+	color:#0068b7;
+	background:url("../../images/membersarticle/btn-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/membersarticle/btn-blue1-03.gif*/) left top no-repeat;
+}
+
+/** 输入框 **/
+.FrontMembersArticle_issue01-d1_c1 .input {
+	width:160px;
+	height:17px;
+	line-height:17px;
+	font-size:12px;
+	color:#9FA0A0;
+	margin-top:5px;
+	border:1px solid #ddd;
+	background:#fff;
+}
+.FrontMembersArticle_issue01-d1_c1 .input2 {
+	width:260px;
+}
+/**文本域**/
+.FrontMembersArticle_issue01-d1_c1 .textarea{
+	width:300px;
+	height:150px;
+	font-size:12px;
+	border:1px solid #ddd;
+	background:#fff;
+	color:#9FA0A0;
+}
+
+/** 下拉框 **/
+.FrontMembersArticle_issue01-d1_c1 .select {
+	width:160px;
+	border:1px solid #ddd;
+	margin-top:5px;
+	background:#fff;
+}
+/**内容样式**/
+/** table样式 **/
+.FrontMembersArticle_issue01-d1_c1 table {
+	border-collapse:collapse;
+}
+.FrontMembersArticle_issue01-d1_c1 table th {
+	width:20%;
+	text-align:right;
+	font-weight:normal;
+	line-height:30px;
+}
+.FrontMembersArticle_issue01-d1_c1 table td {
+	text-align:left;
+	line-height:30px;
+}
+.FrontMembersArticle_issue01-d1_c1 table .linkarea td{
+	padding:10px 0;
+	padding-left:8px;
+}
+/**radio单选钮**/
+.FrontMembersArticle_issue01-d1_c1 .radio{
+	margin-top:4px;
+}
+/**提示信息**/
+.FrontMembersArticle_issue01-d1_c1 .alert{
+	padding:20px 0 ;
+}
+.FrontMembersArticle_issue01-d1_c1 .alert p{
+	text-align:center;
+	line-height:30px;
+	font-size:14px;
+	font-weight:bold;
+}
+.FrontMembersArticle_issue01-d1_c1 .alert p img{
+	vertical-align:middle;
+}
+.FrontMembersArticle_issue01-d1_c1 .fontnone {
+   float:left;
+   width:12px;
+   width:6px!important;
+}
+.FrontMembersArticle_issue01-d1_c1 .text-tip{
+	padding-top:7px;
+}
+.FrontMembersArticle_issue01-d1_c1 .text-tip .tip-ok{
+	height:25px;
+	line-height:25px;
+}
+.FrontMembersArticle_issue01-d1_c1 .verify-pic{
+	margin-left:8px;
+}
+
+
+
+

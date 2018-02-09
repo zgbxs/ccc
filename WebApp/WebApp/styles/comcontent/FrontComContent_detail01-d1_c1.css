@@ -1,0 +1,180 @@
+@charset "utf-8";
+.FrontComContent_detail01-d1_c1{
+   text-align: left;
+    margin: 0px auto;
+    width: 100%;
+    color: #000;
+    clear: both;
+    font-size: 12px;
+    overflow: hidden;
+}
+.FrontComContent_detail01-d1_c1 A{
+   color: #06c;
+    text-decoration: none;
+}
+.FrontComContent_detail01-d1_c1 A:hover{
+   color: #06c;
+    text-decoration: underline;
+}
+.FrontComContent_detail01-d1_c1 .title{
+   margin-bottom: 30px;
+}
+.FrontComContent_detail01-d1_c1 .title H3{
+   text-align: left;
+    padding-bottom: 0px;
+    line-height: 40px;
+    margin: 0px;
+    padding-left: 0px;
+    width: 60%;
+    padding-right: 0px;
+    font-size: 16px;
+    overflow: hidden;
+    word-break: break-all;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.FrontComContent_detail01-d1_c1 H2{
+   padding-bottom: 0px;
+    line-height: 40px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 0px;
+}
+.FrontComContent_detail01-d1_c1 H3{
+   padding-bottom: 0px;
+    line-height: 40px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 0px;
+}
+.FrontComContent_detail01-d1_c1 .title P{
+   text-align: center;
+    margin: 0px;
+    color: #9fa0a0;
+}
+.FrontComContent_detail01-d1_c1 .title P{
+   text-align: center;
+    margin: 0px;
+    color: #9fa0a0;
+}
+.FrontComContent_detail01-d1_c1 .content{
+   padding-bottom: 30px;
+    width: 100%;
+    overflow: hidden;
+    word-break: break-all;
+}
+.FrontComContent_detail01-d1_c1 .content IMG{
+}
+.FrontComContent_detail01-d1_c1 .content .describe{
+   line-height: 20px;
+}
+.FrontComContent_detail01-d1_c1 .link A{
+   margin-right: 30px;
+}
+.FrontComContent_detail01-d1_c1 .htmledit{
+   list-style: disc none outside;
+    z-index: auto;
+    border-bottom: medium none;
+    text-justify: auto;
+    text-align: left;
+    border-left: medium none;
+    text-transform: none;
+    text-indent: 0px;
+    margin: auto;
+    width: auto;
+    display: inline;
+    border-collapse: separate;
+    font: 14px/26px Times New Roman;
+    word-wrap: normal;
+    white-space: normal;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    letter-spacing: normal;
+    height: auto;
+    visibility: inherit;
+    color: #454545;
+    clear: none;
+    vertical-align: baseline;
+    overflow: visible;
+    word-break: normal;
+    border-top: medium none;
+    border-right: medium none;
+    word-spacing: normal;
+    text-decoration: none;
+    font-stretch: normal;
+}
+.FrontComContent_detail01-d1_c1 .htmledit UL{
+   padding-left: 25px;
+    width: auto;
+    display: inline-block;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    height: auto;
+}
+.FrontComContent_detail01-d1_c1 .htmledit UL LI{
+   list-style: disc none outside;
+    text-align: left;
+    line-height: normal;
+    width: auto;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    height: auto;
+}
+.FrontComContent_detail01-d1_c1 .htmledit OL{
+   padding-left: 25px;
+    width: auto;
+    display: inline-block;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    height: auto;
+}
+.FrontComContent_detail01-d1_c1 .htmledit OL LI{
+   list-style: decimal none outside;
+    text-align: left;
+    line-height: normal;
+    width: auto;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    height: auto;
+}
+.FrontComContent_detail01-d1_c1 .htmledit P{
+   line-height: 26px;
+    font-size: 14px;
+}
+.FrontComContent_detail01-d1_c1 .htmledit H1{
+   margin: 0.67em 0px;
+    font-size: 2em;
+    font-weight: bolder;
+}
+.FrontComContent_detail01-d1_c1 .htmledit H2{
+   margin: 0.83em 0px;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+.FrontComContent_detail01-d1_c1 .htmledit H3{
+   margin: 1em 0px;
+    font-size: 1.17em;
+    font-weight: bolder;
+}
+.FrontComContent_detail01-d1_c1 .htmledit H4{
+   margin: 1.33em 0px;
+    font-size: 1em;
+    font-weight: bolder;
+}
+.FrontComContent_detail01-d1_c1 .htmledit H5{
+   line-height: 1.17em;
+    margin: 1.67em 0px;
+    font-size: 0.83em;
+    font-weight: bolder;
+}
+.FrontComContent_detail01-d1_c1 .htmledit H6{
+   margin: 2.33em 0px;
+    font-size: 0.67em;
+    font-weight: bolder;
+}

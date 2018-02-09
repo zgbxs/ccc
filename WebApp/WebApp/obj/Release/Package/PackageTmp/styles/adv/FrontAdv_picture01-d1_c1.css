@@ -1,0 +1,240 @@
+@charset "utf-8";
+.FrontAdv_picture01-d1_c1 {
+	text-align: left;
+	margin: 0px auto;
+	width: 100%;
+	color: #000;
+	clear: both;
+	overflow:hidden;
+}
+.FrontAdv_picture01-d1_c1 UL {
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+.FrontAdv_picture01-d1_c1 LI {
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+.FrontAdv_picture01-d1_c1 H4 {
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+.FrontAdv_picture01-d1_c1 .content {
+	float: left;
+	height: 100%;
+	overflow: hidden;
+}
+.FrontAdv_picture01-d1_c1 UL LI {
+	float: left;
+}
+.FrontAdv_picture01-d1_c1 UL LI P A {
+	border-bottom: #ccc 1px solid;
+	border-left: #ccc 1px solid;
+	margin: 0px 3px;
+	width: 120px;
+	display: block;
+	height: 60px;
+	border-top: #ccc 1px solid;
+	border-right: #ccc 1px solid;
+}
+.FrontAdv_picture01-d1_c1 UL LI P IMG {
+	width: 120px;
+	height: 60px;
+}
+.FrontAdv_picture01-d1_c1 UL LI DIV IMG {
+	width: 120px;
+	height: 60px;
+}
+#FrontAdv_picture01-Slide UL LI DIV IMG {
+	width: 960px;
+	height: 310px;
+}
+#FrontAdv_picture01-products UL LI DIV IMG, #FrontAdv_picture01-news UL LI DIV IMG, #FrontAdv_picture01-comcontent UL LI DIV IMG, #FrontAdv_picture01-gallery UL LI DIV IMG, #FrontAdv_picture01-download UL LI DIV IMG, #FrontAdv_picture01-members UL LI DIV IMG, #FrontAdv_picture01-jobs UL LI DIV IMG {
+	width: 960px;
+	height: 200px;
+}
+.FrontAdv_picture01-d1_c1 EMBED {
+	width: 120px;
+	height: 60px;
+}
+.FrontAdv_picture01-d1_c1 UL LI P A:hover {
+	border-bottom: #0666cc 1px solid;
+	border-left: #0666cc 1px solid;
+	border-top: #0666cc 1px solid;
+	border-right: #0666cc 1px solid;
+}
+.FrontAdv_picture01-d1_c1 UL LI H4 {
+	margin-top: 5px;
+}
+#FrontAdv_picture01-Slide UL LI H4 {
+	display:none;
+}
+.FrontAdv_picture01-d1_c1 UL LI H4 A {
+	color: #000;
+	font-size: 12px;
+	text-decoration: none;
+}
+.FrontAdv_picture01-d1_c1 UL LI H4 A:hover {
+	color: #000;
+	font-size: 12px;
+	text-decoration: underline;
+}
+.FrontAdv_picture01-d1_c1 .skip-pages {
+	text-align: right;
+	margin-top: 20px;
+}
+.FrontAdv_picture01-d1_c1 .skip-more {
+	text-align: right;
+	margin-top: 10px;
+}
+.FrontAdv_picture01-d1_c1 .skip-more A {
+	color: #0066cc;
+	text-decoration: none;
+}
+.FrontAdv_picture01-d1_c1 .skip-more A:hover {
+	color: #0066cc;
+	text-decoration: underline;
+}
+/* -----滚动样式----------------------------------------------------------------------- */
+	/* navigation */
+.FrontAdv_picture01-d1_c1 .scrollnavi {
+	width: 200px;
+	height: 20px;
+}
+
+.FrontAdv_picture01-d1_c1 .scrollnavi a {
+	width: 8px;
+	height: 8px;
+	float: left;
+	margin: 3px;
+	background: url("../../images/adv/navigator.png"/*tpa=http://www.lypbhg.com/images/adv/navigator.png*/) 0 0 no-repeat;
+	display: block;
+	font-size: 1px;
+}
+
+.FrontAdv_picture01-d1_c1 .scrollnavi a:hover {
+	background-position: 0 -8px;
+}
+
+.FrontAdv_picture01-d1_c1 .scrollnavi a.active {
+	background-position: 0 -16px;
+}
+
+/* buttons */
+.FrontAdv_picture01-d1_c1 a.scrollbrowse {
+	background: url("../../images/adv/hori_large.png"/*tpa=http://www.lypbhg.com/images/adv/hori_large.png*/) no-repeat;
+	display: block;
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin: 40px 10px;
+	cursor: pointer;
+	font-size: 1px;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollright {
+	background-position: 0 -30px;
+	clear: right;
+	margin-right: 0px;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollright:hover {
+	background-position: -30px -30px;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollright:active {
+	background-position: -60px -30px;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollleft {
+	margin-left: 0px;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollleft:hover {
+	background-position: -30px 0;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollleft:active {
+	background-position: -60px 0;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollup,.FrontAdv_picture01-d1_c1 a.scrolldown {
+	background: url("../../images/adv/vert_large.png"/*tpa=http://www.lypbhg.com/images/adv/vert_large.png*/) no-repeat;
+	float: none;
+	margin: 10px 50px;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollup:hover {
+	background-position: -30px 0;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrollup:active {
+	background-position: -60px 0;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrolldown {
+	background-position: 0 -30px;
+	clear:both;
+	float:left;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrolldown:hover {
+	background-position: -30px -30px;
+}
+
+.FrontAdv_picture01-d1_c1 a.scrolldown:active {
+	background-position: -60px -30px;
+}
+
+.FrontAdv_picture01-d1_c1 .scrollable {
+	position: relative;
+	overflow: hidden;
+	/**width: 410px;**/
+	height: 60px;
+	width: 840px;
+	float:left;
+}
+
+.FrontAdv_picture01-d1_c1 .scrollitems {
+	width: 20000px;
+	position: absolute;
+	clear: both;
+}
+
+.FrontAdv_picture01-d1_c1 .scrollable_vertical {
+	position: relative;
+	overflow: hidden;
+	width: 840px;
+	height: 60px;
+}
+
+.FrontAdv_picture01-d1_c1 .scrollitems_vertical {
+	height: 20000px;
+	position: absolute;
+	clear: both;
+}
+
+.FrontAdv_picture01-d1_c1 .content1{
+	width:150px;
+}
+
+.FrontAdv_picture01-d1_c1 .scrollliner {
+	position:Static;
+}
+.FrontAdv_picture01-d1_c1 .scrollliner .scrollitems{
+	position:Static;
+}
+
+
+
+
+

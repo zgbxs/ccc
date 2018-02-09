@@ -1,0 +1,289 @@
+@charset "utf-8";
+
+/** 全局样式 **/
+.FrontPublic_recommendToFriend01-d1_c1 {
+	width:960px;
+	margin:0 auto;
+	
+	clear:both;
+	height:100%;
+	text-align:left;
+}
+/** 链接 **/
+.FrontPublic_recommendToFriend01-d1_c1 a:link,
+.FrontPublic_recommendToFriend01-d1_c1 a:visited {
+	color:#06c;
+	text-decoration:underline;
+}
+.FrontPublic_recommendToFriend01-d1_c1 a:hover {
+	color:#06c;
+	text-decoration:none;
+}
+.FrontPublic_recommendToFriend01-d1_c1 a:active {
+	color:#06c;
+	text-decoration:underline;
+}
+/** 重点文字及颜色 **/
+.FrontPublic_recommendToFriend01-d1_c1 .tips {
+	padding-left:5px;
+	color:#A0A0A0;
+}
+/** 输入框 **/
+.FrontPublic_recommendToFriend01-d1_c1 .input {
+	float:left;
+	height:17px;
+	border:1px solid #ddd;
+	color:#9fa0a0;
+	vertical-align:middle;
+	font-size:12px;
+	margin-top:2px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .input-width1 {
+	width:150px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .textarea {
+	width:200px;
+	height:60px;
+	border:1px solid #ddd;
+	
+	color:#9fa0a0;
+	vertical-align:middle;
+	font-size:12px;
+}
+/*.FrontPublic_recommendToFriend01-d1_c1 .button {
+	width:71px;
+	height:31px;
+	line-height:31px;
+	border:0;
+	font-weight:bold;
+	text-align:center;
+	font-size:14px;
+	color:#fff;
+}*/
+/*.FrontPublic_recommendToFriend01-d1_c1 .button-on1 {
+	background:url(/images/public/btn-blue1-03.gif) left top no-repeat;
+}*/
+/*.FrontPublic_recommendToFriend01-d1_c1 .button-up1 {
+	background:url(/images/public/btn-blue1-04.gif) left top no-repeat;
+}*/
+/*.FrontPublic_recommendToFriend01-d1_c1 .button-on2 {
+	background:url(/images/public/btn-gray1-01.gif) left top no-repeat;
+	color:#898989;
+}*/
+/*.FrontPublic_recommendToFriend01-d1_c1 .button-up2 {
+	background:url(/images/public/btn-blue1-05.gif) left top no-repeat;
+	color:#0068b7;
+}*/
+
+/** 头部 **/
+.FrontPublic_recommendToFriend01-d1_c1 .border-topr {
+	background:url("../../images/public/pop-top-right.gif"/*tpa=http://www.lypbhg.com/images/public/pop-top-right.gif*/) right top no-repeat;
+	height:30px;
+	line-height:30px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .border-topl {
+	background:url("../../images/public/pop-top-left.gif"/*tpa=http://www.lypbhg.com/images/public/pop-top-left.gif*/) left top no-repeat;
+	height:30px;
+	line-height:30px;
+}
+/** 中部 **/
+.FrontPublic_recommendToFriend01-d1_c1 .border-midr {
+	background:url("../../images/public/pop-mid-right.gif"/*tpa=http://www.lypbhg.com/images/public/pop-mid-right.gif*/) right top repeat-y;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .border-midl {
+	background:url("../../images/public/pop-mid-left.gif"/*tpa=http://www.lypbhg.com/images/public/pop-mid-left.gif*/) left top repeat-y;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .con-module {
+	padding:10px 20px 10px 40px;
+	height:100%;
+	overflow:hidden;
+}
+/** 底部 **/
+.FrontPublic_recommendToFriend01-d1_c1 .border-footerr {
+	background:url("../../images/public/pop-bottom-right.gif"/*tpa=http://www.lypbhg.com/images/public/pop-bottom-right.gif*/) right bottom no-repeat;
+	height:15px;
+	font-size:0;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .border-footerl {
+	background:url("../../images/public/pop-bottom-left.gif"/*tpa=http://www.lypbhg.com/images/public/pop-bottom-left.gif*/) left bottom no-repeat;
+	height:15px;
+	font-size:0;
+}
+/** 标题 **/
+.FrontPublic_recommendToFriend01-d1_c1 h3 {
+	clear:both;
+	height:30px;
+	line-height:30px;
+	font-size:12px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 h3 span.title {
+	float:left;
+	font-size:12px;
+	padding:0 0 0 15px;
+	text-align:left;
+	font-weight:bold;
+} 
+.FrontPublic_recommendToFriend01-d1_c1 h3 span.link {
+	float:right;
+	margin:8px 20px 0 0;
+} 
+.FrontPublic_recommendToFriend01-d1_c1 h3 span.link a {
+	padding:0 3px;
+}
+/** 标题 关闭 **/
+.FrontPublic_recommendToFriend01-d1_c1 a.close {
+	float:left;
+	background:url("../../images/public/public-close1.gif"/*tpa=http://www.lypbhg.com/images/public/public-close1.gif*/) right top no-repeat;
+	width:24px;
+	height:17px;
+	display:block;
+}
+.FrontPublic_recommendToFriend01-d1_c1 a.close:hover {
+	background:url("../../images/public/public-close2.gif"/*tpa=http://www.lypbhg.com/images/public/public-close2.gif*/) right top no-repeat;
+}
+/** 标题 最小化 **/
+.FrontPublic_recommendToFriend01-d1_c1 a.mini {
+	float:left;
+	background:url("../../images/public/public-mini1.gif"/*tpa=http://www.lypbhg.com/images/public/public-mini1.gif*/) right top no-repeat;
+	width:24px;
+	height:17px;
+	display:block;
+}
+.FrontPublic_recommendToFriend01-d1_c1 a.mini:hover {
+	background:url("../../images/public/public-mini2.gif"/*tpa=http://www.lypbhg.com/images/public/public-mini2.gif*/) right top no-repeat;
+}
+.FrontPublic_recommendToFriend01-d1_c1 h4 {
+	font-size:12px;
+	padding-bottom:10px;
+}
+/** 推荐成功前 **/
+.FrontPublic_recommendToFriend01-d1_c1 .commend-before {
+	clear:both;
+	margin:10px 0;
+}
+/** 推荐成功后 **/
+.FrontPublic_recommendToFriend01-d1_c1 .commend-after {
+	clear:both;
+	margin:10px 0;
+}
+/** 图片部分 **/
+.FrontPublic_recommendToFriend01-d1_c1 .message {
+	clear:both;
+	float:left;
+	width:100%;
+	padding:10px 0;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .message-news,
+.FrontPublic_recommendToFriend01-d1_c1 .message-member {
+	height:20px;
+}
+/** 图片部分 左侧 **/
+.FrontPublic_recommendToFriend01-d1_c1 .pic {
+	float:left;
+	width:66px;
+	height:48px;
+	text-align:center;
+	margin:0;
+	display:block;
+	border:1px solid #e6e7e7;
+	padding-top:3px;
+	margin-right:10px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .pic img {
+	width:60px;
+	height:45px;
+}
+
+.FrontPublic_recommendToFriend01-d1_c1 .pic a img {
+	width:60px;
+	height:45px;
+	border:0;
+}
+/** 图片部分 右侧 **/
+.FrontPublic_recommendToFriend01-d1_c1 .info {
+	float:left;
+	line-height:18px;
+	margin-top:10px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .info h4 {
+	padding:0;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .info p label {
+	color:#e60012;
+	font-size:14px;
+}
+/** 表单 **/
+.FrontPublic_recommendToFriend01-d1_c1 ul.form {
+	width:100%;
+	clear:both;
+	padding:10px 0;
+	overflow:hidden;
+}
+.FrontPublic_recommendToFriend01-d1_c1 ul.form li {
+	_height:28px;
+	min-height:28px;
+	clear:both;
+}
+.FrontPublic_recommendToFriend01-d1_c1 ul.form li.message {
+	height:90px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 ul.form li span {
+	float:left;
+	display:block;
+	text-align:right;
+	width:60px;
+	margin-top:3px;
+	_height:14px;
+	min-height:14px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 ul.form li span.tips {
+	float:none;
+	display:inline;
+}
+/** 发送成功后 **/
+.FrontPublic_recommendToFriend01-d1_c1 .commend-after {
+	text-align:center;
+	margin:20px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .commend-after p {
+	line-height:30px;
+}
+/** 成功 **/
+.FrontPublic_recommendToFriend01-d1_c1 .commend-after p.sucess {
+	background:url("../../images/public/public-ok.gif"/*tpa=http://www.lypbhg.com/images/public/public-ok.gif*/) 30% top no-repeat;
+	padding:3px 0 0 50px;
+	font-weight:bold;
+}
+/** 感谢 **/
+.FrontPublic_recommendToFriend01-d1_c1 .commend-after p.thank {
+	margin-bottom:20px;
+}
+/** 返回、发送 **/
+.FrontPublic_recommendToFriend01-d1_c1 .commend-after p.back,
+.FrontPublic_recommendToFriend01-d1_c1 .commend-after p.send {
+	text-align:right;
+	line-height:18px;
+ }
+/** 通用按钮 **/
+.FrontPublic_recommendToFriend01-d1_c1 ul.form li .btna span {
+	width:auto;
+	margin:0;
+}
+/**提示信息**/
+
+.FrontPublic_recommendToFriend01-d1_c1 .text-tip {
+	float:left;
+	clear:both;
+	width:350px;
+	height:25px;
+	padding-left:60px;
+	padding-left:68px\9;
+	*padding-left:68px;
+	_padding-left:60px;
+}
+.FrontPublic_recommendToFriend01-d1_c1 .message .text-tip {
+}
+.FrontPublic_recommendToFriend01-d1_c1 .text-tip .tip-default {
+	text-align:left;
+}
+

@@ -1,0 +1,236 @@
+@charset "utf-8";
+/** 全局样式 **/
+
+.FrontMembers_register01-d1_c1 {
+	width:100%;
+	clear:both;
+	overflow:hidden;
+	text-align:left;
+	display:inline-block;
+}
+/** 链接 **/
+
+.FrontMembers_register01-d1_c1 a {
+	color:#0036cc;
+	text-decoration:none;
+}
+.FrontMembers_register01-d1_c1 a:hover {
+	color:#0036cc;
+	text-decoration:underline;
+}
+/** 重点文字 **/
+
+.FrontMembers_register01-d1_c1 .focustext {
+	color:#f39800;
+	font-style:normal;
+}
+/** 颜色 **/
+
+.FrontMembers_register01-d1_c1 .fontgrey {
+	color:#999;
+}
+.FrontMembers_register01-d1_c1 .fontred {
+	color:#f60;
+}
+.FrontMembers_register01-d1_c1 .fontred {
+	color:#f60;
+}
+.FrontMembers_register01-d1_c1 .fontnone {
+	float:left;
+	width:8px!important;
+}
+/** 输入框 **/
+
+.FrontMembers_register01-d1_c1 .input {
+	/*float:left;*/
+	width:140px;
+	height:18px;
+	line-height:18px;
+	border:1px solid #0068b7;
+	vertical-align:middle;/* modify */
+}
+.FrontMembers_register01-d1_c1 .input-verify {
+	width:55px;
+}
+.FrontMembers_register01-d1_c1 .textarea {
+	width:55px;
+}
+/** 复选框 **/
+
+.FrontMembers_register01-d1_c1 .checkbox {
+	padding:0;
+	margin:0 3px 0 0!important;
+	margin:5px 0 0 -6px;
+}
+/** 文本区域 **/
+
+.FrontMembers_register01-d1_c1 .textarea {
+	font-size:12px;
+	width:410px;
+	height:90px;
+}
+/** 内容样式 **/
+
+.FrontMembers_register01-d1_c1 ul {
+	padding:0;
+	margin:0;
+	list-style:none;
+	width:100%;
+	overflow:hidden;
+}
+.FrontMembers_register01-d1_c1 ul li {
+	float:left;
+	width:100%;
+	line-height:25px;
+	padding-top:10px;
+}
+.FrontMembers_register01-d1_c1 ul li span {
+	float:left;
+	width:80px;
+	text-align:right;
+}
+/** 必填项 **/
+
+.FrontMembers_register01-d1_c1 li .fontredstar {
+	float:left;
+	color:#f60;
+	padding:0px 2px 0 0;
+	text-transform: none;
+	font-style: normal;
+}
+.FrontMembers_register01-d1_c1 li .fontstar {
+	float:left;
+	color:#f60;
+	visibility:hidden;
+	padding:0;
+	text-transform: none;
+	font-style: normal;
+}
+/** 各个数据样式 **/
+.FrontMembers_register01-d1_c1 ul li .text-oper {
+	margin:0;
+	padding:0;
+}
+.FrontMembers_register01-d1_c1 ul li .text-tip {
+	line-height:20px;
+}
+.FrontMembers_register01-d1_c1 .required {
+	color:#999;
+	text-align:right;
+	padding:10px 0 25px 0;
+}
+.FrontMembers_register01-d1_c1 .account-select .fontgrey {
+	float:none;
+	width:auto;
+	text-align:left;
+}
+.FrontMembers_register01-d1_c1 .describe {
+	width:410px;
+	height:85px;
+	border-top:2px solid #000;
+	border-left:2px solid #000;
+	border-right:2px solid #b2b2b2;
+	border-bottom:2px solid #b2b2b2;
+	line-height:18px;
+	overflow:auto;
+}
+.FrontMembers_register01-d1_c1 .password .input {
+	margin-right:8px;
+}
+.FrontMembers_register01-d1_c1 .agree .text-tip {
+	width:100%;
+	float:left;
+	padding-left:85px!important;
+	padding-left:80px;
+	overflow:hidden;
+}
+.FrontMembers_register01-d1_c1 .forgot {
+	margin-left:8px;
+}
+.FrontMembers_register01-d1_c1 .verify .verify-pic {
+	margin:0 5px;
+}
+.FrontMembers_register01-d1_c1 .btnarea {
+	width:100%;
+	overflow:hidden;
+	padding:15px 0 15px 87px;
+}
+/**提示信息**/
+
+.FrontMembers_register01-d1_c1 .success {
+	width:100%;
+	overflow:hidden;
+	padding:20px 0;
+}
+.FrontMembers_register01-d1_c1 .success p {
+	text-align:center;
+	line-height:30px;
+	font-size:14px;
+	font-weight:bold;
+}
+.FrontMembers_register01-d1_c1 .success p img {
+	vertical-align:middle;
+}
+.FrontMembers_register01-d1_c1 .success a:link {
+	text-decoration:underline;
+}
+.FrontMembers_register01-d1_c1 .success a:visited {
+	text-decoration:underline;
+}
+.FrontMembers_register01-d1_c1 .success a:hover {
+	text-decoration:none;
+}
+.FrontMembers_register01-d1_c1 .success a:active {
+	text-decoration:underline;
+}
+/**进度条**/
+
+.FrontMembers_register01-d1_c1 .progressarea {
+	width:100%;
+	float:left;
+	padding-left:100px;
+}
+.FrontMembers_register01-d1_c1 .progress {
+	float:left;
+	clear:both;
+	display:inline;
+	margin-left:60px;
+	background:url("../../images/members/que-legend-bg1.gif"/*tpa=http://www.lypbhg.com/images/members/que-legend-bg1.gif*/) left top repeat-x;
+	border:1px solid #ccc;
+	height:10px;
+	line-height:0px;
+	width:100px;
+	padding:0;
+	margin:8px 4px 0 0;
+	font-size:0;
+}
+.FrontMembers_register01-d1_c1 .pro-font {
+	width:auto;
+	line-height:25px;
+}
+.FrontMembers_register01-d1_c1 .progress p {
+	background:url("../../images/members/que-legend-bg2.gif"/*tpa=http://www.lypbhg.com/images/members/que-legend-bg2.gif*/) left top repeat-x;
+	border:1px solid #BB0500;
+	height:10px;
+	margin:-1px 0 0 -1px;
+	padding:0;
+	text-align:left;
+}
+.FrontMembers_register01-d1_c1 .progress2 p {
+	float:left;
+	background:url("../../images/members/que-legend-bg4.gif"/*tpa=http://www.lypbhg.com/images/members/que-legend-bg4.gif*/) left top repeat-x;
+	border:1px solid #419B00;
+}
+.FrontMembers_register01-d1_c1 .progress3 p {
+	background:url("../../images/members/que-legend-bg3.gif"/*tpa=http://www.lypbhg.com/images/members/que-legend-bg3.gif*/) left top repeat-x;
+	border:1px solid #419B00;
+}
+.FrontMembers_register01-d1_c1 .progress p.width1 {
+	width:30%;
+}
+.FrontMembers_register01-d1_c1 .progress2 p.width1 {
+	width:60%;
+}
+.FrontMembers_register01-d1_c1 .progress3 p.width1 {
+	width:100%;
+}

@@ -1,0 +1,45 @@
+@charset "utf-8";
+/*************************************
+* 文件名称：pageidX.css
+* 作   者：界面设计制作部
+* 创建日期：2012-6-1
+* 最后修改：name/ 第X行 / yyyy-mm-dd
+* 文件版本：UI CSS Frameworks Beta
+* 内容概要: 页面引入样式文件
+*************************************/
+@import url("common.css"/*tpa=http://www.lypbhg.com/styles/common.css*/);
+@import url("borders.css"/*tpa=http://www.lypbhg.com/styles/borders.css*/);
+@import url("content_index.css"/*tpa=http://www.lypbhg.com/styles/content_index.css*/);
+
+
+
+
+@import url("layout_index.css"/*tpa=http://www.lypbhg.com/styles/layout_index.css*/);
+
+@import url("page_index_specifies.css"/*tpa=http://www.lypbhg.com/styles/page_index_specifies.css*/);
+
+
+@import url("page_index_public.css"/*tpa=http://www.lypbhg.com/styles/page_index_public.css*/);
+
+
+
+
+
+
+
+@import url("page_index_products.css"/*tpa=http://www.lypbhg.com/styles/page_index_products.css*/);
+
+
+
+
+
+
+
+@import url("page_index_columns.css"/*tpa=http://www.lypbhg.com/styles/page_index_columns.css*/);
+
+
+@import url("page_index_news.css"/*tpa=http://www.lypbhg.com/styles/page_index_news.css*/);
+
+
+
+

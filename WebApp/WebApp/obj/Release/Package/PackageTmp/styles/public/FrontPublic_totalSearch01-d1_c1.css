@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+/** 全局样式 **/
+.FrontPublic_totalSearch01-d1_c1 {
+	width:100%;
+	margin:0 auto;
+	clear:both;
+	min-height:30px;
+	_height:30px;
+	overflow:hidden;
+	text-align:center;
+	background:url("../../images/public/total-search.gif"/*tpa=http://www.lypbhg.com/images/public/total-search.gif*/) left bottom no-repeat; 
+	padding-top:6px;
+}
+.FrontPublic_totalSearch01-d1_c1 .fontred {
+	color:#f60;
+}
+.FrontPublic_totalSearch01-d1_c1 select {
+	vertical-align:middle;
+}
+/** 输入框 样式 **/
+
+.FrontPublic_totalSearch01-d1_c1 .input {
+	border:1px solid #c9cacb;
+	height:19px;
+	line-height:19px;
+	vertical-align:middle;
+	color:#000;
+}
+.FrontPublic_totalSearch01-d1_c1 .btn {
+	vertical-align:middle;
+}
+.FrontPublic_totalSearch01-d1_c1 .keyword,
+ .FrontPublic_totalSearch01-d1_c1 .model {
+	margin:0 5px;
+}

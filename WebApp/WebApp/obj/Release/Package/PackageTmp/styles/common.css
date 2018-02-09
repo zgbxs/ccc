@@ -1,0 +1,957 @@
+@charset "utf-8";
+  @import url("ui-all.css"/*tpa=http://www.lypbhg.com/styles/ui-all.css*/);
+  @import url("button.css"/*tpa=http://www.lypbhg.com/styles/button.css*/);
+BODY{
+   text-align: center;
+    padding-bottom: 0px;
+    margin: 0px auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-family: "宋体", Arial;
+    background: url("../images/aa/bg.png"/*tpa=http://www.lypbhg.com/images/aa/bg.png*/) #fff center center;
+    color: #454545;
+    font-size: 12px;
+    padding-top: 0px;
+}
+DIV{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+FORM{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+P{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+I{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+IMG{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+UL{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+LI{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+OL{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+DL{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+DT{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+DD{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+TABLE{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+TR{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+TD{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+TH{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+FIELDSET{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+LABEL{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+LEGEND{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+SELECT{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+BUTTON{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+INPUT{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+P{
+   line-height: 20px;
+}
+LI{
+   line-height: 20px;
+}
+DIV{
+   line-height: 20px;
+}
+H1{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+    font-weight: normal;
+    padding-top: 0px;
+}
+H2{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+    font-weight: normal;
+    padding-top: 0px;
+}
+H3{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+    font-weight: normal;
+    padding-top: 0px;
+}
+H4{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+    font-weight: normal;
+    padding-top: 0px;
+}
+H5{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+    font-weight: normal;
+    padding-top: 0px;
+}
+H6{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+    font-weight: normal;
+    padding-top: 0px;
+}
+H1 IMG{
+   margin: 0px;
+}
+H2 IMG{
+   margin: 0px;
+}
+H3 IMG{
+   margin: 0px;
+}
+H4 IMG{
+   margin: 0px;
+}
+H5 IMG{
+   margin: 0px;
+}
+H6 IMG{
+   margin: 0px;
+}
+UL{
+   list-style-type: none;
+    list-style-image: none;
+}
+OL{
+   list-style-type: none;
+    list-style-image: none;
+}
+LI{
+   list-style-type: none;
+    list-style-image: none;
+}
+DL{
+   list-style-type: none;
+    list-style-image: none;
+}
+DT{
+   list-style-type: none;
+    list-style-image: none;
+}
+DD{
+   list-style-type: none;
+    list-style-image: none;
+}
+IMG{
+   border-bottom: 0px;
+    border-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    vertical-align: middle;
+    border-top: 0px;
+    border-right: 0px;
+    padding-top: 0px;
+}
+A IMG{
+   border-bottom: 0px;
+    border-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    vertical-align: middle;
+    border-top: 0px;
+    border-right: 0px;
+    padding-top: 0px;
+}
+A:link{
+   color: #454545;
+    text-decoration: none;
+}
+A:visited{
+   color: #454545;
+    text-decoration: none;
+}
+A:hover{
+   color: #bc2931;
+    text-decoration: underline;
+}
+A:active{
+   color: #454545;
+    text-decoration: none;
+}
+.pic A{
+   border-bottom: #e6e7e7 1px solid;
+    border-left: #e6e7e7 1px solid;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    display: inline-block;
+    border-top: #e6e7e7 1px solid;
+    border-right: #e6e7e7 1px solid;
+    padding-top: 4px;
+}
+.pic A:hover{
+   border-bottom: #f60 1px solid;
+    border-left: #f60 1px solid;
+    display: inline-block;
+    background: #fff4ce;
+    border-top: #f60 1px solid;
+    border-right: #f60 1px solid;
+}
+.fontred{
+   color: #f00;
+}
+.fontgray{
+   color: #999;
+}
+.fontblack{
+   color: #000;
+}
+.input-gray{
+   color: #999;
+}
+.input-black{
+   color: #000;
+}
+.floatLeft{
+   float: left;
+}
+.floatRight{
+   float: right;
+}
+.floatNone{
+   float: none;
+}
+.clearBoth{
+   line-height: 0;
+    width: 100%;
+    height: 1px;
+    clear: both;
+    font-size: 0px;
+    overflow: hidden;
+}
+.clearLeft{
+   clear: left;
+}
+.clearRight{
+   clear: right;
+}
+.clearfix{
+   display: inline-block;
+}
+.clearfix:after{
+   display: block;
+    height: 0px;
+    visibility: hidden;
+    clear: both;
+}
+* HTML .clearfix{
+   height: 1%;
+}
+.clearfix{
+   display: block;
+}
+.pageWidth{
+   margin: 0px auto;
+    width: 100%;
+    max-width: 1440px;
+    background: #ffffff fixed no-repeat center center;
+    height: auto;
+}
+.columnSpace{
+   padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.breadcrumb{
+   padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    clear: both;
+    padding-top: 5px;
+}
+.date-ico{
+   background: url("../images/common/time/icon-time.gif"/*tpa=http://www.lypbhg.com/images/common/time/icon-time.gif*/) no-repeat right 50%;
+}
+.column-num1{
+   width: 100%;
+}
+.column-num2{
+   width: 47%;
+}
+.column-num3{
+   width: 30%;
+}
+.column-num4{
+   width: 22%;
+}
+.column-num5{
+   width: 19.9%;
+}
+.column-num6{
+   width: 14%;
+}
+.text-oper{
+   float: left;
+}
+.text-tip{
+   margin: 0px 0px 0px 10px;
+    float: left;
+}
+.text-tip SPAN{
+   line-height: 15px;
+}
+.text-oper SPAN{
+   width: auto !important;
+    word-break: break-all;
+}
+.text-tip SPAN{
+   width: auto !important;
+    word-break: break-all;
+}
+.text-tip .tip-default{
+   color: #999;
+}
+.text-tip .tip-remind{
+   color: #000;
+}
+.text-tip .tip-ok{
+   padding-left: 20px;
+    display: inline-block;
+    background: url("../images/common/tip/ok.gif"/*tpa=http://www.lypbhg.com/images/common/tip/ok.gif*/) no-repeat left top;
+    color: #3bae47;
+}
+.text-tip .tip-error{
+   padding-left: 20px;
+    display: inline-block;
+    background: url("../images/common/tip/error.gif"/*tpa=http://www.lypbhg.com/images/common/tip/error.gif*/) no-repeat left top;
+    color: #e60012;
+}
+.input{
+   border-bottom: #ddddde 1px solid;
+    border-left: #ddddde 1px solid;
+    padding-bottom: 0px;
+    line-height: 18px;
+    padding-left: 2px;
+    padding-right: 2px;
+    height: 18px;
+    border-top: #ddddde 1px solid;
+    border-right: #ddddde 1px solid;
+    padding-top: 0px;
+}
+.input-width{
+   width: 200px;
+}
+.input-up{
+   border-bottom: #06c 1px solid;
+    border-left: #06c 1px solid;
+    border-top: #06c 1px solid;
+    border-right: #06c 1px solid;
+}
+.pageJump{
+   text-align: left;
+    padding-bottom: 10px;
+    line-height: 20px;
+    padding-left: 0px;
+    width: 100%;
+    padding-right: 0px;
+    clear: both;
+    overflow: hidden;
+    padding-top: 10px;
+}
+.pageJump A{
+   border-bottom: #8db5d7 1px solid;
+    border-left: #8db5d7 1px solid;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #000;
+    border-top: #8db5d7 1px solid;
+    margin-right: 2px;
+    border-right: #8db5d7 1px solid;
+    text-decoration: none;
+    padding-top: 2px;
+}
+.pageJump A:hover{
+   border-bottom: #ff0000 1px solid;
+    border-left: #ff0000 1px solid;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: #ff0000 1px solid;
+    margin-right: 2px;
+    border-right: #ff0000 1px solid;
+    padding-top: 2px;
+}
+.pageJump A:active{
+   border-bottom: #ff0000 1px solid;
+    border-left: #ff0000 1px solid;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: #ff0000 1px solid;
+    margin-right: 2px;
+    border-right: #ff0000 1px solid;
+    padding-top: 2px;
+}
+.pageJump SPAN.current{
+   border-bottom: #e89954 1px solid;
+    border-left: #e89954 1px solid;
+    padding-bottom: 2px;
+    background-color: #e89954;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #000;
+    border-top: #e89954 1px solid;
+    font-weight: bold;
+    margin-right: 2px;
+    border-right: #e89954 1px solid;
+    padding-top: 2px;
+}
+.pageJump SPAN.disabled{
+   border-bottom: #ccc 1px solid;
+    border-left: #ccc 1px solid;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #ccc;
+    border-top: #ccc 1px solid;
+    margin-right: 2px;
+    border-right: #ccc 1px solid;
+    padding-top: 2px;
+}
+.textInput{
+   border-bottom: #8db5d7 1px solid;
+    border-left: #8db5d7 1px solid;
+    width: 25px;
+    color: #000;
+    border-top: #8db5d7 1px solid;
+    border-right: #8db5d7 1px solid;
+}
+.pgbtn{
+   background-image: url("../images/common/btnbg.jpg"/*tpa=http://www.lypbhg.com/images/common/btnbg.jpg*/);
+    border-bottom: #ccc 1px solid;
+    border-left: #ccc 1px solid;
+    line-height: 18px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-repeat: repeat-x;
+    height: 18px;
+    border-top: #ccc 1px solid;
+    border-right: #ccc 1px solid;
+}
+.pageJump .totalcount{
+   float: left;
+}
+.pageJump .number{
+   float: right;
+}
+.pageJump .number A{
+   border-bottom: #d3d3d4 1px solid;
+    border-left: #d3d3d4 1px solid;
+    line-height: 15px;
+    background: url("../images/common/skip-page/bgpage-01.gif"/*tpa=http://www.lypbhg.com/images/common/skip-page/bgpage-01.gif*/) repeat-x 0px -58px;
+    float: left;
+    height: 15px;
+    color: #666 !important;
+    border-top: #d3d3d4 1px solid;
+    border-right: #d3d3d4 1px solid;
+    text-decoration: none;
+}
+.pageJump .number A:hover{
+   border-bottom: #34a7db 1px solid;
+    border-left: #34a7db 1px solid;
+    background: url("../images/common/skip-page/bgpage-01.gif"/*tpa=http://www.lypbhg.com/images/common/skip-page/bgpage-01.gif*/) repeat-x 0px -87px;
+    color: #0068cc !important;
+    border-top: #34a7db 1px solid;
+    border-right: #34a7db 1px solid;
+}
+.pageJump .number SPAN{
+   line-height: 15px;
+    float: left;
+    height: 15px;
+}
+.pageJump .number .current{
+   border-bottom: #34a7db 1px solid;
+    border-left: #34a7db 1px solid;
+    background: url("../images/common/skip-page/bgpage-01.gif"/*tpa=http://www.lypbhg.com/images/common/skip-page/bgpage-01.gif*/) repeat-x 0px -87px;
+    color: #0068cc !important;
+    border-top: #34a7db 1px solid;
+    border-right: #34a7db 1px solid;
+}
+.pageJump .number .disabled{
+   border-bottom: #34a7db 1px solid;
+    border-left: #34a7db 1px solid;
+    background: url("../images/common/skip-page/bgpage-01.gif"/*tpa=http://www.lypbhg.com/images/common/skip-page/bgpage-01.gif*/) repeat-x 0px -87px;
+    color: #0068cc !important;
+    border-top: #34a7db 1px solid;
+    border-right: #34a7db 1px solid;
+}
+.pageJump .amount{
+   float: left;
+}
+.pageJump .amount .num{
+   padding-right: 5px;
+    float: left;
+}
+.pageJump .amount A{
+   border-bottom: #d3d3d4 1px solid;
+    border-left: #d3d3d4 1px solid;
+    line-height: 15px;
+    background: url("../images/common/skip-page/bgpage-01.gif"/*tpa=http://www.lypbhg.com/images/common/skip-page/bgpage-01.gif*/) repeat-x 0px -58px;
+    float: left;
+    height: 15px;
+    color: #666 !important;
+    border-top: #d3d3d4 1px solid;
+    border-right: #d3d3d4 1px solid;
+    text-decoration: none;
+}
+.pageJump .amount A:hover{
+   border-bottom: #34a7db 1px solid;
+    border-left: #34a7db 1px solid;
+    background: url("../images/common/skip-page/bgpage-01.gif"/*tpa=http://www.lypbhg.com/images/common/skip-page/bgpage-01.gif*/) repeat-x 0px -87px;
+    color: #0068cc !important;
+    border-top: #34a7db 1px solid;
+    border-right: #34a7db 1px solid;
+}
+.pageJump .amount .currentpagepize{
+   border-bottom: #34a7db 1px solid;
+    border-left: #34a7db 1px solid;
+    background: url("../images/common/skip-page/bgpage-01.gif"/*tpa=http://www.lypbhg.com/images/common/skip-page/bgpage-01.gif*/) repeat-x 0px -87px;
+    color: #0068cc !important;
+    border-top: #34a7db 1px solid;
+    border-right: #34a7db 1px solid;
+}
+.pageJump .total{
+   float: right;
+}
+.pageJump .jump{
+   line-height: 20px;
+    float: right;
+    height: 20px;
+}
+.pageJump .jump .pgbtn{
+   border-bottom: #98e5f7 1px solid;
+    border-left: #98e5f7 1px solid;
+    padding-bottom: 0px;
+    line-height: 13px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 5px;
+    background: url("../images/common/bgbtn-01.gif"/*tpa=http://www.lypbhg.com/images/common/bgbtn-01.gif*/) repeat-x 0px 0px;
+    height: 18px;
+    color: #06c;
+    font-size: 12px;
+    vertical-align: middle;
+    border-top: #98e5f7 1px solid;
+    cursor: pointer;
+    font-weight: normal;
+    border-right: #98e5f7 1px solid;
+    padding-top: 0px;
+}
+.tablestyle{
+   width: 100%;
+}
+.oper-tips{
+   text-align: center;
+    margin: 10px 0px;
+    width: 100%;
+    height: 32px;
+    clear: both;
+}
+.oper-tips IMG{
+   width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+.oper-tips SPAN{
+   line-height: 32px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+.success{
+   text-align: center;
+    margin: 0px auto;
+    width: 100%;
+    clear: both;
+}
+.noinfo{
+   text-align: center;
+    margin: 0px auto;
+    width: 100%;
+    clear: both;
+}
+.success P{
+   height: 32px;
+}
+.noinfo P{
+   height: 32px;
+}
+.success P IMG{
+   width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+.noinfo P IMG{
+   width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+.success P SPAN{
+   text-align: left;
+    line-height: 32px;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+.noinfo P SPAN{
+   text-align: left;
+    line-height: 32px;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+.pages-flip{
+   text-align: center;
+    padding-bottom: 3px;
+    margin: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 12px;
+    padding-top: 3px;
+}
+.pages-flip A{
+   border-bottom: #fff 1px solid;
+    border-left: #fff 1px solid;
+    padding-bottom: 2px;
+    margin: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #000099;
+    font-size: 12px;
+    border-top: #fff 1px solid;
+    border-right: #fff 1px solid;
+    text-decoration: underline;
+    padding-top: 2px;
+}
+.pages-flip A:hover{
+   border-bottom: #000099 1px solid;
+    border-left: #000099 1px solid;
+    color: #000;
+    font-size: 12px;
+    border-top: #000099 1px solid;
+    border-right: #000099 1px solid;
+}
+.pages-flip A:active{
+   border-bottom: #000099 1px solid;
+    border-left: #000099 1px solid;
+    color: #f00;
+    font-size: 12px;
+    border-top: #000099 1px solid;
+    border-right: #000099 1px solid;
+}
+.pages-flip A.current{
+   border-bottom: #fff 1px solid;
+    border-left: #fff 1px solid;
+    padding-bottom: 2px;
+    background-color: #fff;
+    margin: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #000;
+    border-top: #fff 1px solid;
+    font-weight: bold;
+    border-right: #fff 1px solid;
+    padding-top: 2px;
+}
+.pages-flip SPAN.disabled{
+   border-bottom: #eee 1px solid;
+    border-left: #eee 1px solid;
+    padding-bottom: 2px;
+    margin: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #ddd;
+    border-top: #eee 1px solid;
+    border-right: #eee 1px solid;
+    padding-top: 2px;
+}
+.dialog-waiting{
+   background-image: url("../images/common/loading.gif"/*tpa=http://www.lypbhg.com/images/common/loading.gif*/);
+    text-align: center;
+    margin: 15px auto 0px;
+    width: 160px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 20px;
+}
+.fc{
+   z-index: 9;
+    border-bottom: #777777 1px solid;
+    position: absolute;
+    border-left: #777777 1px solid;
+    background-color: #e6eaf3;
+    width: 250px;
+    height: 220px;
+    color: #999999;
+    font-size: 12px;
+    border-top: #777777 1px solid;
+    border-right: #777777 1px solid;
+}
+.fc .jJ{
+   padding-bottom: 8px;
+    margin: 0px;
+    padding-left: 8px;
+    padding-right: 8px;
+    height: 200px;
+    padding-top: 8px;
+}
+.fc .jJ IMG{
+   border-bottom: #ffffff 1px solid;
+    border-left: #ffffff 1px solid;
+    border-top: #ffffff 1px solid;
+    border-right: #ffffff 1px solid;
+}
+.fc .sd{
+   text-align: center;
+    padding-bottom: 0px;
+    line-height: 18px;
+    margin: 0px 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: #333333;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 0px;
+}
+.ico{
+   background-image: url("../images/common/jt.gif"/*tpa=http://www.lypbhg.com/images/common/jt.gif*/);
+    z-index: 9999;
+    position: absolute;
+    width: 12px;
+    float: left;
+    height: 25px;
+    top: 20px;
+    wmode: transparent;
+}
+.fc01{
+   z-index: 9999;
+    border-bottom: #777777 1px solid;
+    position: absolute;
+    border-left: #777777 1px solid;
+    background-color: #e6eaf3;
+    width: 230px;
+    height: 260px;
+    color: #999999;
+    font-size: 12px;
+    border-top: #777777 1px solid;
+    border-right: #777777 1px solid;
+}
+.fc01 .jJ{
+   padding-bottom: 8px;
+    margin: 0px;
+    padding-left: 8px;
+    padding-right: 8px;
+    height: 240px;
+    padding-top: 8px;
+}
+.fc01 .jJ IMG{
+   border-bottom: #ffffff 1px solid;
+    border-left: #ffffff 1px solid;
+    border-top: #ffffff 1px solid;
+    border-right: #ffffff 1px solid;
+}
+.fc01 .sd{
+   text-align: center;
+    padding-bottom: 0px;
+    line-height: 18px;
+    margin: 0px 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: #333333;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 0px;
+}
+.fc02{
+   z-index: 9999;
+    border-bottom: #777777 1px solid;
+    position: absolute;
+    border-left: #777777 1px solid;
+    background-color: #e6eaf3;
+    width: 170px;
+    height: 180px;
+    color: #999999;
+    font-size: 12px;
+    border-top: #777777 1px solid;
+    border-right: #777777 1px solid;
+}
+.fc02 .jJ{
+   padding-bottom: 8px;
+    margin: 0px;
+    padding-left: 8px;
+    padding-right: 8px;
+    height: 160px;
+    padding-top: 8px;
+}
+.fc02 .jJ IMG{
+   border-bottom: #ffffff 1px solid;
+    border-left: #ffffff 1px solid;
+    border-top: #ffffff 1px solid;
+    border-right: #ffffff 1px solid;
+}
+.fc02 .sd{
+   text-align: center;
+    padding-bottom: 0px;
+    line-height: 18px;
+    margin: 0px 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: #333333;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 0px;
+}
+.fc03{
+   z-index: 9999;
+    border-bottom: #777777 1px solid;
+    position: absolute;
+    border-left: #777777 1px solid;
+    background-color: #e6eaf3;
+    width: 200px;
+    height: 80px;
+    color: #999999;
+    font-size: 12px;
+    border-top: #777777 1px solid;
+    border-right: #777777 1px solid;
+    padding-top: 25px;
+}

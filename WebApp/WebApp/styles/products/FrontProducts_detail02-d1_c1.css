@@ -1,0 +1,780 @@
+@charset "utf-8";
+.FrontProducts_detail02-d1_c1{
+   text-align: left;
+    margin: 0px auto;
+    width: 100%;
+    height: 100%;
+    clear: both;
+}
+.FrontProducts_detail02-d1_c1 A:link{
+   color: #666666;
+    text-decoration: none;
+}
+.FrontProducts_detail02-d1_c1 A:visited{
+   color: #666666;
+    text-decoration: none;
+}
+.FrontProducts_detail02-d1_c1 A:active{
+   color: #666666;
+    text-decoration: none;
+}
+.FrontProducts_detail02-d1_c1 A:hover{
+   color: #0093dd;
+    text-decoration: underline;
+}
+.FrontProducts_detail02-d1_c1 .focustext{
+   font-style: normal;
+    color: #f39800;
+}
+.FrontProducts_detail02-d1_c1 .content{
+   clear: both;
+    overflow: hidden;
+}
+.FrontProducts_detail02-d1_c1 .content .pic-module{
+   position: relative;
+    width: 410px;
+    float: left;
+}
+.FrontProducts_detail02-d1_c1 .content .pic-module .btnarea{
+   padding-bottom: 5px;
+    padding-left: 190px;
+    padding-right: 0px;
+    display: block;
+    white-space: nowrap;
+    clear: both;
+    padding-top: 5px;
+}
+.FrontProducts_detail02-d1_c1 .content .pic-module .pic-img{
+   width: 400px;
+    height: 300px;
+}
+.FrontProducts_detail02-d1_c1 .content .pro-module{
+   width: 34%;
+    float: right;
+    margin-left: 10px;
+    _margin-left: 5px;
+}
+.FrontProducts_detail02-d1_c1 .detail{
+   clear: both;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .pic{
+   width: 100%;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .pic A{
+   border-bottom: 0px;
+    text-align: center;
+    border-left: 0px;
+    margin: 0px auto;
+    width: 410px;
+    display: block;
+    height: 300px;
+    border-top: 0px;
+    border-right: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .pic A:hover{
+   border-bottom: 0px;
+    border-left: 0px;
+    background: none transparent scroll repeat 0% 0%;
+    border-top: 0px;
+    border-right: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .pic A IMG{
+}
+.FrontProducts_detail02-d1_c1 .pic-module SPAN.zoom{
+   z-index: 33;
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 240px;
+    cursor: pointer;
+    left: 340px;
+}
+HTML > BODY .FrontProducts_detail02-d1_c1 .pic-module SPAN.zoom{
+   background-image: url("../../images/products/zoom-01.png"/*tpa=http://www.lypbhg.com/images/products/zoom-01.png*/);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+* .FrontProducts_detail02-d1_c1 .pic-module SPAN.zoom{
+}
+.FrontProducts_detail02-d1_c1 .pic-module SPAN.lab{
+   z-index: 2;
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 305px;
+    cursor: pointer;
+    left: 40px;
+}
+.FrontProducts_detail02-d1_c1 .pic-module SPAN.lab IMG{
+   width: 40px;
+    height: 40px;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .show{
+   margin-top: 10px;
+    width: 400px;
+    clear: both;
+    overflow: hidden;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .show A.clickL{
+   margin-top: 9px;
+    width: 25px;
+    float: left;
+    cursor: pointer;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .show A.clickR{
+   margin-top: 9px;
+    width: 25px;
+    float: left;
+    cursor: pointer;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .show A.clickR{
+   float: right;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .show .picarea{
+   position: relative;
+    padding-bottom: 0px;
+    list-style-type: none;
+    margin: 0px 0px 0px 4px;
+    padding-left: 0px;
+    width: 310px;
+    padding-right: 0px;
+    float: left;
+    height: 51px;
+    overflow: hidden;
+    list-style-image: none;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .show .picarea A{
+   text-align: center;
+    margin: 0px 2px;
+    width: 72px;
+    display: block;
+    background: url("../../images/products/pic-small-bg1.gif"/*tpa=http://www.lypbhg.com/images/products/pic-small-bg1.gif*/) no-repeat center top;
+    float: left;
+    height: 50px;
+    padding-top: 1px;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .show .picarea A:hover{
+   background: url("../../images/products/pic-small-hover1.gif"/*tpa=http://www.lypbhg.com/images/products/pic-small-hover1.gif*/) no-repeat center top;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .show .picarea A IMG{
+   border-bottom: 0px;
+    border-left: 0px;
+    width: 60px;
+    height: 48px;
+    border-top: 0px;
+    border-right: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .skimpro{
+   padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    clear: both;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .skimpro H4{
+   margin: 0px;
+    color: #f39800;
+    font-size: 12px;
+    font-weight: normal;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .skimpro P.pre{
+   line-height: 25px;
+    margin: 0px;
+    width: 100%;
+    float: left;
+    color: #727171;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .skimpro P.next{
+   line-height: 25px;
+    margin: 0px;
+    width: 100%;
+    float: left;
+    color: #727171;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .skimpro P SPAN{
+   width: 70px;
+    display: block;
+    float: left;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .skimpro P A{
+   font-weight: normal;
+}
+.FrontProducts_detail02-d1_c1 .pic-module .skimpro P A:hover{
+   color: #ff6674;
+    text-decoration: none;
+}
+.FrontProducts_detail02-d1_c1 .pro-module H1{
+   margin: 0px;
+    color: #f39800;
+    font-size: 14px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL{
+   padding-bottom: 0px;
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    list-style-image: none;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI{
+   line-height: 23px;
+    color: #231815;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI SPAN{
+   color: #666464;
+    font-weight: normal;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.code{
+   color: #0099ff;
+    font-weight: bold;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.name A{
+   color: #f60;
+    font-weight: bold;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.name STRONG{
+   font-weight: normal;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.brandlogo IMG{
+   width: 140px;
+    height: 105px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.weight{
+   color: #f39800;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.skim{
+   color: #f39800;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.marketprice LABEL{
+   text-decoration: line-through;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.memberprice LABEL{
+   color: #e60012;
+    font-size: 13px;
+    font-weight: bold;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.integral{
+   padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 15px;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.text{
+   clear: both;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.text EM{
+   border-bottom: #adb9c2 1px solid;
+    border-left: #adb9c2 1px solid;
+    padding-bottom: 0px;
+    font-style: normal;
+    margin: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
+    background: url("../../images/products/size_bg.gif"/*tpa=http://www.lypbhg.com/images/products/size_bg.gif*/) repeat-x left top;
+    height: 13px;
+    color: #0099ff;
+    border-top: #adb9c2 1px solid;
+    cursor: pointer;
+    border-right: #adb9c2 1px solid;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.text SPAN{
+   margin-right: 5px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module .specifications{
+   padding-left: 10px;
+    background: #ffffcc;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.images{
+   vertical-align: middle;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.images LABEL{
+   padding-right: 10px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.images IMG{
+   padding-bottom: 4px;
+    padding-left: 4px;
+    width: 12px;
+    padding-right: 4px;
+    height: 12px;
+    cursor: pointer;
+    padding-top: 4px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.comment1 A{
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.comment2 IMG{
+   padding-right: 5px;
+    vertical-align: middle;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI .input{
+   border-bottom: #ddddde 1px solid;
+    border-left: #ddddde 1px solid;
+    line-height: 15px;
+    width: 80px;
+    height: 15px;
+    border-top: #ddddde 1px solid;
+    border-right: #ddddde 1px solid;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI .inputgray{
+   color: #000;
+    font-size: 12px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.number SPAN{
+   padding-left: 12px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.number EM{
+   font-style: normal;
+    color: #999;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.number EM{
+   font-style: normal;
+    color: #999;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.outstock IMG{
+   vertical-align: middle;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP A{
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP{
+   margin: 10px 0px 0px;
+    width: 100%;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP .btna{
+   margin: 3px;
+    white-space: nowrap;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP .btn{
+   margin: 3px;
+    white-space: nowrap;
+    float: left;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP .btna SPAN{
+   color: #fff;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN.buy A{
+   color: #fff;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN.price A{
+   color: #fff;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN.favor A{
+   color: #727171;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN.qq A{
+   color: #727171;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN A:hover{
+   text-decoration: none;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN.buy{
+   background: url("../../images/products/btn-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/products/btn-blue1-01.gif*/) no-repeat left top;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN.price{
+   background: url("../../images/products/btn-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/products/btn-blue1-01.gif*/) no-repeat left top;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN.favor{
+   background: url("../../images/products/btn-gray1-01.gif"/*tpa=http://www.lypbhg.com/images/products/btn-gray1-01.gif*/) no-repeat left top;
+    color: #727171;
+}
+.FrontProducts_detail02-d1_c1 .pro-module P.buttonP SPAN.qq{
+   background: url("../../images/products/btn-gray1-01.gif"/*tpa=http://www.lypbhg.com/images/products/btn-gray1-01.gif*/) no-repeat left top;
+    color: #727171;
+}
+.FrontProducts_detail02-d1_c1 .detail{
+   padding-bottom: 0px;
+    padding-left: 0px;
+    width: 85%;
+    padding-right: 10px;
+    clear: both;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .detail UL{
+   padding-bottom: 0px;
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 0px;
+    width: 100%;
+    padding-right: 0px;
+    display: inline-block;
+    background: #eee;
+    clear: both;
+    list-style-image: none;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .detail UL LI{
+   text-align: center;
+    line-height: 32px;
+    width: 96px;
+    background: url("../../images/products/tab-bg.gif"/*tpa=http://www.lypbhg.com/images/products/tab-bg.gif*/) no-repeat left top;
+    float: left;
+    height: 32px;
+    margin-right: 1px;
+}
+.FrontProducts_detail02-d1_c1 .detail UL LI.current{
+   background: #0093dd;
+}
+.FrontProducts_detail02-d1_c1 .detail UL LI A{
+   color: #727171;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.FrontProducts_detail02-d1_c1 .detail UL LI.current A{
+   color: #fff;
+}
+.FrontProducts_detail02-d1_c1 .pro-module UL LI.mutilimg IMG{
+   width: 30px;
+    height: 30px;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe{
+   line-height: 20px;
+    margin: 5px 0px 10px;
+    color: #666464;
+    clear: both;
+}
+.FrontProducts_detail02-d1_c1 .other{
+   margin: 20px 0px 0px;
+}
+.FrontProducts_detail02-d1_c1 .other P{
+   line-height: 20px;
+    margin: 0px;
+    color: #666464;
+}
+.FrontProducts_detail02-d1_c1 .other P A{
+}
+.pop-brand{
+   z-index: 3;
+    position: absolute;
+    width: 229px;
+    color: #231815;
+    top: 97px;
+    left: 489px;
+}
+.pop-brand P.top{
+   text-align: right;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 15px;
+    background: url("../../images/products/pop-top.gif"/*tpa=http://www.lypbhg.com/images/products/pop-top.gif*/) no-repeat left top;
+    height: 23px;
+    padding-top: 20px;
+}
+.pop-brand P.top A.close{
+   width: 24px;
+    display: block;
+    background: url("../../images/products/close.gif"/*tpa=http://www.lypbhg.com/images/products/close.gif*/) no-repeat right top;
+    float: right;
+    height: 17px;
+}
+.pop-brand P.top A.close:hover{
+   background: url("../../images/products/close-hover.gif"/*tpa=http://www.lypbhg.com/images/products/close-hover.gif*/) no-repeat right top;
+}
+.pop-brand .intro{
+   padding-bottom: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: url("../../images/products/pop-bg.gif"/*tpa=http://www.lypbhg.com/images/products/pop-bg.gif*/) repeat-y left top;
+    padding-top: 5px;
+}
+.pop-brand .intro P.pic{
+   text-align: center;
+    margin: 0px;
+}
+.pop-brand .intro P.pic IMG{
+   border-bottom: #e6e6e6 1px solid;
+    border-left: #e6e6e6 1px solid;
+    border-top: #e6e6e6 1px solid;
+    border-right: #e6e6e6 1px solid;
+}
+.pop-brand .intro H4{
+   margin: 15px 0px 0px 15px;
+    font-size: 12px;
+}
+.pop-brand .intro .info{
+   padding-bottom: 5px;
+    line-height: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 12px;
+    padding-top: 5px;
+}
+.pop-brand .intro P.address{
+   margin: 10px 0px 0px 15px;
+    font-size: 12px;
+}
+.pop-brand .intro P.address A{
+   color: #007dcc;
+    text-decoration: none;
+}
+.pop-brand P.bottom{
+   margin: 0px;
+    background: url("../../images/products/pop-bottom.gif"/*tpa=http://www.lypbhg.com/images/products/pop-bottom.gif*/) no-repeat left bottom;
+    height: 17px;
+    font-size: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pop-picbig{
+   z-index: 3;
+    position: absolute;
+    background: #fff;
+    top: 100px;
+    left: 270px;
+}
+.FrontProducts_detail02-d1_c1 .pop-picbig IMG{
+   border-bottom: #000 1px solid;
+    border-left: #000 1px solid;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    width: 350px;
+    padding-right: 5px;
+    height: 350px;
+    border-top: #000 1px solid;
+    border-right: #000 1px solid;
+    padding-top: 5px;
+}
+.FrontProducts_detail02-d1_c1 .pop-picbig A.close{
+   position: absolute;
+    width: 18px;
+    display: block;
+    background: url("../../images/products/ad-close-01.gif"/*tpa=http://www.lypbhg.com/images/products/ad-close-01.gif*/) no-repeat left top;
+    height: 18px;
+    top: -8px;
+    right: -10px;
+}
+.FrontProducts_detail02-d1_c1 .pop-picbig A.close:hover{
+   background: url("../../images/products/ad-close-02.gif"/*tpa=http://www.lypbhg.com/images/products/ad-close-02.gif*/) no-repeat left top;
+}
+.FrontProducts_detail02-d1_c1 .jqzoom{
+   border-bottom: black 1px solid;
+    position: relative;
+    border-left: black 1px solid;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-top: black 1px solid;
+    cursor: pointer;
+    border-right: black 1px solid;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .jqzoom IMG{
+   width: 300px;
+    height: 350px;
+}
+.FrontProducts_detail02-d1_c1 DIV.zoomdiv{
+   z-index: 100;
+    border-bottom: #cccccc 1px solid;
+    position: absolute;
+    text-align: center;
+    border-left: #cccccc 1px solid;
+    width: 150px;
+    background: #ffffff;
+    height: 150px;
+    overflow: hidden;
+    border-top: #cccccc 1px solid;
+    top: 0px;
+    border-right: #cccccc 1px solid;
+    left: 360px;
+}
+.FrontProducts_detail02-d1_c1 DIV.jqZoomPup{
+   z-index: 100000;
+    border-bottom: #aaa 1px solid;
+    position: absolute;
+    filter: alpha(opacity=50);
+    border-left: #aaa 1px solid;
+    width: 50px;
+    background: #ffffff no-repeat 50% top;
+    height: 50px;
+    visibility: hidden;
+    border-top: #aaa 1px solid;
+    top: 0px;
+    border-right: #aaa 1px solid;
+    left: 20px;
+    -moz-opacity: 0.5;
+    opacity: 0.5;
+    -khtml-opacity: 0.5;
+}
+.FrontProducts_detail02-d1_c1 .imgbox{
+   position: absolute;
+    width: 100%;
+    height: 50px;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE{
+   background: url("../../images/products/inq-bgtable.gif"/*tpa=http://www.lypbhg.com/images/products/inq-bgtable.gif*/) repeat-x 0px 0px;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE .title{
+   width: 15%;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE .property-value{
+   padding-left: 5px;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE TH.first{
+   border-left: #9be3f9 1px solid;
+    width: 3px;
+    height: 32px;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE TD.first{
+   border-left: #d7d7d7 1px solid;
+    width: 3px;
+    border-right: 0px;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE TH.last{
+   height: 32px;
+    border-right: #9be3f9 1px solid;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE TD.last{
+   border-right: #d7d7d7 1px solid;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE TH{
+   text-align: left;
+    line-height: 32px;
+    height: 32px;
+    color: #0066cc;
+    font-weight: normal;
+}
+.FrontProducts_detail02-d1_c1 .detailparameter TABLE TD{
+   height: 25px;
+}
+.FrontProducts_detail02-d1_c1 .nos-tr TD{
+   border-bottom: #d7d7d7 1px solid;
+    border-right: #d7d7d7 1px solid;
+}
+.FrontProducts_detail02-d1_c1 .bg-odd TD{
+   border-bottom: #9be3f9 1px solid;
+    border-right: #d7d7d7 1px solid;
+}
+.FrontProducts_detail02-d1_c1 .other EM{
+   font-style: normal;
+    color: #0099ff;
+}
+.FrontProducts_detail02-d1_c1 .other A{
+   text-decoration: underline;
+}
+.FrontProducts_detail02-d1_c1 .pro-module .images .click IMG{
+   padding-bottom: 3px;
+    background-color: #ffff00;
+    padding-left: 3px;
+    width: 12px;
+    padding-right: 3px;
+    display: inline-block;
+    height: 12px;
+    padding-top: 3px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module .text .click{
+   border-bottom: #ffff00 3px solid;
+    border-left: #ffff00 3px solid;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-top: #ffff00 3px solid;
+    border-right: #ffff00 3px solid;
+    padding-top: 0px;
+}
+.FrontProducts_detail02-d1_c1 .pro-module .choose-property{
+   width: 100%;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe{
+   list-style: disc none outside;
+    z-index: auto;
+    border-bottom: medium none;
+    text-justify: auto;
+    text-align: left;
+    border-left: medium none;
+    text-transform: none;
+    text-indent: 0px;
+    margin: auto;
+    width: auto;
+    display: inline;
+    border-collapse: separate;
+    font: 14px/260px Times New Roman;
+    word-wrap: normal;
+    white-space: normal;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    letter-spacing: normal;
+    height: auto;
+    visibility: inherit;
+    color: #000;
+    clear: none;
+    vertical-align: baseline;
+    overflow: visible;
+    word-break: normal;
+    border-top: medium none;
+    border-right: medium none;
+    word-spacing: normal;
+    text-decoration: none;
+    font-stretch: normal;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe UL{
+   padding-left: 25px;
+    width: auto;
+    display: inline-block;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    height: auto;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe UL LI{
+   list-style: disc none outside;
+    text-align: left;
+    line-height: normal;
+    width: auto;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    height: auto;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe OL{
+   padding-left: 25px;
+    width: auto;
+    display: inline-block;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    height: auto;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe OL LI{
+   list-style: decimal none outside;
+    text-align: left;
+    line-height: normal;
+    width: auto;
+    background: none transparent scroll repeat 0% 0%;
+    float: none;
+    height: auto;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe P{
+   line-height: 26px;
+    font-size: 14px;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe H1{
+   margin: 0.67em 0px;
+    font-size: 2em;
+    font-weight: bolder;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe H2{
+   margin: 0.83em 0px;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe H3{
+   margin: 1em 0px;
+    font-size: 1.17em;
+    font-weight: bolder;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe H4{
+   margin: 1.33em 0px;
+    font-size: 1em;
+    font-weight: bolder;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe H5{
+   line-height: 1.17em;
+    margin: 1.67em 0px;
+    font-size: 0.83em;
+    font-weight: bolder;
+}
+.FrontProducts_detail02-d1_c1 .detail .describe H6{
+   margin: 2.33em 0px;
+    font-size: 0.67em;
+    font-weight: bolder;
+}
+.FrontProducts_detail02-d1_c1 .zoomdiv{
+   margin-left: 60px;
+}

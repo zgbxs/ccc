@@ -1,0 +1,53 @@
+@charset "utf-8";
+.FrontPublic_totalSearch01-d2_c1{
+   text-align: center;
+    margin: 0px auto;
+    min-height: 30px;
+    width: 70%;
+    float: right;
+    clear: both;
+    overflow: hidden;
+    padding-top: 57px;
+    _height: 30px;
+}
+.FrontPublic_totalSearch01-d2_c1 .fontred{
+   color: #f60;
+}
+.FrontPublic_totalSearch01-d2_c1 SELECT{
+   vertical-align: middle;
+}
+.FrontPublic_totalSearch01-d2_c1 .input{
+   border-bottom: medium none;
+    border-left: medium none;
+    line-height: 21px;
+    width: 150px;
+    background: url("../../images/public/searchbg-.gif"/*tpa=http://www.lypbhg.com/images/public/searchbg-.gif*/) no-repeat left bottom;
+    height: 21px;
+    color: #000;
+    vertical-align: middle;
+    border-top: medium none;
+    border-right: medium none;
+}
+.FrontPublic_totalSearch01-d2_c1 .keyword{
+   margin: 0px;
+    color: #999;
+}
+.FrontPublic_totalSearch01-d2_c1 .model{
+   margin: 0px 5px;
+    display: none;
+}
+.FrontPublic_totalSearch01-d2_c1 .btn{
+   line-height: 22px;
+    height: 22px;
+    vertical-align: middle;
+}
+.FrontPublic_totalSearch01-d2_c1 .btn-com-03{
+   padding-bottom: 5px;
+    width: 56px;
+    background: url("../../images/public/btn-blue1-07-.gif"/*tpa=http://www.lypbhg.com/images/public/btn-blue1-07-.gif*/) no-repeat 0px 0px;
+    height: 22px;
+    font-size: 12px;
+}
+.FrontPublic_totalSearch01-d2_c1 .btn-com-up03{
+   background: url("../../images/public/btn-blue1-08-.gif"/*tpa=http://www.lypbhg.com/images/public/btn-blue1-08-.gif*/) no-repeat 0px 0px;
+}

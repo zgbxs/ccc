@@ -1,0 +1,157 @@
+@charset "utf-8";
+/** 全局样式 **/
+.FrontNews_list01-d2_c1 {
+	width:98%;
+	margin:0 auto;
+	clear:both;
+	text-align:left;
+}
+.FrontNews_list01-d2_c1 .content {
+	float:left;
+	overflow:hidden;
+	margin-bottom:2px;
+}
+#FrontNews_list01-002 .newslist-01 {
+	float:left;
+	width:41%;
+}
+#FrontNews_list01-002 .newslist-02 {
+	float:right;
+	width:59%;
+}
+#FrontNews_list01-002 .content .main {
+	width:85%;
+}
+#FrontNews_list01-003 .content .main {
+	width:85%;
+}
+#FrontNews_list01-003 .newslist-01 {
+	float:left;
+	width:41%;
+}
+#FrontNews_list01-003 .newslist-02 {
+	float:right;
+	width:59%;
+}
+.FrontNews_list01-d2_c1 .more {
+	width:100%;
+	text-align:right;
+	overflow:hidden;
+}
+.FrontNews_list01-d2_c1 .content .main {
+	float:left;
+	width:70%;
+}
+/* 链接样式 */
+
+.FrontNews_list01-d2_c1 a:link {
+	color:#000;
+	text-decoration:none;
+	font-weight:normal;
+}
+.FrontNews_list01-d2_c1 a:visited {
+/* color:#0066cc;
+	text-decoration:none; */
+}
+.FrontNews_list01-d2_c1 a:hover {
+/* color:#0066cc;
+	text-decoration:underline; */
+}
+.FrontNews_list01-d2_c1 a:active {
+/*color:#06c;*/
+}
+/** 内容样式 **/
+
+/** 标题区域 **/
+.FrontNews_list01-d2_c1 .newstitle {
+}
+.FrontNews_list01-d2_c1 .newstitle li{
+	line-height:22px;
+}
+.FrontNews_list01-d2_c1 .newstitle li h3 {
+	display:inline;
+	color:#000;
+	font-size:12px;
+	font-weight:bold;
+	padding-left:12px;
+	background:url("../../images/news/icon-09.gif"/*tpa=http://www.lypbhg.com/images/news/icon-09.gif*/) 0 50% no-repeat;
+}
+.FrontNews_list01-d2_c1 .newstitle li span {
+	color:#999;
+}
+.FrontNews_list01-d2_c1 .newstitle li em {
+	font-style:normal;
+}
+.FrontNews_list01-d2_c1 .newstitle .fontnews a {
+	color:#06c;
+}
+.FrontNews_list01-d2_c1 .newstitle .author {
+}
+.FrontNews_list01-d2_c1 .newstitle .comment {
+	padding-left:20px;
+	background:url("../../images/news/icon-04.gif"/*tpa=http://www.lypbhg.com/images/news/icon-04.gif*/) 0 0px no-repeat;
+	background:url("../../images/news/icon-04.gif"/*tpa=http://www.lypbhg.com/images/news/icon-04.gif*/) 0 4px no-repeat \9;
+}
+.FrontNews_list01-d2_c1 .newstitle .linkarea {
+	display:none;
+}
+/** 内容列表区域 **/
+.FrontNews_list01-d2_c1 .newslist {
+	width:100%;
+	overflow:hidden;
+}
+/**图片区域**/
+.FrontNews_list01-d2_c1 .content .pic {
+	float:left;
+}
+.FrontNews_list01-d2_c1 .content .pic a {
+	float:left;/*padding:4px;
+	border:1px solid #d7d7d7;*/
+}
+.FrontNews_list01-d2_c1 .content .pic a:hover {
+/*border:1px solid #F60;
+	background:#fff4ce;*/
+}
+.FrontNews_list01-d2_c1 .content .pic img {
+	width:120px;
+	height:90px;
+}
+#FrontNews_list01-002 .newslist-01 .pic img {
+	width:140px;
+	height:65px;
+}
+#FrontNews_list01-003 .newslist-01 .pic img {
+	width:140px;
+	height:65px;
+}
+.FrontNews_list01-d2_c1 .newslist .summary {
+}
+.FrontNews_list01-d2_c1 .newslist .summary h3 {
+	font-size:12px;
+	font-weight:bold;
+	line-height:22px;
+}
+.FrontNews_list01-d2_c1 .newslist .summary p {
+	line-height:20px;
+}
+.FrontNews_list01-d2_c1 .newslist .summary a {
+	margin-left:5px;
+}
+/**分割线**/
+.FrontNews_list01-d2_c1 .showLine {
+	float:left;
+	height:10px;
+	width:100%;
+	border:0;
+	background:url("../../images/news/line-01.gif"/*tpa=http://www.lypbhg.com/images/news/line-01.gif*/) 0 50% repeat-x;
+}
+.FrontNews_list01-d2_c1 .comstyle {
+	width:100%;
+	overflow:hidden;
+}
+.FrontNews_list01-d2_c1 .clearBoth {
+	font-size:0;
+	height:0;
+	line-height:0;
+	border:0;
+}

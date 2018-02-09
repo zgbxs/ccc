@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+/** 全局样式 **/
+.FrontProductsCategory_detail01-d1_c1 {
+	width:90%;
+	margin:0 auto;
+	
+	height:100%;
+	overflow:hidden;
+	text-align:left;
+}
+/** 链接 **/
+.FrontProductsCategory_detail01-d1_c1 a:link {
+	/* color:#0066cc;
+	text-decoration:underline; */
+}
+.FrontProductsCategory_detail01-d1_c1 a:visited {
+	/* color:#0066cc;
+	text-decoration:underline; */
+}
+.FrontProductsCategory_detail01-d1_c1 a:hover {
+	/* color:#0066cc;
+	text-decoration:none; */
+}
+.FrontProductsCategory_detail01-d1_c1 a:active {
+	/* color:#0066cc;
+	text-decoration:underline; */
+}
+/** 内容样式 **/
+.FrontProductsCategory_detail01-d1_c1 p {
+	line-height:22px;
+}
+/** 商品列表 商品分类图片 **/
+.FrontProductsCategory_detail01-d1_c1 .pic {
+	float:left;
+	width:27%;
+}
+.FrontProductsCategory_detail01-d1_c1 .information {
+	float:left;
+	width:70%;
+	margin-left:10px;
+}
+.FrontProductsCategory_detail01-d1_c1 .pic a {
+	width:150px;
+	height:180px;
+	padding:4px;
+	border:1px solid #e6e7e7;
+	display:block;
+}
+.FrontProductsCategory_detail01-d1_c1 .pic a:hover{
+ 	border:1px solid #F60;
+	background:#fff4ce;	
+	display:block;
+}
+.FrontProductsCategory_detail01-d1_c1 .pic a img{
+	width:150px;
+	height:180px;
+}
+.FrontProductsCategory_detail01-d1_c1 h3{
+	font-size:12px;
+	line-height:25px;
+}
+.FrontProductsCategory_detail01-d1_c1 h3 em{
+	font-style: normal;	
+}
+.FrontProductsCategory_detail01-d1_c1 h4 em{
+	font-style: normal;	
+}

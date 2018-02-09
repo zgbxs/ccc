@@ -1,0 +1,188 @@
+@charset "utf-8";
+/** 全局样式 **/
+
+.FrontMessages_list01-d1_c1 {
+	width:90%;
+	margin:0 auto;
+	
+	overflow:hidden;
+	clear:both;
+	text-align:left;
+}
+/** 图片 **/
+
+.FrontMessages_list01-d1_c1 img {
+	vertical-align:middle;
+}
+/**字体样式**/
+
+.FrontMessages_list01-d1_c1 .foucetext {
+	color:#f08300;
+	font-style:normal;
+}
+/**翻页**/
+
+.FrontMessages_list01-d1_c1 .skip-page {
+	clear:both;
+	width:100%;
+	text-align:right;
+	padding:10px 0;
+}
+.FrontMessages_list01-d1_c1 .skip-page .more {
+	clear:both;
+	width:100%;
+	text-align:right;
+	padding:10px 0;
+}
+/** 按钮 **/
+
+/*.FrontMessages_list01-d1_c1 .button {
+	width:112px;
+	height:31px;
+	line-height:31px;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+	border:0;
+	cursor:pointer;
+}*/
+/*.FrontMessages_list01-d1_c1 .button-on {
+	background:url(/images/messages/btn-blue1-01.gif) 0 0 no-repeat;
+}*/
+/*.FrontMessages_list01-d1_c1 .button-up {
+	background:url(/images/messages/btn-blue1-02.gif) 0 0 no-repeat;
+}*/
+/**内容样式**/
+
+/**头部样式**/
+
+.FrontMessages_list01-d1_c1 .mestitle p {
+	padding:5px 0;
+}
+.FrontMessages_list01-d1_c1 .mestitle .name {
+	float:left;
+	width:65px;
+}
+.FrontMessages_list01-d1_c1 .mestitle .tolnumber {
+	padding-right:20px;
+}
+.FrontMessages_list01-d1_c1 .mestitle .tolnumber span {
+	font-weight:bold;
+}
+.FrontMessages_list01-d1_c1 .mestitle .point {
+	padding-right:0;
+}
+.FrontMessages_list01-d1_c1 .mestitle .foucetext {
+	font-weight:bold;
+}
+.FrontMessages_list01-d1_c1 .btnarea {
+	width:100%;
+	text-align:right;
+	padding:10px 0;
+}
+/**中间部分**/
+
+.FrontMessages_list01-d1_c1 .center .title {
+	width:100%;
+	float:left;
+	overflow:hidden;
+	margin:10px 0;
+}
+.FrontMessages_list01-d1_c1 .center .title li {
+	float:left;
+	height:20px;
+	line-height:20px;
+	padding:0 20px;
+	white-space:nowrap;
+	background:url("../../images/messages/mes-icon-01.gif"/*tpa=http://www.lypbhg.com/images/messages/mes-icon-01.gif*/) 0 2px no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .person {
+	background:url("../../images/messages/pic-lyr.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-lyr.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .sex {
+	background:url("../../images/messages/pic-xb.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-xb.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .time {
+	background:url("../../images/messages/pic-time.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-time.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .mail {
+	background:url("../../images/messages/pic-mail.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-mail.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .company {
+	background:url("../../images/messages/pic-gsmc.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-gsmc.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .web {
+	background:url("../../images/messages/pic-web.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-web.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .area {
+	background:url("../../images/messages/pic-dq.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-dq.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .tel {
+	background:url("../../images/messages/pic-tel.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-tel.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .phone {
+	background:url("../../images/messages/pic-phone.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-phone.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .addres {
+	background:url("../../images/messages/pic-lxdz.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-lxdz.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .reply {
+	background:url("../../images/messages/pic-reply.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-reply.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title .ip {
+	background:url("../../images/messages/pic-gsmc.gif"/*tpa=http://www.lypbhg.com/images/messages/pic-gsmc.gif*/) 0 0 no-repeat;
+}
+.FrontMessages_list01-d1_c1 .center .title span {
+	color:#666;
+}
+.FrontMessages_list01-d1_c1 .center .list {
+	clear:both;
+	width:99%;
+	overflow:hidden;
+	border:1px solid #ccc;
+	/*border-bottom:none;*/
+	margin-bottom:25px;
+}
+.FrontMessages_list01-d1_c1 .center .list li {
+	padding-left:40px;
+	line-height:20px;
+}
+.FrontMessages_list01-d1_c1 .center .list li span {
+	color:#000;
+}
+.FrontMessages_list01-d1_c1 .center .list .li-head {
+	border:1px solid #fff;
+	height:25px;
+	padding-top:5px;
+	background:#d7d7d7;
+}
+.FrontMessages_list01-d1_c1 .center .list .li-title {
+	background:#f8f8f8;
+	padding-top:5px;
+}
+
+.FrontMessages_list01-d1_c1 .center .list .li-con {
+	float:left;
+	width:100%;
+	overflow:hidden;
+	border:1px solid #fff;
+	border-top:none;
+	padding:5px 0 5px 5px;
+	background:#f8f8f8;
+}
+.FrontMessages_list01-d1_c1 .center .list .li-con .pic {
+	float:left;
+	width:35px;
+}
+.FrontMessages_list01-d1_c1 .center .list .li-con .info {
+	float:left;
+	width:90%;
+}
+.FrontMessages_list01-d1_c1 .center .list .li-bottom {
+	padding-right:25px;
+}
+/**提示信息**/
+.FrontMessages_list01-d1_c1 .btna {
+	float:right;
+	margin:0;
+}

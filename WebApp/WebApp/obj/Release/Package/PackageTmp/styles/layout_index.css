@@ -1,0 +1,103 @@
+@charset "utf-8";
+#box_root{
+   margin-left: auto;
+    margin-right: auto;
+}
+#box_header{
+   width: 100%;
+}
+#box_footer{
+   background-color: #0093dd;
+    width: 100%;
+    float: none;
+    height: 50px;
+}
+#box_main{
+   margin-left: auto;
+    margin-right: auto;
+}
+#box_left .columnSpace{
+}
+#box_top_sub2{
+   margin-top: 45px;
+    width: 650px;
+    float: right;
+}
+#box_logo{
+   width: 380px;
+    float: left;
+}
+#box_top{
+   background-image: url("../images/a/bg_dh.jpg"/*tpa=http://www.lypbhg.com/images/a/bg_dh.jpg*/);
+    margin: auto;
+    width: 1040px;
+    background-repeat: no-repeat;
+    background-position: right top;
+    float: none;
+    overflow:hidden;
+}
+#box_m1{
+   background-image: url("../images/a/bg1.jpg"/*tpa=http://www.lypbhg.com/images/a/bg1.jpg*/);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    float: none;
+    height: 413px;
+}
+#box_m2{
+   background-image: url("../images/a/bg2.jpg"/*tpa=http://www.lypbhg.com/images/a/bg2.jpg*/);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    float: none;
+    height: 405px;
+}
+/*#box_m3{
+   background-image: url("../images/a/bg3.jpg"/*tpa=http://www.lypbhg.com/images/a/bg3.jpg*/);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    float: none;
+    height: 406px;
+}*/
+#box_m1_sub1{
+   margin: auto;
+    width: 980px;
+    float: none;
+}
+#box_m1_sub1_sub1{
+   margin-top: 130px;
+    width: 388px;
+    float: left;
+    margin-left: 62px;
+}
+#box_m1_sub1_sub2{
+   margin-top: 190px;
+    width: 52%;
+    float: right;
+}
+#box_m2_sub1{
+   margin: auto;
+    width: 1000px;
+    float: none;
+    padding-top: 64px;
+}
+#box_m2_sub2{
+   margin: auto;
+    width: 1000px;
+    float: none;
+}
+#box_m3_sub1{
+   margin: auto;
+    width: 980px;
+    float: none;
+}
+#box_m3_sub1_sub1{
+   margin-top: 145px;
+    width: 440px;
+    float: left;
+}
+#box_m3_sub1_sub2{
+   width: 480px; margin-top:212px;
+    float: right;
+}

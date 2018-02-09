@@ -1,0 +1,638 @@
+@charset "utf-8";
+/*************************************
+* 文件名称：botton.css
+* 作   者：界面设计制作部
+* 创建日期：2008-2-19
+* 最后修改：name/ 第X行 / yyyy-mm-dd
+* 文件版本：UI CSS Frameworks Beta
+* 内容概要: 框架公用样式文件
+*************************************/
+/* 按钮样式 */
+a.btna {
+	display: inline-block;
+	display: -moz-inline-stack;
+	padding:0 10px 0 0;
+	text-align:center;
+	margin-right:10px;
+	text-decoration:none!important;
+}
+a.btna span:-moz-any-link {
+	/*border:3px solid #f90;   modify */
+}
+a.btna:hover {
+	color:#fff;
+	text-decoration:none;
+}
+/** 按钮1 **/
+a.btna-com-01 {
+	height:31px;
+	line-height:31px;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-01.gif*/) 100% -31px no-repeat;
+}
+a.btna-com-01 span.btna-s {
+	color:#fff;
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	height:31px;
+	line-height:31px;
+	background:url("../images/common/button/btna-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-01.gif*/) 0 0 no-repeat;
+}
+a.btna-com-01:hover {
+	background:url("../images/common/button/btna-blue1-02.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-02.gif*/) 100% -31px no-repeat;
+}
+a.btna-com-01:hover span.btna-s {
+	background:url("../images/common/button/btna-blue1-02.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-02.gif*/) 0 0 no-repeat;
+}
+/** 按钮2 **/
+a.btna-unimp-01 {
+	height:31px;
+	line-height:31px;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-03.gif*/) 100% -31px no-repeat;
+	color:#0068B7;
+}
+a.btna-unimp-01 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	color:#0068B7;
+	height:31px;
+	line-height:31px;
+	background:url("../images/common/button/btna-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-03.gif*/) 0 0 no-repeat;
+}
+a.btna-unimp-01:hover {
+	background:url("../images/common/button/btna-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-03.gif*/) 100% -31px no-repeat;
+}
+a.btna-unimp-01:hover span.btna-s {
+	color:#0068B7;
+	background:url("../images/common/button/btna-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-03.gif*/) 0 0 no-repeat;
+}
+/** 按钮3 **/
+a.btna-com-02 {
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-blue1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-04.gif*/) 100% -50px no-repeat;
+	height:50px;
+	line-height:40px;
+}
+a.btna-com-02 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	color:#fff;
+	height:31px;
+	line-height:31px;
+	background:url("../images/common/button/btna-blue1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-04.gif*/) 0 0 no-repeat;
+}
+a.btna-com-02:hover {
+	background:url("../images/common/button/btna-blue1-05.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-05.gif*/) 100% -50px no-repeat;
+}
+a.btna-com-02:hover span.btna-s {
+	background:url("../images/common/button/btna-blue1-05.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-05.gif*/) 0 0 no-repeat;
+}
+/** 按钮4 **/
+a.btna-unimp-02 {
+	height:31px;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-blue1-06.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-06.gif*/) 100% -50px no-repeat;
+	height:50px;
+	line-height:40px;
+	color:#898989;
+}
+a.btna-unimp-02 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	color:#fff;
+	height:31px;
+	line-height:31px;
+	background:url("../images/common/button/btna-blue1-06.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-06.gif*/) 0 0 no-repeat;
+}
+a.btna-unimp-02:hover {
+	background:url("../images/common/button/btna-blue1-06.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-06.gif*/) 100% -50px no-repeat;
+}
+a.btna-unimp-02:hover span.btna-s {
+	background:url("../images/common/button/btna-blue1-06.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-06.gif*/) 0 0 no-repeat;
+	color:#0068b7;
+}
+/** 按钮5 **/
+a.btna-com-03 {
+	color:#fff;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-blue1-07.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-07.gif*/) 100% -24px no-repeat;
+	height:24px;
+	line-height:24px;
+	font-size:12px;
+}
+a.btna-com-03 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	color:#fff;
+	background:url("../images/common/button/btna-blue1-07.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-07.gif*/) 0 0 no-repeat;
+	height:24px;
+	line-height:24px;
+}
+a.btna-com-03:hover {
+	background:url("../images/common/button/btna-blue1-08.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-08.gif*/) 100% -24px no-repeat;
+}
+a.btna-com-03:hover span.btna-s {
+	background:url("../images/common/button/btna-blue1-08.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-08.gif*/) 0 0 no-repeat;
+}
+/** 按钮6 **/
+a.btna-unimp-03 {
+	color:#fff;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-blue1-09.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-09.gif*/) 100% -24px no-repeat;
+	height:24px;
+	line-height:24px;
+	color:#898989;
+	font-size:12px;
+}
+a.btna-unimp-03 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	color:#fff;
+	background:url("../images/common/button/btna-blue1-09.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-09.gif*/) 100% -24px no-repeat;
+	height:24px;
+	line-height:24px;
+}
+a.btna-unimp-03:hover {
+	background:url("../images/common/button/btna-blue1-09.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-09.gif*/) 100% -24px no-repeat;
+	color:#0068b7;
+}
+a.btna-unimp-03:hover span.btna-s {
+	background:url("../images/common/button/btna-blue1-09.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-09.gif*/) 0 0 no-repeat;
+}
+/** 按钮7 **/
+a.btna-imp-01 {
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-red1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-01.gif*/) 100% -50px no-repeat;
+	height:50px;
+	line-height:40px;
+}
+a.btna-imp-01 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	color:#fff;
+	height:31px;
+	line-height:31px;
+	background:url("../images/common/button/btna-red1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-01.gif*/) 0 0 no-repeat;
+}
+a.btna-imp-01:hover {
+	background:url("../images/common/button/btna-red1-02.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-02.gif*/) 100% -50px no-repeat;
+}
+a.btna-imp-01:hover span.btna-s {
+	background:url("../images/common/button/btna-red1-02.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-02.gif*/) 0 0 no-repeat;
+}
+/** 按钮8**/
+a.btna-imp-02 {
+	color:#fff;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-red1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-03.gif*/) 100% -24px no-repeat;
+	height:24px;
+	line-height:24px;
+	font-size:12px;
+}
+a.btna-imp-02 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	background:url("../images/common/button/btna-red1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-03.gif*/) 0 0 no-repeat;
+	height:24px;
+	line-height:24px;
+	color:#fff;
+}
+a.btna-imp-02:hover {
+	background:url("../images/common/button/btna-red1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-04.gif*/) 100% -24px no-repeat;
+}
+a.btna-imp-02:hover span.btna-s {
+	background:url("../images/common/button/btna-red1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-04.gif*/) 0 0 no-repeat;
+}
+/** 按钮9 **/
+a.btna-com-04 {
+	height:31px;
+	line-height:31px;
+	color:#fff;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-blue1-10.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-10.gif*/) 100% -22px no-repeat;
+	height:22px;
+	line-height:22px;
+	font-size:12px;
+	font-weight:normal;
+	#padding-right:3px;
+}
+a.btna-com-04 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	color:#fff;
+	background:url("../images/common/button/btna-blue1-10.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-10.gif*/) 0 0 no-repeat;
+	height:22px;
+	line-height:22px;
+}
+a.btna-com-04:hover {
+	background:url("../images/common/button/btna-blue1-11.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-11.gif*/) 100% -22px no-repeat;
+}
+a.btna-com-04:hover span.btna-s {
+	background:url("../images/common/button/btna-blue1-11.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-11.gif*/) 0 0 no-repeat;
+}
+/** 按钮10 **/
+a.btna-unimp-04 {
+	background:url("../images/common/button/btna-blue1-12.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-12.gif*/) 100% -22px no-repeat;
+	height:22px;
+	line-height:22px;
+	font-size:12px;
+	font-weight:normal;
+	color:#fff;
+	display: inline-block;
+}
+a.btna-unimp-04 span.btna-s {
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	background:url("../images/common/button/btna-blue1-12.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-12.gif*/) 0 0 no-repeat;
+	height:22px;
+	line-height:22px;
+}
+a.btna-unimp-04:hover {
+	background:url("../images/common/button/btna-blue1-13.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-13.gif*/) 100% -22px no-repeat;
+}
+a.btna-unimp-04:hover span.btna-s {
+	color:#fff;
+	background:url("../images/common/button/btna-blue1-13.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-13.gif*/) 0 0 no-repeat;
+}
+/** 按钮10 **/
+a.btna11 {
+	display:block;
+	background:url("../images/common/button/btna-gray1-05.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-05.gif*/) 0 0 no-repeat;
+	width:52px;
+	height:22px;
+	line-height:22px;
+	font-size:12px;
+	font-weight:normal;
+	color:#898989;
+}
+a.btna11:hover {
+	background:url("../images/common/button/btna-gray1-06.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-06.gif*/) 0 0 no-repeat;
+	color:#898989;
+}
+/** 按钮 **/
+.btn {
+	width:72px;
+	height:31px;
+	line-height:31px;
+	border:0;
+	color:#fff;
+	cursor:pointer;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+}
+/** 按钮1 **/
+.btn-com-01 {
+	background:url("../images/common/button/btn-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-01.gif*/) 0 0 no-repeat;
+}
+.btn-com-up01 {
+	background:url("../images/common/button/btn-blue1-02.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-02.gif*/) 0 0 no-repeat;
+}
+/** 按钮2 **/
+.btn-unimp-01 {
+	background:url("../images/common/button/btn-blue1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-01.gif*/) 0 0 no-repeat;
+	color:#fff;
+}
+.btn-unimp-up01 {
+	background:url("../images/common/button/btn-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-03.gif*/) 0 0 no-repeat;
+	color:#0068b7;
+}
+/** 按钮3 **/
+.btn-com-02 {
+	background:url("../images/common/button/btn-blue1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-04.gif*/) 0 0 no-repeat;
+	width:110px;
+	height:50px;
+	padding-bottom:10px;
+}
+.btn-com-up02 {
+	background:url("../images/common/button/btn-blue1-05.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-05.gif*/) 0 0 no-repeat;
+}
+/** 按钮4 **/
+.btn-unimp-02 {
+	background:url("../images/common/button/btn-blue1-06.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-06.gif*/) 0 0 no-repeat;
+	width:80px;
+	height:50px;
+	padding-bottom:10px;
+	color:#0068b7;
+}
+.btn-unimp-up02 {
+	background:url("../images/common/button/btn-blue1-06.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-06.gif*/) 0 0 no-repeat;
+	color:#0068b7;
+}
+/** 按钮5 **/
+.btn-com-03 {
+	background:url("../images/common/button/btn-blue1-07.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-07.gif*/) 0 0 no-repeat;
+	width:56px;
+	height:24px;
+	font-size:12px;
+	line-height:26px;
+}
+.btn-com-up03 {
+	background:url("../images/common/button/btn-blue1-08.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-08.gif*/) 0 0 no-repeat;
+}
+/** 按钮6 **/
+.btn-unimp-03 {
+	background:url("../images/common/button/btn-blue1-09.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-09.gif*/) 0 0 no-repeat;
+	width:56px;
+	height:24px;
+	font-size:12px;
+	color:#0068b7;
+	line-height:26px;
+}
+.btn-unimp-up03 {
+	background:url("../images/common/button/btn-blue1-09.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-09.gif*/) 0 0 no-repeat;
+	color:#0068b7;
+}
+/** 按钮7 **/
+.btn-imp-01 {
+	background:url("../images/common/button/btn-red1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-red1-01.gif*/) 0 0 no-repeat;
+	width:110px;
+	height:50px;
+	padding-bottom:10px;
+}
+.btn-imp-up01 {
+	background:url("../images/common/button/btn-red1-02.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-red1-02.gif*/) 0 0 no-repeat;
+}
+/** 按钮8 **/
+.btn-imp-02 {
+	background:url("../images/common/button/btn-red1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-red1-03.gif*/) 0 0 no-repeat;
+	width:56px;
+	height:24px;
+	line-height:24px;
+	font-size:12px;
+}
+.btn-imp-up02 {
+	background:url("../images/common/button/btn-red1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-red1-04.gif*/) 0 0 no-repeat;
+}
+/** 按钮9 **/
+.btn-com-04 {
+	background:url("../images/common/button/btn-blue1-10.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-10.gif*/) 0 0 no-repeat;
+	width:42px;
+	height:22px;
+	line-height:22px;
+	font-size:12px;
+	font-weight:normal;
+}
+.btn-com-up04 {
+	background:url("../images/common/button/btn-blue1-11.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-11.gif*/) 0 0 no-repeat;
+}
+/** 按钮10 **/
+.btn-unimp-04 {
+	background:url("../images/common/button/btn-blue1-12.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-12.gif*/) 0 0 no-repeat;
+	width:42px;
+	height:22px;
+	line-height:22px;
+	font-size:12px;
+	font-weight:normal;
+	color:#0068b7;
+}
+.btn-unimp-up04 {
+	background:url("../images/common/button/btn-blue1-12.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-12.gif*/) 0 0 no-repeat;
+	color:#0068b7;
+}
+/** 按钮11 **/
+.btn-com-05 {
+	background:url("../images/common/button/btn-blue1-13.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-13.gif*/) 0 0 no-repeat;
+	width:112px;
+	height:31px;
+	line-height:31px;
+}
+.btn-com-up05 {
+	background:url("../images/common/button/btn-blue1-14.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-14.gif*/) 0 0 no-repeat;
+}
+/** 按钮11 **/
+.btn-com-06 {
+	background:url("../images/common/button/btn-blue1-15.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-15.gif*/) 0 0 no-repeat;
+	width:68px;
+	font-size:12px;
+	font-weight:normal;
+	height:22px;
+	line-height:22px;
+}
+.btn-com-up06 {
+	background:url("../images/common/button/btn-blue1-16.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-16.gif*/) 0 0 no-repeat;
+}
+
+
+/** 2010.1.23新增加按钮 **/
+
+
+/** 按钮12 **/
+a.btna-unimp-05 {
+	height:31px;
+	line-height:31px;
+	color:#000;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-gray1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-01.gif*/) 100% -31px no-repeat;
+}
+a.btna-unimp-05 span.btna-s {
+	color:#666;
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	height:31px;
+	line-height:31px;
+	background:url("../images/common/button/btna-gray1-01.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-01.gif*/) 0 0 no-repeat;
+}
+a.btna-unimp-05:hover {
+	background:url("../images/common/button/btna-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-03.gif*/) 100% -31px no-repeat;
+}
+a.btna-unimp-05:hover span.btna-s {
+	background:url("../images/common/button/btna-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-03.gif*/) 0 0 no-repeat;
+	color:#FFF;
+}
+
+
+/** 按钮13 **/
+a.btna-unimp-06 {
+	height:22px;
+	line-height:22px;
+	color:#000;
+	font-size:12px;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-gray1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-04.gif*/) 100% -22px no-repeat;
+}
+a.btna-unimp-06 span.btna-s {
+	color:#000;
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	height:22px;
+	line-height:22px;
+	background:url("../images/common/button/btna-gray1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-04.gif*/) 0 0 no-repeat;
+}
+a.btna-unimp-06:hover {
+	background:url("../images/common/button/btna-blue1-12.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-12.gif*/) 100% -22px no-repeat;
+}
+a.btna-unimp-06:hover span.btna-s {
+	background:url("../images/common/button/btna-blue1-12.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-blue1-12.gif*/) 0 0 no-repeat;
+	color:#FFF;
+}
+
+
+
+/** 按钮14 **/
+a.btna-unimp-07 {
+	height:36px;
+	line-height:36px;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-red1-07.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-07.gif*/) 100% -36px no-repeat;
+}
+a.btna-unimp-07 span.btna-s {
+	color:#fff;
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	height:36px;
+	line-height:36px;
+	background:url("../images/common/button/btna-red1-07.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-07.gif*/) 0 0 no-repeat;
+}
+a.btna-unimp-07:hover {
+	background:url("../images/common/button/btna-red1-08.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-08.gif*/) 100% -36px no-repeat;
+}
+a.btna-unimp-07:hover span.btna-s {
+	background:url("../images/common/button/btna-red1-08.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-08.gif*/) 0 0 no-repeat;
+}
+
+/** 按钮15 **/
+a.btna-unimp-08 {
+	height:23px;
+	line-height:23px;
+	color:#fff;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	background:url("../images/common/button/btna-red1-09.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-09.gif*/) 100% -23px no-repeat;
+}
+a.btna-unimp-08 span.btna-s {
+	color:#fff;
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	height:23px;
+	line-height:23px;
+	background:url("../images/common/button/btna-red1-09.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-09.gif*/) 0 0 no-repeat;
+}
+a.btna-unimp-08:hover {
+	background:url("../images/common/button/btna-red1-10.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-10.gif*/) 100% -23px no-repeat;
+}
+a.btna-unimp-08:hover span.btna-s {
+	background:url("../images/common/button/btna-red1-10.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-red1-10.gif*/) 0 0 no-repeat;
+}
+
+
+/** 按钮16 **/
+.btn-com-07 {
+	background:url("../images/common/button/btn-blue1-17.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-17.gif*/) 0 0 no-repeat;
+	color:#555;
+}
+.btn-com-up07 {
+	background:url("../images/common/button/btn-blue1-03.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-blue1-03.gif*/) 0 0 no-repeat;
+	color:#FFF;
+}
+
+
+/** 按钮17 **/
+.btn-imp-03 {
+	background:url("../images/common/button/btn-red1-05.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-red1-05.gif*/) 0 0 no-repeat;
+	width:41px;
+	height:21px;
+	line-height:21px;
+	font-size:12px;
+}
+.btn-imp-up03 {
+	background:url("../images/common/button/btn-red1-06.gif"/*tpa=http://www.lypbhg.com/images/common/button/btn-red1-06.gif*/) 0 0 no-repeat;
+}
+
+/** 按钮18**/
+a.btna-unimp1-01 {
+	height:22px;
+	line-height:22px;
+	color:#000;
+	font-size:12px;
+	text-decoration:none!important;
+	background:url("../images/common/button/btna-gray1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-04.gif*/) right -22px no-repeat;
+}
+a.btna-unimp1-01 span.btna-s {
+	color:#000;
+	text-decoration:none;
+	padding:0 0 0 10px;
+	cursor:pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	height:22px;
+	line-height:22px;
+	background:url("../images/common/button/btna-gray1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-04.gif*/) left 0 no-repeat;
+}
+a.btna-unimp1-01:hover {
+	background:url("../images/common/button/btna-gray1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-04.gif*/) right -22px no-repeat;
+	cursor:text;
+}
+a.btna-unimp1-01:hover span.btna-s {
+	background:url("../images/common/button/btna-gray1-04.gif"/*tpa=http://www.lypbhg.com/images/common/button/btna-gray1-04.gif*/) left 0 no-repeat;
+	cursor:text;
+}
+
+
+
+
