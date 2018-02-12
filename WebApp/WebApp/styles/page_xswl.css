@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /*************************************
 * 文件名称：page_index.css
 * 作   者：界面设计制作部
@@ -12,11 +12,11 @@
 @import url("layout_1default.css"/*tpa=http://www.lypbhg.com/styles/layout_1default.css*/);
 
 /*内容*/
-@import url("page_xswl_members.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_members.css*/);
-@import url("page_xswl_orders.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_orders.css*/);
-@import url("page_xswl_specifies.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_specifies.css*/);
-@import url("page_xswl_columns.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_columns.css*/);
-@import url("page_xswl_public.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_public.css*/);
+@import url("../page_xswl_members.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_members.css*/);
+@import url("../page_xswl_orders.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_orders.css*/);
+@import url("../page_xswl_specifies.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_specifies.css*/);
+@import url("../page_xswl_columns.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_columns.css*/);
+@import url("../page_xswl_public.css"/*tpa=http://www.lypbhg.com/styles/page_xswl_public.css*/);
 
 
 

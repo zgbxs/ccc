@@ -16,7 +16,7 @@
     <!-- 推广优化组件结束 -->  
     <script type="text/javascript" src="../publicScripts/common/jquery.js" tppabs="http://www.lypbhg.com/publicScripts/common/jquery.js"></script>
 <script type="text/javascript" src="../publicScripts/lib.min.js" tppabs="http://www.lypbhg.com/publicScripts/lib.min.js"></script>  
-<script src="../publicScripts/common/ebiz-tabs.js" tppabs="http://www.lypbhg.com/publicScripts/common/ebiz-tabs.js" type="text/javascript"></script>  
+<%--<script src="../publicScripts/common/ebiz-tabs.js" tppabs="http://www.lypbhg.com/publicScripts/common/ebiz-tabs.js" type="text/javascript"></script>--%>  
     <!-- InstanceEndEditable --> 
   </head>  
   <body id="xswl"> 
@@ -136,75 +136,92 @@
         </div>
       <!-- 头部导航结束 -->  
       <!-- banner广告开始 -->  
-      <div id="box_banner"> 
-        <DIV xmlns="" class="columnSpace" id="elem-FrontPublic_slideShow01-1454575941955" name="公用幻灯">  
-          <script type="text/javascript" src="../publicScripts/public/FrontPublic_slideShow01.js" tppabs="http://www.lypbhg.com/publicScripts/public/FrontPublic_slideShow01.js"></script>
-<script language="javascript">
-	//<![CDATA[
-		FrontPublic_slideShow01['FrontPublic_slideShow01-1454575941955_init'] = function (){
-		 FrontPublic_slideShow01['FrontPublic_slideShow01-1454575941955_init'] = new FrontPublic_slideShow01();
-		 FrontPublic_slideShow01['FrontPublic_slideShow01-1454575941955_init'].d5_slide("960","");
-		}
-		$( FrontPublic_slideShow01['FrontPublic_slideShow01-1454575941955_init']);
-	// ]]>
-</script>  
-<script type="text/javascript" src="../publicScripts/common/superslide.2.1.js" tppabs="http://www.lypbhg.com/publicScripts/common/superslide.2.1.js"></script>
-<div id="FrontPublic_slideShow01-1454575941955" class="FrontPublic_slideShow01-d6_c1"><div class="fullSlide">
-	<div class="bd">
-		<ul>
-       <li>
-        			<a href="javascript:void(0)" class="f_pic" >
-		       	  			<img src="../imageRepository/a78ada03-b987-4155-84ff-059b720d51e6.jpg" tppabs="http://www.lypbhg.com/imageRepository/a78ada03-b987-4155-84ff-059b720d51e6.jpg" />
-		       	  			</a>
-		       	  			<a href="javascript:void(0)" class="f_title" >
-		       	  			</a>
-						</li>     
-	   <li>
-        			<a href="javascript:void(0)" class="f_pic" >
-		       	  			<img src="../imageRepository/f0198757-ae41-4dde-aa27-c22759059f6b.jpg" tppabs="http://www.lypbhg.com/imageRepository/f0198757-ae41-4dde-aa27-c22759059f6b.jpg" />
-		       	  			</a>
-		       	  			<a href="javascript:void(0)" class="f_title" >
-		       	  			</a>
-						</li>     
-	   <li>
-        			<a href="javascript:void(0)" class="f_pic" >
-		       	  			<img src="../imageRepository/12c77eee-29b8-462e-aa0e-43dc89012db9.jpg" tppabs="http://www.lypbhg.com/imageRepository/12c77eee-29b8-462e-aa0e-43dc89012db9.jpg" />
-		       	  			</a>
-		       	  			<a href="javascript:void(0)" class="f_title" >
-		       	  			</a>
-						</li>     
-	   </ul>
-	</div>
-	<div class="hd"><ul></ul></div>
-	<span class="prev"></span>
-	<span class="next"></span>
-</div>
-	<script type="text/javascript">
-$(".fullSlide").hover(function(){
-    $(this).find("http://www.lypbhg.com/xswl/.prev,.next").stop(true, true).fadeTo("show", 0.5)
-},
-function(){
-    $(this).find("http://www.lypbhg.com/xswl/.prev,.next").fadeOut()
-});
-$(".fullSlide").slide({
-    titCell: ".hd ul",
-    mainCell: ".bd ul",
-    effect: "fold",
-    autoPlay: true,
-    autoPage: true,
-    trigger: "click",
-	interTime:"5"*1000,
-    startFun: function(i) {
-        var curLi = jQuery(".fullSlide .bd li").eq(i);
-        if ( !! curLi.attr("_src")) {
-            curLi.css("background-image", curLi.attr("_src")).removeAttr("_src")
-        }
-    }
-});
-</script>   
-</div> 
-        </DIV> 
-      </div>  
+      <div id="box_banner">
+            <div xmlns="" class="columnSpace" id="elem-FrontPublic_slideShow01-1454566497297" name="公用幻灯">
+                <script type="text/javascript" src="/publicScripts/public/FrontPublic_slideShow01.js"></script>
+                <script language="javascript">
+                    //<![CDATA[
+                    FrontPublic_slideShow01['FrontPublic_slideShow01-1454566497297_init'] = function ()
+                    {
+                        FrontPublic_slideShow01['FrontPublic_slideShow01-1454566497297_init'] = new FrontPublic_slideShow01();
+                        FrontPublic_slideShow01['FrontPublic_slideShow01-1454566497297_init'].d5_slide("960", "");
+                    }
+                    $(FrontPublic_slideShow01['FrontPublic_slideShow01-1454566497297_init']);
+                    // ]]>
+                </script>
+                <script type="text/javascript" src="/publicScripts/common/superslide.2.1.js"></script>
+                <div id="FrontPublic_slideShow01-1454566497297" class="FrontPublic_slideShow01-d6_c1">
+                    <div class="fullSlide">
+                        <div class="bd">
+                            <ul>
+                                <li>
+                                    <a href="javascript:void(0)" class="f_pic">
+                                        <img src="/images/a/home1.jpg" />
+                                    </a>
+                                    <a href="javascript:void(0)" class="f_title"></a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="f_pic">
+                                        <img src="/images/a/home2.jpg" />
+                                    </a>
+                                    <a href="javascript:void(0)" class="f_title"></a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="f_pic">
+                                        <img src="/images/a/home3.jpg" />
+                                    </a>
+                                    <a href="javascript:void(0)" class="f_title"></a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="f_pic">
+                                        <img src="/images/a/home4.jpg" />
+                                    </a>
+                                    <a href="javascript:void(0)" class="f_title"></a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="f_pic">
+                                        <img src="/images/a/home5.jpg" />
+                                    </a>
+                                    <a href="javascript:void(0)" class="f_title"></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="hd">
+                            <ul></ul>
+                        </div>
+                        <span class="prev"></span>
+                        <span class="next"></span>
+                    </div>
+                    <script type="text/javascript">
+                        $(".fullSlide").hover(function ()
+                        {
+                            $(this).find(".prev,.next").stop(true, true).fadeTo("show", 0.5)
+                        },
+                        function ()
+                        {
+                            $(this).find(".prev,.next").fadeOut()
+                        });
+                        $(".fullSlide").slide({
+                            titCell: ".hd ul",
+                            mainCell: ".bd ul",
+                            effect: "fold",
+                            autoPlay: true,
+                            autoPage: true,
+                            trigger: "click",
+                            interTime: "5" * 1000,
+                            startFun: function (i)
+                            {
+                                var curLi = jQuery(".fullSlide .bd li").eq(i);
+                                if (!!curLi.attr("_src"))
+                                {
+                                    curLi.css("background-image", curLi.attr("_src")).removeAttr("_src")
+                                }
+                            }
+                        });
+                    </script>
+                </div>
+            </div>
+        </div>
       <!-- banner广告开始 -->  
       <!-- 一列版式开始 -->  
       <div id="box_main"> 
@@ -289,16 +306,15 @@ $(".fullSlide").slide({
         <div class="clearBoth"></div> 
       </div>  
       <!-- 一列版式结束 -->  
-      <div id="box_footer"> 
-        <div class="containerContent"> 
-          <!-- 底部版权开始 -->  
-          <!-- 底部版权结束 -->  
-          <DIV xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454408098260" name="说明页">  
-            <div id="FrontSpecifies_show01-1454408098260" class="FrontSpecifies_show01-d1_c1"><p>
-	页面版权所有：2015 洛阳普波化工有限公司 <a href="javascript:if(confirm('http://www.miitbeian.gov.cn/  \n\n���ļ��޷��� Teleport Ultra ����, ��Ϊ ����һ�����·���ⲿ������Ϊ������ʼ��ַ�ĵ�ַ��  \n\n�����ڷ������ϴ���?'))window.location='http://www.miitbeian.gov.cn/'" tppabs="http://www.miitbeian.gov.cn/">豫ICP备12011363号</a> <a href="javascript:if(confirm('http://luoyang.300.cn/  \n\n���ļ��޷��� Teleport Ultra ����, ��Ϊ ����һ�����·���ⲿ������Ϊ������ʼ��ַ�ĵ�ַ��  \n\n�����ڷ������ϴ���?'))window.location='http://luoyang.300.cn/'" tppabs="http://luoyang.300.cn/">中企动力提供网站建设</a></p></div> 
-          </DIV> 
-        </div> 
-      </div>  
+      <div id="box_footer">
+            <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454408098260" name="说明页">
+                <div id="FrontSpecifies_show01-1454408098260" class="FrontSpecifies_show01-d1_c1">
+                    <p>
+                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
+                    </p>
+                </div>
+            </div>
+        </div>
       <!-- 默认隐藏样式(可编辑区域) 开始-->  
       <!-- 默认隐藏样式(可编辑区域) 结束--> 
     </div>  
