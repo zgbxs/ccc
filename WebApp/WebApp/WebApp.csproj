@@ -69,7 +69,6 @@
     <Content Include="CompanyCuture.aspx" />
     <Content Include="CompanyProfile.aspx" />
     <Content Include="Contact.aspx" />
-    <Content Include="HtmlPage1.html" />
     <Content Include="packages.config" />
     <Content Include="products\p1.aspx" />
     <Content Include="products\p2.aspx" />

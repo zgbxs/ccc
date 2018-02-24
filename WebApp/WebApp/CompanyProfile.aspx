@@ -5,14 +5,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <!-- InstanceBegin template="/Templates/about.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
-    <!-- InstanceBeginEditable name="head" -->
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
     <link href="../styles/page_comcontent_detail.css"  rel="stylesheet" type="text/css" />
     <!-- 推广优化组件开始 -->
     <title>公司简介-上海爱佑化工新材料有限公司</title>
     <meta name="keywords" content="公司简介,上海爱佑化工新材料有限公司" />
     <meta name="description" content="公司简介" />
     <!-- 推广优化组件结束 -->
+    <link href="/styles/page_index.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="../publicScripts/common/jquery.js" ></script>
     <script type="text/javascript" src="../publicScripts/lib.min.js" ></script>
 </head>
@@ -133,39 +133,51 @@
         </div>
         <!-- 头部导航结束 -->
         <!-- banner广告开始 -->
-        <div id="box_banner">
-            <div xmlns="" class="columnSpace" id="elem-FrontPublic_slideShow01-1454575941955" name="公用幻灯">
-                <script type="text/javascript" src="../publicScripts/public/FrontPublic_slideShow01.js" ></script>
+   <div id="box_banner">
+            <div xmlns="" class="columnSpace" id="elem-FrontPublic_slideShow01-1454566497297" name="公用幻灯">
+                <script type="text/javascript" src="/publicScripts/public/FrontPublic_slideShow01.js"></script>
                 <script language="javascript">
                     //<![CDATA[
-                    FrontPublic_slideShow01['FrontPublic_slideShow01-1454575941955_init'] = function ()
+                    FrontPublic_slideShow01['FrontPublic_slideShow01-1454566497297_init'] = function ()
                     {
-                        FrontPublic_slideShow01['FrontPublic_slideShow01-1454575941955_init'] = new FrontPublic_slideShow01();
-                        FrontPublic_slideShow01['FrontPublic_slideShow01-1454575941955_init'].d5_slide("960", "");
+                        FrontPublic_slideShow01['FrontPublic_slideShow01-1454566497297_init'] = new FrontPublic_slideShow01();
+                        FrontPublic_slideShow01['FrontPublic_slideShow01-1454566497297_init'].d5_slide("960", "");
                     }
-                    $(FrontPublic_slideShow01['FrontPublic_slideShow01-1454575941955_init']);
+                    $(FrontPublic_slideShow01['FrontPublic_slideShow01-1454566497297_init']);
                     // ]]>
-</script>
-                <script type="text/javascript" src="../publicScripts/common/superslide.2.1.js" ></script>
-                <div id="FrontPublic_slideShow01-1454575941955" class="FrontPublic_slideShow01-d6_c1">
+                </script>
+                <script type="text/javascript" src="/publicScripts/common/superslide.2.1.js"></script>
+                <div id="FrontPublic_slideShow01-1454566497297" class="FrontPublic_slideShow01-d6_c1">
                     <div class="fullSlide">
                         <div class="bd">
                             <ul>
                                 <li>
                                     <a href="javascript:void(0)" class="f_pic">
-                                        <img src="../imageRepository/a78ada03-b987-4155-84ff-059b720d51e6.jpg"  />
+                                        <img src="/images/a/home1.jpg" />
                                     </a>
                                     <a href="javascript:void(0)" class="f_title"></a>
                                 </li>
                                 <li>
                                     <a href="javascript:void(0)" class="f_pic">
-                                        <img src="../imageRepository/f0198757-ae41-4dde-aa27-c22759059f6b.jpg"  />
+                                        <img src="/images/a/home2.jpg" />
                                     </a>
                                     <a href="javascript:void(0)" class="f_title"></a>
                                 </li>
                                 <li>
                                     <a href="javascript:void(0)" class="f_pic">
-                                        <img src="../imageRepository/12c77eee-29b8-462e-aa0e-43dc89012db9.jpg" />
+                                        <img src="/images/a/home3.jpg" />
+                                    </a>
+                                    <a href="javascript:void(0)" class="f_title"></a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="f_pic">
+                                        <img src="/images/a/home4.jpg" />
+                                    </a>
+                                    <a href="javascript:void(0)" class="f_title"></a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="f_pic">
+                                        <img src="/images/a/home5.jpg" />
                                     </a>
                                     <a href="javascript:void(0)" class="f_title"></a>
                                 </li>
@@ -180,11 +192,11 @@
                     <script type="text/javascript">
                         $(".fullSlide").hover(function ()
                         {
-                            $(this).find("http://www.lypbhg.com/comcontent_detail/.prev,.next").stop(true, true).fadeTo("show", 0.5)
+                            $(this).find(".prev,.next").stop(true, true).fadeTo("show", 0.5)
                         },
                         function ()
                         {
-                            $(this).find("http://www.lypbhg.com/comcontent_detail/.prev,.next").fadeOut()
+                            $(this).find(".prev,.next").fadeOut()
                         });
                         $(".fullSlide").slide({
                             titCell: ".hd ul",
@@ -203,7 +215,7 @@
                                 }
                             }
                         });
-</script>
+                    </script>
                 </div>
             </div>
         </div>

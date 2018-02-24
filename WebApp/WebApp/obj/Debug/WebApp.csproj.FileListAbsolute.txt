@@ -34,6 +34,5 @@ F:\WebApp\ccc\WebApp\WebApp\bin\WebApp.dll
 F:\WebApp\ccc\WebApp\WebApp\bin\WebApp.pdb
 F:\WebApp\ccc\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 F:\WebApp\ccc\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\WebApp\ccc\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 F:\WebApp\ccc\WebApp\WebApp\obj\Debug\WebApp.dll
 F:\WebApp\ccc\WebApp\WebApp\obj\Debug\WebApp.pdb
