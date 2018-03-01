@@ -1,53 +1,54 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ProductsList.aspx.cs" Inherits="WebApp.ProductsList" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Catagory1.aspx.cs" Inherits="WebApp.Pro_Catagory.Catagory1" %>
+
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
+<!-- InstanceBegin template="/Templates/about.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <!-- InstanceBeginEditable name="head" -->
     <link href="/favicon.ico" rel="shortcut icon" type="shortcut icon" />
-    <link href="styles/page_products_list.css" rel="stylesheet" type="text/css" />
+    <link href="/styles/page_products_list.css" rel="stylesheet" type="text/css" />
     <!-- 推广优化组件开始 -->
     <title>上海爱佑化工新材料有限公司</title>
-    <meta name="description" content="-洛阳普波化工有限公司:" />
+    <meta name="keywords" content="上海爱佑化工新材料有限公司" />
+    <meta name="description" content="上海爱佑化工新材料有限公司主要从事化工产品" />
     <!-- 推广优化组件结束 -->
-    <link href="/styles/page_index.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript" src="publicScripts/common/jquery.js"></script>
-    <script type="text/javascript" src="publicScripts/lib.min.js"></script>
-    <script src="publicScripts/common/ebiz-tabs.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/publicScripts/common/jquery.js"></script>
+    <script type="text/javascript" src="/publicScripts/lib.min.js"></script>
     <!-- InstanceEndEditable -->
 </head>
 <body id="products_list">
     <div class="pageWidth" id="box_root">
         <!-- 头部导航开始 -->
         <div id="box_header">
-            <div id="box_top">
+            <div id="box_header_top">
                 <div id="box_logo">
-                    <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454566694480" name="说明页">
-                        <div id="FrontSpecifies_show01-1454566694480" class="FrontSpecifies_show01-d1_c1">
+                    <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454575752879" name="说明页">
+                        <div id="FrontSpecifies_show01-1454575752879" class="FrontSpecifies_show01-d1_c1">
                             <p>
-                                <a href="/home.aspx">
-                                    <img alt="" src="/images/a/logo.jpg" /></a>
+                                <img alt="" src="/imageRepository/befcc7ae-9c1a-4186-ba27-ccc7c19a9e0d.jpg" />
                             </p>
                         </div>
                     </div>
                 </div>
-                <div id="box_top_sub2">
-                    <div xmlns="" class="columnSpace" id="elem-FrontColumns_navigation01-1454567950644" name="栏目导航">
+                <div id="box_seach">
+                    <div xmlns="" class="columnSpace" id="elem-FrontColumns_navigation01-1454575764599" name="栏目导航">
                         <script type="text/javascript" src="/publicScripts/columns/FrontColumns_navigation01.js"></script>
                         <script type="text/javascript">
                             //<![CDATA[
-                            FrontColumns_navigation01['FrontColumns_navigation01-1454567950644_init'] = function ()
+                            FrontColumns_navigation01['FrontColumns_navigation01-1454575764599_init'] = function ()
                             {
-                                FrontColumns_navigation01.d2ddlevelsmenu.init("d2menubar_FrontColumns_navigation01-1454567950644", "topbar");
+                                FrontColumns_navigation01.d2ddlevelsmenu.init("d2menubar_FrontColumns_navigation01-1454575764599", "topbar");
                             }
-                            $(FrontColumns_navigation01['FrontColumns_navigation01-1454567950644_init']);
+                            $(FrontColumns_navigation01['FrontColumns_navigation01-1454575764599_init']);
                             // ]]>
                         </script>
-                        <div id="FrontColumns_navigation01-1454567950644" class="FrontColumns_navigation01-d2_c1">
-                            <div id="d2menubar_FrontColumns_navigation01-1454567950644" class="mattblackmenu">
+                        <div id="FrontColumns_navigation01-1454575764599" class="FrontColumns_navigation01-d2_c1">
+                            <div id="d2menubar_FrontColumns_navigation01-1454575764599" class="mattblackmenu">
                                 <ul class="nav-first">
-                                    <li class="first">
+                                      <li class="first">
                                         <a href="/home.aspx" title="网站首页">网站首页
                                         </a>
                                     </li>
@@ -74,7 +75,7 @@
                                     <li class="last"></li>
                                 </ul>
                             </div>
-                            <ul id="summenu_FrontColumns_navigation01-1454567950644_58" class="ddsubmenustyle">
+                              <ul id="summenu_FrontColumns_navigation01-1454567950644_58" class="ddsubmenustyle">
                                 <li>
                                     <a href="/CompanyProfile.aspx">公司介绍
                                     </a>
@@ -230,18 +231,14 @@
                     <div id="box_left_sub1_sub1">
                         <!--InstanceBeginEditable name="box_left_sub1_sub1"-->
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339492859175" name="说明页">
-                            <div id="FrontSpecifies_show01-1339492859175" class="FrontSpecifies_show01-d1_c1">
-                                <p>
-                                    <img alt="" src="imageRepository/f7d81c4f-88e5-45dc-a20c-7a6c6666dbae.jpg" tppabs="http://www.lypbhg.com/imageRepository/f7d81c4f-88e5-45dc-a20c-7a6c6666dbae.jpg" />
-                                </p>
-                            </div>
+                            <div id="FrontSpecifies_show01-1339492859175" class="FrontSpecifies_show01-d1_c1"></div>
                         </div>
                         <!--InstanceEndEditable-->
                     </div>
                     <div id="box_left_sub1_sub2">
                         <!--InstanceBeginEditable name="box_left_sub1_sub2"-->
                         <div xmlns="" class="columnSpace" id="elem-FrontProductsCategory_show01-1339492834197" name="商品分类">
-                            <script type="text/javascript" src="publicScripts/products/FrontProductsCategory_show01.js" tppabs="http://www.lypbhg.com/publicScripts/products/FrontProductsCategory_show01.js"></script>
+                            <script type="text/javascript" src="/publicScripts/products/FrontProductsCategory_show01.js"></script>
                             <script type="text/javascript">
                                 //<![CDATA[
                                 FrontProductsCategory_show01['FrontProductsCategory_show01-1339492834197_init'] = function ()
@@ -264,10 +261,10 @@
                                 <div class="menu-first">
                                     <ul>
                                         <li class="menu-none">
-                                            <a href="products_list/pmcId=21.html" tppabs="http://www.lypbhg.com/products_list/pmcId=21.html" target="_self" class="menu-text1">液氨</a>
+                                            <a href="/products_list/pmcId=21.html" target="_self" class="menu-text1">液氨</a>
                                         </li>
                                         <li class="menu-none">
-                                            <a href="products_list/pmcId=22.html" tppabs="http://www.lypbhg.com/products_list/pmcId=22.html" target="_self" class="menu-text1">氨水</a>
+                                            <a href="/products_list/pmcId=22.html" target="_self" class="menu-text1">氨水</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -281,8 +278,8 @@
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488016849" name="说明页">
                             <div id="FrontSpecifies_show01-1339488016849" class="FrontSpecifies_show01-d1_c1">
                                 <p>
-                                    <a href="messages_list.html" tppabs="http://www.lypbhg.com/messages_list.html">
-                                        <img alt="" src="imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" tppabs="http://www.lypbhg.com/imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" /></a>
+                                    <a href="/messages_list.html">
+                                        <img alt="" src="/imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" /></a>
                                 </p>
                             </div>
                         </div>
@@ -291,7 +288,7 @@
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488126451" name="说明页">
                             <div id="FrontSpecifies_show01-1339488126451" class="FrontSpecifies_show01-d1_c1">
                                 <p>
-                                    <img alt="" src="imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" tppabs="http://www.lypbhg.com/imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" />
+                                    <img alt="" src="/imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" />
                                 </p>
                             </div>
                         </div>
@@ -303,7 +300,7 @@
                     <!--InstanceBeginEditable name="box_right_sub1"-->
                     <div class="clearBoth"></div>
                     <div xmlns="" class="columnSpace" id="elem-FrontProducts_list01-00412" name="商品列表">
-                        <script type="text/javascript" src="publicScripts/products/FrontProducts_list01.js" tppabs="http://www.lypbhg.com/publicScripts/products/FrontProducts_list01.js"></script>
+                        <script type="text/javascript" src="/publicScripts/products/FrontProducts_list01.js"></script>
                         <!-- 装饰器样式开始 -->
                         <div class="border_00">
                             <div class="border_00-topr">
@@ -314,9 +311,9 @@
                                 <div class="borderContent">
                                     <div id="FrontProducts_list01-00412" class="FrontProducts_list01-d1_c1">
                                         <div class="comptitle_00"><strong class="titlestyle_00">产品展示</strong><em><span class="moreLink"></span></em></div>
-                                        <form id="FrontProducts_list01-00412_Form" name="FrontProducts_list01-00412_Form" action="fi000001.html&pmcid=&pmscid=23&keyword=&propertyid=&searchtype=&brandid=&beginvalue=&endvalue=&orderby=8&sptype=&pageno_frontproducts_list01-00412=1&pagesize_frontproducts_list01-00412=12.htm" tppabs="http://www.lypbhg.com/FrontProducts.do?method=submit?action_page=/products_search_result.html&pmcId=&pmscId=23&keyword=&propertyId=&searchType=&brandId=&beginValue=&endValue=&orderby=8&spType=&pageNo_FrontProducts_list01-00412=1&pageSize_FrontProducts_list01-00412=12" method="post">
+                                        <form id="FrontProducts_list01-00412_Form" name="FrontProducts_list01-00412_Form" action="/FrontProducts.do?method=submit" method="post">
                                             <input type="hidden" name="action_page" value="/products_search_result.html" />
-                                            <input type="hidden" name="pmcId" value="" />
+                                            <input type="hidden" name="pmcId" value="21" />
                                             <input type="hidden" name="pmscId" value="23" />
                                             <input type="hidden" name="keyword" value="" />
                                             <input type="hidden" name="propertyId" value="" />
@@ -336,9 +333,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="products_detail/productId=26.html" 
+                                                        <a href="/products_detail/productId=26.html"
                                                             title="液氨" target="_self">
-                                                            <img src="imageRepository/213713da-30a8-47f2-bd98-c51b4512b2ea.jpg"  id="FrontProducts_list01-00412_26" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2ea.jpg" id="FrontProducts_list01-00412_26" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -347,7 +344,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="products_detail/productId=26.html" 
+                                                                    <a href="/products_detail/productId=26.html"
                                                                         title="液氨"
                                                                         target="_self">液氨</a>
                                                                 </strong>
@@ -361,9 +358,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="products_detail/productId=27.html" 
+                                                        <a href="/products_detail/productId=27.html"
                                                             title="液氨" target="_self">
-                                                            <img src="imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg"  id="FrontProducts_list01-00412_27" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_27" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -372,7 +369,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="products_detail/productId=27.html" 
+                                                                    <a href="/products_detail/productId=27.html"
                                                                         title="液氨"
                                                                         target="_self">液氨</a>
                                                                 </strong>
@@ -386,9 +383,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="products_detail/productId=24.html" 
+                                                        <a href="/products_detail/productId=24.html"
                                                             title="液氨" target="_self">
-                                                            <img src="imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-00412_24" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-00412_24" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -397,7 +394,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="products_detail/productId=24.html" 
+                                                                    <a href="/products_detail/productId=24.html"
                                                                         title="液氨"
                                                                         target="_self">液氨</a>
                                                                 </strong>
@@ -411,9 +408,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="products_detail/productId=23.html" 
-                                                            title="氨水" target="_self">
-                                                            <img src="imageRepository/8f76b093-b14d-4912-b955-05762b946809.jpg"  id="FrontProducts_list01-00412_23" alt="" title="氨水" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                        <a href="/products_detail/productId=21.html"
+                                                            title="液氨" target="_self">
+                                                            <img src="/imageRepository/93abce1b-0c65-4842-83a6-6ffeee8ee203.jpg" id="FrontProducts_list01-00412_21" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -422,9 +419,9 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="products_detail/productId=23.html" 
-                                                                        title="氨水"
-                                                                        target="_self">氨水</a>
+                                                                    <a href="/products_detail/productId=21.html"
+                                                                        title="液氨"
+                                                                        target="_self">液氨</a>
                                                                 </strong>
                                                             </h1>
                                                         </li>
@@ -437,9 +434,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="products_detail/productId=21.html" 
+                                                        <a href="/products_detail/productId=28.html"
                                                             title="液氨" target="_self">
-                                                            <img src="imageRepository/93abce1b-0c65-4842-83a6-6ffeee8ee203.jpg"  id="FrontProducts_list01-00412_21" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/imageRepository/0273f474-8a0e-4555-95ce-3d1adb99b485.jpg" id="FrontProducts_list01-00412_28" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -448,7 +445,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="products_detail/productId=21.html" 
+                                                                    <a href="/products_detail/productId=28.html"
                                                                         title="液氨"
                                                                         target="_self">液氨</a>
                                                                 </strong>
@@ -462,34 +459,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="products_detail/productId=22.html" 
-                                                            title="氨水" target="_self">
-                                                            <img src="imageRepository/5761b6c5-bfb7-4160-aed5-d3a2ff3978ac.jpg"  id="FrontProducts_list01-00412_22" alt="" title="氨水" onerror="this.src='/images/common/noimage.jpg'" /></a>
-                                                    </div>
-                                                </div>
-                                                <div class="pro-module">
-                                                    <ul class="basic">
-                                                        <li class="code">
-                                                            <h1>
-                                                                <span>商品名称：</span>
-                                                                <strong>
-                                                                    <a href="products_detail/productId=22.html" 
-                                                                        title="氨水"
-                                                                        target="_self">氨水</a>
-                                                                </strong>
-                                                            </h1>
-                                                        </li>
-                                                    </ul>
-                                                    <p class="buttonP">
-                                                    </p>
-                                                </div>
-                                            </li>
-                                            <li class="content column-num4">
-                                                <div class="pic-module">
-                                                    <div class="pic">
-                                                        <a href="products_detail/productId=28.html" 
+                                                        <a href="/products_detail/productId=25.html"
                                                             title="液氨" target="_self">
-                                                            <img src="imageRepository/0273f474-8a0e-4555-95ce-3d1adb99b485.jpg"  id="FrontProducts_list01-00412_28" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/imageRepository/8a0f1139-2428-4bc7-ad14-a808465412ee.jpg" id="FrontProducts_list01-00412_25" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -498,32 +470,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="products_detail/productId=28.html" 
-                                                                        title="液氨"
-                                                                        target="_self">液氨</a>
-                                                                </strong>
-                                                            </h1>
-                                                        </li>
-                                                    </ul>
-                                                    <p class="buttonP">
-                                                    </p>
-                                                </div>
-                                            </li>
-                                            <li class="content column-num4">
-                                                <div class="pic-module">
-                                                    <div class="pic">
-                                                        <a href="products_detail/productId=25.html" 
-                                                            title="液氨" target="_self">
-                                                            <img src="imageRepository/8a0f1139-2428-4bc7-ad14-a808465412ee.jpg"  id="FrontProducts_list01-00412_25" alt="" title="液氨" onerror="this.src='/images/common/noimage.jpg'" /></a>
-                                                    </div>
-                                                </div>
-                                                <div class="pro-module">
-                                                    <ul class="basic">
-                                                        <li class="code">
-                                                            <h1>
-                                                                <span>商品名称：</span>
-                                                                <strong>
-                                                                    <a href="products_detail/productId=25.html" 
+                                                                    <a href="/products_detail/productId=25.html"
                                                                         title="液氨"
                                                                         target="_self">液氨</a>
                                                                 </strong>
@@ -536,20 +483,20 @@
                                             </li>
                                             <li class="clearBoth"></li>
                                         </ul>
-                                      <%--  <div class="skip-pages">
+                                        <div class="skip-pages">
                                             <div class="bottom">
                                                 <div class="pageJump">
-                                                    <div class="totalcount">当前显示1-8条共8条</div>
-                                                    <div class="jump">转到<input id="pageNoId0cfe9665875a439797ad436172f9e2a3" type="text" class="textInput" value="1" maxlength="4" />页<input type="button" class="pgbtn" value="GO" onclick="jumpbutton_0cfe9665875a439797ad436172f9e2a3();" /></div>
+                                                    <div class="totalcount">当前显示1-6条共6条</div>
+                                                    <div class="jump">转到<input id="pageNoIdded637d51f1744bcb1d4733519e38934" type="text" class="textInput" value="1" maxlength="4" />页<input type="button" class="pgbtn" value="GO" onclick="jumpbutton_ded637d51f1744bcb1d4733519e38934();" /></div>
                                                     <div class="number"><span class="disabled">首页</span><span class="disabled">上一页</span><span class="current">1</span><span class="disabled">下一页</span><span class="disabled">末页</span></div>
                                                     <script language="javascript" type="text/JavaScript">
                                                         //<![CDATA[
-                                                        var locaton0cfe9665875a439797ad436172f9e2a3 = window.location.href; function scriptFunction0cfe9665875a439797ad436172f9e2a3() { var hrefTemp = document.getElementById("hrefTempId0cfe9665875a439797ad436172f9e2a3").value; var hrefPageNo = document.getElementById("pageNoId0cfe9665875a439797ad436172f9e2a3"); var hrefPageNoValue = hrefPageNo.value; var pattern = /^\d+(\.\d+)?$/; if (pattern.test(hrefPageNoValue) && hrefPageNoValue > 0 && hrefPageNoValue <= 1) { window.location.href = hrefTemp.replace("0cfe9665875a439797ad436172f9e2a3", hrefPageNoValue); } else { alert("页数输入不合法"); hrefPageNo.focus(); } } function jumpbutton_0cfe9665875a439797ad436172f9e2a3() { var hrefPageNo = document.getElementById("pageNoId0cfe9665875a439797ad436172f9e2a3"); var hrefPageNoValue = hrefPageNo.value; var pattern = /^\d+$/; if (pattern.test(hrefPageNoValue) && hrefPageNoValue > 0 && hrefPageNoValue <= 1) { jump_0cfe9665875a439797ad436172f9e2a3(hrefPageNoValue, 12) } else { alert("页数输入不合法"); hrefPageNo.focus(); } } function jump_0cfe9665875a439797ad436172f9e2a3(page_no, page_size) { var current_size = "pageSize_FrontProducts_list01-00412=12"; var current_no = "pageNo_FrontProducts_list01-00412=1"; var jumpLocation = locaton0cfe9665875a439797ad436172f9e2a3; if (locaton0cfe9665875a439797ad436172f9e2a3.indexOf("=") == -1) { if (jumpLocation.indexOf('.html') == -1) { if (jumpLocation.lastIndexOf('/') == window.location.href.length - 1) { jumpLocation = jumpLocation + 'index/.html'; } else { jumpLocation = jumpLocation + '/index/.html'; } } else { jumpLocation = jumpLocation.replace('.html', 'http://www.lypbhg.com/.html'); } } if (locaton0cfe9665875a439797ad436172f9e2a3.indexOf(current_no) != -1) { jumpLocation = jumpLocation.replace(current_no, "pageNo_FrontProducts_list01-00412=" + page_no); } else { jumpLocation = jumpLocation.replace(".html", "&pageNo_FrontProducts_list01-00412=" + page_no + ".html"); } if (locaton0cfe9665875a439797ad436172f9e2a3.indexOf(current_size) != -1) { jumpLocation = jumpLocation.replace(current_size, "pageSize_FrontProducts_list01-00412=" + page_size); } else { jumpLocation = jumpLocation.replace(".html", "&pageSize_FrontProducts_list01-00412=" + page_size + ".html"); } window.location.href = jumpLocation; return false; }
+                                                        var locatonded637d51f1744bcb1d4733519e38934 = window.location.href; function scriptFunctionded637d51f1744bcb1d4733519e38934() { var hrefTemp = document.getElementById("hrefTempIdded637d51f1744bcb1d4733519e38934").value; var hrefPageNo = document.getElementById("pageNoIdded637d51f1744bcb1d4733519e38934"); var hrefPageNoValue = hrefPageNo.value; var pattern = /^\d+(\.\d+)?$/; if (pattern.test(hrefPageNoValue) && hrefPageNoValue > 0 && hrefPageNoValue <= 1) { window.location.href = hrefTemp.replace("ded637d51f1744bcb1d4733519e38934", hrefPageNoValue); } else { alert("页数输入不合法"); hrefPageNo.focus(); } } function jumpbutton_ded637d51f1744bcb1d4733519e38934() { var hrefPageNo = document.getElementById("pageNoIdded637d51f1744bcb1d4733519e38934"); var hrefPageNoValue = hrefPageNo.value; var pattern = /^\d+$/; if (pattern.test(hrefPageNoValue) && hrefPageNoValue > 0 && hrefPageNoValue <= 1) { jump_ded637d51f1744bcb1d4733519e38934(hrefPageNoValue, 12) } else { alert("页数输入不合法"); hrefPageNo.focus(); } } function jump_ded637d51f1744bcb1d4733519e38934(page_no, page_size) { var current_size = "pageSize_FrontProducts_list01-00412=12"; var current_no = "pageNo_FrontProducts_list01-00412=1"; var jumpLocation = locatonded637d51f1744bcb1d4733519e38934; if (locatonded637d51f1744bcb1d4733519e38934.indexOf("=") == -1) { if (jumpLocation.indexOf('.html') == -1) { if (jumpLocation.lastIndexOf('/') == window.location.href.length - 1) { jumpLocation = jumpLocation + 'index/.html'; } else { jumpLocation = jumpLocation + '/index/.html'; } } else { jumpLocation = jumpLocation.replace('.html', '/.html'); } } if (locatonded637d51f1744bcb1d4733519e38934.indexOf(current_no) != -1) { jumpLocation = jumpLocation.replace(current_no, "pageNo_FrontProducts_list01-00412=" + page_no); } else { jumpLocation = jumpLocation.replace(".html", "&pageNo_FrontProducts_list01-00412=" + page_no + ".html"); } if (locatonded637d51f1744bcb1d4733519e38934.indexOf(current_size) != -1) { jumpLocation = jumpLocation.replace(current_size, "pageSize_FrontProducts_list01-00412=" + page_size); } else { jumpLocation = jumpLocation.replace(".html", "&pageSize_FrontProducts_list01-00412=" + page_size + ".html"); } window.location.href = jumpLocation; return false; }
                                                         //]]>
                                                     </script>
                                                 </div>
                                             </div>
-                                        </div>--%>
+                                        </div>
                                         <script type="text/javascript">
                                             //<![CDATA[
                                             FrontProducts_list01['FrontProducts_list01-00412_init'] = function ()
@@ -571,7 +518,7 @@
                                                             jQuery("#FrontProducts_list01-00412_" + data.id).attr("src", defaultImg);
                                                         } else
                                                         {
-                                                            jQuery("#FrontProducts_list01-00412_" + data.id).attr("src", "images/common/noimage.jpg.gif");
+                                                            jQuery("#FrontProducts_list01-00412_" + data.id).attr("src", "/images/common/noimage.jpg");
                                                         }
                                                     }
                                                 });
@@ -617,4 +564,3 @@
     <!-- InstanceEnd -->
 </body>
 </html>
-

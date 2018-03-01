@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WebApp.products
+namespace WebApp.Pro_Catagory
 {
-    public partial class pro : System.Web.UI.MasterPage
+    public partial class Catagory1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

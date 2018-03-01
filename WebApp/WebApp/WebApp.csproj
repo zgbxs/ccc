@@ -70,12 +70,6 @@
     <Content Include="CompanyProfile.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="packages.config" />
-    <Content Include="products\p1.aspx" />
-    <Content Include="products\p2.aspx" />
-    <Content Include="products\p3.aspx" />
-    <Content Include="products\p4.aspx" />
-    <Content Include="products\p5.aspx" />
-    <Content Include="products\pro.Master" />
     <None Include="Properties\PublishProfiles\tt.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -299,6 +293,8 @@
     <Content Include="images\questionnaire\que-bg-01.gif" />
     <Content Include="images\questionnaire\que-icon-01.gif" />
     <Content Include="ProductsList.aspx" />
+    <Content Include="products\p1.aspx" />
+    <Content Include="Pro_Catagory\Catagory1.aspx" />
     <Content Include="publicScripts\columns\FrontColumns_navigation01.js" />
     <Content Include="publicScripts\comcontent\FrontComContent_detail01.js" />
     <Content Include="publicScripts\comcontent\FrontComContent_list01.js" />
@@ -519,41 +515,6 @@
     <Compile Include="products\p1.aspx.designer.cs">
       <DependentUpon>p1.aspx</DependentUpon>
     </Compile>
-    <Compile Include="products\p2.aspx.cs">
-      <DependentUpon>p2.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="products\p2.aspx.designer.cs">
-      <DependentUpon>p2.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="products\p3.aspx.cs">
-      <DependentUpon>p3.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="products\p3.aspx.designer.cs">
-      <DependentUpon>p3.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="products\p4.aspx.cs">
-      <DependentUpon>p4.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="products\p4.aspx.designer.cs">
-      <DependentUpon>p4.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="products\p5.aspx.cs">
-      <DependentUpon>p5.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="products\p5.aspx.designer.cs">
-      <DependentUpon>p5.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="products\pro.Master.cs">
-      <DependentUpon>pro.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="products\pro.Master.designer.cs">
-      <DependentUpon>pro.Master</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="home.aspx.cs">
       <DependentUpon>home.aspx</DependentUpon>
@@ -561,6 +522,13 @@
     </Compile>
     <Compile Include="home.aspx.designer.cs">
       <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory1.aspx.cs">
+      <DependentUpon>Catagory1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory1.aspx.designer.cs">
+      <DependentUpon>Catagory1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Question.aspx.cs">
       <DependentUpon>Question.aspx</DependentUpon>

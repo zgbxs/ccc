@@ -7,9 +7,9 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace WebApp.products {
+namespace WebApp.Pro_Catagory {
     
     
-    public partial class pro {
+    public partial class Catagory1 {
     }
 }

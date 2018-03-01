@@ -12,7 +12,6 @@
     <link href="/styles/page_index.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="/publicScripts/common/jquery.js"></script>
     <script type="text/javascript" src="/publicScripts/lib.min.js"></script>
-    <%--<script src="../publicScripts/common/ebiz-tabs.js" type="text/javascript"></script>--%>
 </head>
 <body id="index">
     <div class="pageWidth" id="box_root">
@@ -298,9 +297,9 @@
                                 <li class="content column-num5">
                                     <div class="pic-module">
                                         <div class="pic">
-                                            <a href="/products_detail/productId=26.html"
-                                                title="液氨" target="_self">
-                                                <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2ea.jpg" id="FrontProducts_list01-1454567836539_26" alt="" title="液氨" " />
+                                            <a href="/products/p1.aspx"
+                                                title="FT合成蜡" target="_self">
+                                                <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2a.jpg" id="FrontProducts_list01-1454567836539_26" alt="" title="FT合成蜡" " />
                                             </a>
                                         </div>
                                     </div>
@@ -311,9 +310,8 @@
                                                     <span>商品名称：</span>
                                                     <strong>
                                                         <a href="/products_detail/productId=26.html"
-                                                            title="液氨"
-                                                            target="_self">液氨>
-                                                             <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2ea.jpg" id="FrontProducts_list01-1454567836539_26" alt="" title="液氨" " />
+                                                            title="FT合成蜡"
+                                                            target="_self">FT合成蜡>
                                                         </a>
                                                     </strong>
                                                 </h1>
@@ -327,8 +325,8 @@
                                     <div class="pic-module">
                                         <div class="pic">
                                             <a href="/products_detail/productId=27.html"
-                                                title="液氨" target="_self">
-                                                <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-1454567836539_27" alt="" title="液氨" " />
+                                                title="石油蜡微晶蜡" target="_self">
+                                                <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-1454567836539_27" alt="" title="石油蜡微晶蜡" " />
                                             </a>
                                         </div>
                                     </div>
@@ -339,8 +337,8 @@
                                                     <span>商品名称：</span>
                                                     <strong>
                                                         <a href="/products_detail/productId=27.html"
-                                                            title="液氨"
-                                                            target="_self">液氨
+                                                            title="石油蜡微晶蜡"
+                                                            target="_self">石油蜡微晶蜡
                                                         </a>
                                                     </strong>
                                                 </h1>
@@ -354,8 +352,8 @@
                                     <div class="pic-module">
                                         <div class="pic">
                                             <a href="/products_detail/productId=24.html"
-                                                title="液氨" target="_self">
-                                                <img src="/imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-1454567836539_24" alt="" title="液氨" " />
+                                                title="特种蜡" target="_self">
+                                                <img src="/imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-1454567836539_24" alt="" title="特种蜡" " />
                                             </a>
                                         </div>
                                     </div>
@@ -366,8 +364,8 @@
                                                     <span>商品名称：</span>
                                                     <strong>
                                                         <a href="/products_detail/productId=24.html"
-                                                            title="液氨"
-                                                            target="_self">液氨
+                                                            title="特种蜡"
+                                                            target="_self">特种蜡
                                                         </a>
                                                     </strong>
                                                 </h1>
@@ -381,8 +379,8 @@
                                     <div class="pic-module">
                                         <div class="pic">
                                             <a href="/products_detail/productId=23.html"
-                                                title="氨水" target="_self">
-                                                <img src="/imageRepository/8f76b093-b14d-4912-b955-05762b946809.jpg" id="FrontProducts_list01-1454567836539_23" alt="" title="氨水" " />
+                                                title="润滑油" target="_self">
+                                                <img src="/imageRepository/8f76b093-b14d-4912-b955-05762b946809.jpg" id="FrontProducts_list01-1454567836539_23" alt="" title="润滑油" " />
                                             </a>
                                         </div>
                                     </div>
@@ -393,8 +391,8 @@
                                                     <span>商品名称：</span>
                                                     <strong>
                                                         <a href="/products_detail/productId=23.html"
-                                                            title="氨水"
-                                                            target="_self">氨水
+                                                            title="润滑油"
+                                                            target="_self">润滑油
                                                         </a>
                                                     </strong>
                                                 </h1>
@@ -408,8 +406,8 @@
                                     <div class="pic-module">
                                         <div class="pic">
                                             <a href="/products_detail/productId=21.html"
-                                                title="液氨" target="_self">
-                                                <img src="/imageRepository/93abce1b-0c65-4842-83a6-6ffeee8ee203.jpg" id="FrontProducts_list01-1454567836539_21" alt="" title="液氨" " />
+                                                title="其他产品" target="_self">
+                                                <img src="/imageRepository/93abce1b-0c65-4842-83a6-6ffeee8ee203.jpg" id="FrontProducts_list01-1454567836539_21" alt="" title="其他产品" " />
                                             </a>
                                         </div>
                                     </div>
@@ -420,8 +418,8 @@
                                                     <span>商品名称：</span>
                                                     <strong>
                                                         <a href="/products_detail/productId=21.html"
-                                                            title="液氨"
-                                                            target="_self">液氨
+                                                            title="其他产品"
+                                                            target="_self">其他产品
                                                         </a>
                                                     </strong>
                                                 </h1>
@@ -455,8 +453,6 @@
     </div>
     <script type="text/javascript" src="/images/aa/jquery.SS.js"></script>
     <script type="text/javascript">
-        jQuery("#FrontProducts_list01-1454567836539").slide({ mainCell: ".productlist-02", autoPlay: true, effect: "leftMarquee", vis: 5, interTime: 40, trigger: "click" });
-        /*组件ID：#FrontProducts_list01-1396579681041；被滚动内容包裹的类名：.productlist-02；VIS是显示数量；interTime是时间控制*/
     </script>
     <div id="elem-FrontPublic_wisher01-2014"></div>
 </body>

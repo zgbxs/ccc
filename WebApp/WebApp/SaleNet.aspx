@@ -235,7 +235,7 @@
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339494120246" name="说明页">
                             <div id="FrontSpecifies_show01-1339494120246" class="FrontSpecifies_show01-d1_c1">
                                 <p>
-                                    <img alt="" src="../imageRepository/1323084d-86e8-42fc-b8f9-176889486da2.jpg" tppabs="http://www.lypbhg.com/imageRepository/1323084d-86e8-42fc-b8f9-176889486da2.jpg" />
+                                    <img alt="" src="../imageRepository/1323084d-86e8-42fc-b8f9-176889486da2.jpg"  />
                                 </p>
                             </div>
                         </div>
@@ -244,7 +244,7 @@
                     <div id="box_left_sub1_sub2">
                         <!--InstanceBeginEditable name="box_left_sub1_sub2"-->
                         <div xmlns="" class="columnSpace" id="elem-FrontComContent_list01-1339494100625" name="通用内容列表">
-                            <script type="text/javascript" src="../publicScripts/comcontent/FrontComContent_list01.js" tppabs="http://www.lypbhg.com/publicScripts/comcontent/FrontComContent_list01.js"></script>
+                            <script type="text/javascript" src="../publicScripts/comcontent/FrontComContent_list01.js" ></script>
                             <div id="FrontComContent_list01-1339494100625" class="FrontComContent_list01-d1_c1">
                                 <div class="menu-first">
                                     <script type="text/javascript">
@@ -258,7 +258,7 @@
                                     </script>
                                     <ul class="list2">
 
-                                        <li class="menu-none"><a id="comContent2_4" href="i=4&comContentId=4.html" tppabs="http://www.lypbhg.com/xswl/i=4&comContentId=4.html" title="营销网络" class="menu-text1">营销网络</a></li>
+                                        <li class="menu-none"><a id="comContent2_4" href="i=4&comContentId=4.html"  title="营销网络" class="menu-text1">营销网络</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -271,8 +271,7 @@
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488016849" name="说明页">
                             <div id="FrontSpecifies_show01-1339488016849" class="FrontSpecifies_show01-d1_c1">
                                 <p>
-                                    <a href="javascript:if(confirm('http://www.lypbhg.com/messages_list.html  \n\n���ļ��޷��� Teleport Ultra ����, ��Ϊ ����һ�����·���ⲿ������Ϊ������ʼ��ַ�ĵ�ַ��  \n\n�����ڷ������ϴ���?'))window.location='http://www.lypbhg.com/messages_list.html'" tppabs="http://www.lypbhg.com/messages_list.html">
-                                        <img alt="" src="../imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" tppabs="http://www.lypbhg.com/imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" /></a>
+                                        <img alt="" src="../imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg"  /></a>
                                 </p>
                             </div>
                         </div>
@@ -281,7 +280,7 @@
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488126451" name="说明页">
                             <div id="FrontSpecifies_show01-1339488126451" class="FrontSpecifies_show01-d1_c1">
                                 <p>
-                                    <img alt="" src="../imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" tppabs="http://www.lypbhg.com/imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" />
+                                    <img alt="" src="../imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg"  />
                                 </p>
                             </div>
                         </div>
@@ -293,7 +292,7 @@
                     <!--InstanceBeginEditable name="box_right_sub1"-->
                     <div class="clearBoth"></div>
                     <div xmlns="" class="columnSpace" id="elem-FrontComContent_detail01-1339494152142" name="通用内容详细信息">
-                        <script type="text/javascript" src="../publicScripts/comcontent/FrontComContent_detail01.js" tppabs="http://www.lypbhg.com/publicScripts/comcontent/FrontComContent_detail01.js"></script>
+                        <script type="text/javascript" src="../publicScripts/comcontent/FrontComContent_detail01.js" ></script>
                         <div id="FrontComContent_detail01-1339494152142" class="FrontComContent_detail01-d1_c1">
                             <div class="title">
                                 <h3>营销网络</h3>
@@ -338,7 +337,7 @@
     </div>
     <!-- InstanceEnd -->
     <script language='javascript' src="../../ztouch1.gather.shushang-z.cn/scripts/visittrack.js" type='text/javascript'></script>
-    <script type='text/javascript'>var visittrack_siteId = 'ZTS_ZT2015121500180'; var visittrack_url = 'http://ztouch1.gather.shushang-z.cn/trace.do'; VisitTrack.visittrack_log(visittrack_siteId, visittrack_url);</script>
+    <%--<script type='text/javascript'>var visittrack_siteId = 'ZTS_ZT2015121500180'; var visittrack_url = 'http://ztouch1.gather.shushang-z.cn/trace.do'; VisitTrack.visittrack_log(visittrack_siteId, visittrack_url);</script>--%>
 </body>
 </html>
 
