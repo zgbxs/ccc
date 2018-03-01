@@ -5,7 +5,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-
     <title>上海爱佑化工新材料有限公司</title>
     <meta name="keywords" content="上海爱佑化工新材料有限公司" />
     <meta name="description" content="上海爱佑化工新材料有限公司主要从事化工产品" />
@@ -85,23 +84,31 @@
                             </ul>
                             <ul id="summenu_FrontColumns_navigation01-1454567950644_56" class="ddsubmenustyle">
                                 <li>
-                                    <a href="/products_list/pmcId=21.html">FT合成蜡
+                                    <a href="/Pro_Catagory/Catagory1.aspx">FT合成蜡
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/products_list/pmcId=22.html">石油蜡微晶蜡
+                                    <a href="/Pro_Catagory/Catagory2.aspx">石油蜡微晶蜡
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/products_list/pmcId=21.html">特种蜡
+                                    <a href="/Pro_Catagory/Catagory3.aspx">特种蜡
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/products_list/pmcId=21.html">润滑油
+                                    <a href="/Pro_Catagory/Catagory4.aspx">润滑油
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/products_list/pmcId=21.html">其他产品
+                                    <a href="/Pro_Catagory/Catagory5.aspx">相变蜡
+                                    </a>
+                                </li>
+                                 <li>
+                                    <a href="/Pro_Catagory/Catagory6.aspx">氯化石蜡
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Pro_Catagory/Catagory7.aspx">其他产品
                                     </a>
                                 </li>
                             </ul>
@@ -311,7 +318,7 @@
                                                     <strong>
                                                         <a href="/products_detail/productId=26.html"
                                                             title="FT合成蜡"
-                                                            target="_self">FT合成蜡>
+                                                            target="_self">FT合成蜡
                                                         </a>
                                                     </strong>
                                                 </h1>
@@ -431,8 +438,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <script type="text/javascript">
-                        </script>
+                        <script type="text/javascript"></script>
                     </div>
                 </div>
             </div>
@@ -453,7 +459,10 @@
     </div>
     <script type="text/javascript" src="/images/aa/jquery.SS.js"></script>
     <script type="text/javascript">
+        //产品滚动
+        jQuery("#FrontProducts_list01-1454567836539").slide({ mainCell: ".productlist-02", autoPlay: true, effect: "leftMarquee", vis: 5, interTime: 40, trigger: "click" });
     </script>
+
     <div id="elem-FrontPublic_wisher01-2014"></div>
 </body>
 </html>

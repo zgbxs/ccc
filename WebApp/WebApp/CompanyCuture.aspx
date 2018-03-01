@@ -86,23 +86,31 @@
                             </ul>
                             <ul id="summenu_FrontColumns_navigation01-1454567950644_56" class="ddsubmenustyle">
                                 <li>
-                                    <a href="/products_list/pmcId=21.html">FT合成蜡
+                                    <a href="/Pro_Catagory/Catagory1.aspx">FT合成蜡
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/products_list/pmcId=22.html">石油蜡微晶蜡
+                                    <a href="/Pro_Catagory/Catagory2.aspx">石油蜡微晶蜡
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/products_list/pmcId=21.html">特种蜡
+                                    <a href="/Pro_Catagory/Catagory3.aspx">特种蜡
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/products_list/pmcId=21.html">润滑油
+                                    <a href="/Pro_Catagory/Catagory4.aspx">润滑油
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/products_list/pmcId=21.html">其他产品
+                                    <a href="/Pro_Catagory/Catagory5.aspx">相变蜡
+                                    </a>
+                                </li>
+                                 <li>
+                                    <a href="/Pro_Catagory/Catagory6.aspx">氯化石蜡
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Pro_Catagory/Catagory7.aspx">其他产品
                                     </a>
                                 </li>
                             </ul>

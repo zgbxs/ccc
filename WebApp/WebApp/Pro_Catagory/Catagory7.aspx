@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Catagory1.aspx.cs" Inherits="WebApp.Pro_Catagory.Catagory1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Catagory7.aspx.cs" Inherits="WebApp.Pro_Catagory.Catagory7" %>
 
 
 <!DOCTYPE html>
@@ -357,8 +357,8 @@
                                                 <div class="pic-module">
                                                     <div class="pic">
                                                         <a href="/products_detail/productId=26.html"
-                                                            title="45号" target="_self">
-                                                            <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2ea.jpg" id="FrontProducts_list01-00412_26" alt="" title="45号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            title="PVC稳定剂" target="_self">
+                                                            <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2ea.jpg" id="FrontProducts_list01-00412_26" alt="" title="PVC稳定剂" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -368,8 +368,8 @@
                                                                 <span>商品名称：</span>
                                                                 <strong>
                                                                     <a href="/products_detail/productId=26.html"
-                                                                        title="45号"
-                                                                        target="_self">45号</a>
+                                                                        title="PVC稳定剂"
+                                                                        target="_self">PVC稳定剂</a>
                                                                 </strong>
                                                             </h1>
                                                         </li>
@@ -382,8 +382,8 @@
                                                 <div class="pic-module">
                                                     <div class="pic">
                                                         <a href="/products_detail/productId=27.html"
-                                                            title="52号" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_27" alt="" title="52号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            title="PVC润滑剂" target="_self">
+                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_27" alt="" title="PVC润滑剂" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -393,8 +393,8 @@
                                                                 <span>商品名称：</span>
                                                                 <strong>
                                                                     <a href="/products_detail/productId=27.html"
-                                                                        title="52号"
-                                                                        target="_self">52号</a>
+                                                                        title="PVC润滑剂"
+                                                                        target="_self">PVC润滑剂</a>
                                                                 </strong>
                                                             </h1>
                                                         </li>
@@ -407,8 +407,8 @@
                                                 <div class="pic-module">
                                                     <div class="pic">
                                                         <a href="/products_detail/productId=24.html"
-                                                            title="60号" target="_self">
-                                                            <img src="/imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-00412_24" alt="" title="60号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            title="正构烷烃" target="_self">
+                                                            <img src="/imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-00412_24" alt="" title="正构烷烃" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -418,8 +418,8 @@
                                                                 <span>商品名称：</span>
                                                                 <strong>
                                                                     <a href="/products_detail/productId=24.html"
-                                                                        title="60号"
-                                                                        target="_self">60号</a>
+                                                                        title="正构烷烃"
+                                                                        target="_self">正构烷烃</a>
                                                                 </strong>
                                                             </h1>
                                                         </li>
@@ -432,8 +432,8 @@
                                                 <div class="pic-module">
                                                     <div class="pic">
                                                         <a href="/products_detail/productId=21.html"
-                                                            title="70号" target="_self">
-                                                            <img src="/imageRepository/93abce1b-0c65-4842-83a6-6ffeee8ee203.jpg" id="FrontProducts_list01-00412_21" alt="" title="70号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            title="α烯烃" target="_self">
+                                                            <img src="/imageRepository/93abce1b-0c65-4842-83a6-6ffeee8ee203.jpg" id="FrontProducts_list01-00412_21" alt="" title="α烯烃" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -443,8 +443,8 @@
                                                                 <span>商品名称：</span>
                                                                 <strong>
                                                                     <a href="/products_detail/productId=21.html"
-                                                                        title="70号"
-                                                                        target="_self">70号</a>
+                                                                        title="α烯烃"
+                                                                        target="_self">α烯烃</a>
                                                                 </strong>
                                                             </h1>
                                                         </li>
@@ -458,8 +458,8 @@
                                                 <div class="pic-module">
                                                     <div class="pic">
                                                         <a href="/products_detail/productId=28.html"
-                                                            title="95号" target="_self">
-                                                            <img src="/imageRepository/0273f474-8a0e-4555-95ce-3d1adb99b485.jpg" id="FrontProducts_list01-00412_28" alt="" title="95号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            title="芳烃溶剂" target="_self">
+                                                            <img src="/imageRepository/0273f474-8a0e-4555-95ce-3d1adb99b485.jpg" id="FrontProducts_list01-00412_28" alt="" title="芳烃溶剂" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -469,58 +469,8 @@
                                                                 <span>商品名称：</span>
                                                                 <strong>
                                                                     <a href="/products_detail/productId=28.html"
-                                                                        title="95号"
-                                                                        target="_self">95号</a>
-                                                                </strong>
-                                                            </h1>
-                                                        </li>
-                                                    </ul>
-                                                    <p class="buttonP">
-                                                    </p>
-                                                </div>
-                                            </li>
-                                            <li class="content column-num4">
-                                                <div class="pic-module">
-                                                    <div class="pic">
-                                                        <a href="/products_detail/productId=25.html"
-                                                            title="105号" target="_self">
-                                                            <img src="/imageRepository/8a0f1139-2428-4bc7-ad14-a808465412ee.jpg" id="FrontProducts_list01-00412_25" alt="" title="105号" onerror="this.src='/images/common/noimage.jpg'" /></a>
-                                                    </div>
-                                                </div>
-                                                <div class="pro-module">
-                                                    <ul class="basic">
-                                                        <li class="code">
-                                                            <h1>
-                                                                <span>商品名称：</span>
-                                                                <strong>
-                                                                    <a href="/products_detail/productId=25.html"
-                                                                        title="105号"
-                                                                        target="_self">105号</a>
-                                                                </strong>
-                                                            </h1>
-                                                        </li>
-                                                    </ul>
-                                                    <p class="buttonP">
-                                                    </p>
-                                                </div>
-                                            </li>
-                                             <li class="content column-num4">
-                                                <div class="pic-module">
-                                                    <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
-                                                            title="110号" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_22" alt="" title="110号" onerror="this.src='/images/common/noimage.jpg'" /></a>
-                                                    </div>
-                                                </div>
-                                                <div class="pro-module">
-                                                    <ul class="basic">
-                                                        <li class="code">
-                                                            <h1>
-                                                                <span>商品名称：</span>
-                                                                <strong>
-                                                                    <a href="/products_detail/productId=27.html"
-                                                                        title="110号"
-                                                                        target="_self">110号</a>
+                                                                        title="芳烃溶剂"
+                                                                        target="_self">芳烃溶剂</a>
                                                                 </strong>
                                                             </h1>
                                                         </li>

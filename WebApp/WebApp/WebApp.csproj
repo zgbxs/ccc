@@ -295,6 +295,12 @@
     <Content Include="ProductsList.aspx" />
     <Content Include="products\p1.aspx" />
     <Content Include="Pro_Catagory\Catagory1.aspx" />
+    <Content Include="Pro_Catagory\Catagory2.aspx" />
+    <Content Include="Pro_Catagory\Catagory3.aspx" />
+    <Content Include="Pro_Catagory\Catagory4.aspx" />
+    <Content Include="Pro_Catagory\Catagory5.aspx" />
+    <Content Include="Pro_Catagory\Catagory6.aspx" />
+    <Content Include="Pro_Catagory\Catagory7.aspx" />
     <Content Include="publicScripts\columns\FrontColumns_navigation01.js" />
     <Content Include="publicScripts\comcontent\FrontComContent_detail01.js" />
     <Content Include="publicScripts\comcontent\FrontComContent_list01.js" />
@@ -529,6 +535,48 @@
     </Compile>
     <Compile Include="Pro_Catagory\Catagory1.aspx.designer.cs">
       <DependentUpon>Catagory1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory2.aspx.cs">
+      <DependentUpon>Catagory2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory2.aspx.designer.cs">
+      <DependentUpon>Catagory2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory3.aspx.cs">
+      <DependentUpon>Catagory3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory3.aspx.designer.cs">
+      <DependentUpon>Catagory3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory4.aspx.cs">
+      <DependentUpon>Catagory4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory4.aspx.designer.cs">
+      <DependentUpon>Catagory4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory5.aspx.cs">
+      <DependentUpon>Catagory5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory5.aspx.designer.cs">
+      <DependentUpon>Catagory5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory6.aspx.cs">
+      <DependentUpon>Catagory6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory6.aspx.designer.cs">
+      <DependentUpon>Catagory6.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory7.aspx.cs">
+      <DependentUpon>Catagory7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pro_Catagory\Catagory7.aspx.designer.cs">
+      <DependentUpon>Catagory7.aspx</DependentUpon>
     </Compile>
     <Compile Include="Question.aspx.cs">
       <DependentUpon>Question.aspx</DependentUpon>
