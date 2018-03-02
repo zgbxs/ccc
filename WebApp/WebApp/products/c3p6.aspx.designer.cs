@@ -7,9 +7,9 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace WebApp {
+namespace WebApp.products {
     
     
-    public partial class LeaderSpeech {
+    public partial class c3p6 {
     }
 }

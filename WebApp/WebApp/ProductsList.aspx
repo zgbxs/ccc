@@ -84,7 +84,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/CompanyProfile.aspx">资质荣誉
+                                    <a href="/TheCertificate.aspx">资质荣誉
                                     </a>
                                 </li>
                             </ul>
@@ -118,7 +118,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
+                           <%-- <ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
                                 <li>
                                     <a href="/news_list/columnsId=59&amp;&amp;newsCategoryId=4.html" target="_blank">公司新闻
                                     </a>
@@ -135,7 +135,7 @@
                                     <a href="/xswl/FrontComContent_list01-1339494100625CurrentIds=4__6&amp;comContentId=6.html">常见问题
                                     </a>
                                 </li>
-                            </ul>
+                            </ul>--%>
                         </div>
                     </div>
                 </div>
@@ -300,8 +300,8 @@
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488016849" name="说明页">
                             <div id="FrontSpecifies_show01-1339488016849" class="FrontSpecifies_show01-d1_c1">
                                 <p>
-                                    <a href="/messages_list.html">
-                                        <img alt="" src="/imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" /></a>
+                                   <%-- <a href="/messages_list.html">
+                                        <img alt="" src="/imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" /></a>--%>
                                 </p>
                             </div>
                         </div>
@@ -310,7 +310,7 @@
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488126451" name="说明页">
                             <div id="FrontSpecifies_show01-1339488126451" class="FrontSpecifies_show01-d1_c1">
                                 <p>
-                                    <img alt="" src="/imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" />
+                                    <img alt="" src="IMG/电话.jpg" />
                                 </p>
                             </div>
                         </div>
@@ -587,8 +587,8 @@
         <div id="box_footer">
             <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454408098260" name="说明页">
                 <div id="FrontSpecifies_show01-1454408098260" class="FrontSpecifies_show01-d1_c1">
-                    <p>
-                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
+                     <p>
+                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 电话：021-58598507 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
                     </p>
                 </div>
             </div>

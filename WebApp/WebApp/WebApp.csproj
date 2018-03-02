@@ -69,6 +69,27 @@
     <Content Include="CompanyCuture.aspx" />
     <Content Include="CompanyProfile.aspx" />
     <Content Include="Contact.aspx" />
+    <Content Include="IMG\ft蜡.jpg" />
+    <Content Include="IMG\PVC润滑剂.jpg" />
+    <Content Include="IMG\α烯烃.jpg" />
+    <Content Include="IMG\其他.png" />
+    <Content Include="IMG\微晶蜡70.jpg" />
+    <Content Include="IMG\微晶蜡80.jpg" />
+    <Content Include="IMG\微晶蜡85.jpg" />
+    <Content Include="IMG\橡胶防护蜡.jpg" />
+    <Content Include="IMG\正构烷烃.jpg" />
+    <Content Include="IMG\氯化石蜡-52.png" />
+    <Content Include="IMG\润滑油.png" />
+    <Content Include="IMG\炸药蜡1.jpg" />
+    <Content Include="IMG\炸药蜡2.jpg" />
+    <Content Include="IMG\电话.jpg" />
+    <Content Include="IMG\相变蜡-20.jpg" />
+    <Content Include="IMG\相变蜡-25.jpg" />
+    <Content Include="IMG\相变蜡-30.jpg" />
+    <Content Include="IMG\相变蜡-35.jpg" />
+    <Content Include="IMG\石油蜡微晶蜡.jpg" />
+    <Content Include="IMG\芳烃溶剂.jpg" />
+    <Content Include="IMG\销售网络.jpg" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\tt.pubxml" />
     <None Include="Web.Debug.config">
@@ -293,7 +314,39 @@
     <Content Include="images\questionnaire\que-bg-01.gif" />
     <Content Include="images\questionnaire\que-icon-01.gif" />
     <Content Include="ProductsList.aspx" />
-    <Content Include="products\p1.aspx" />
+    <Content Include="products\c1p1.aspx" />
+    <Content Include="products\c1p2.aspx" />
+    <Content Include="products\c1p3.aspx" />
+    <Content Include="products\c1p4.aspx" />
+    <Content Include="products\c1p5.aspx" />
+    <Content Include="products\c1p6.aspx" />
+    <Content Include="products\c1p7.aspx" />
+    <Content Include="products\c2p1.aspx" />
+    <Content Include="products\c2p2.aspx" />
+    <Content Include="products\c2p3.aspx" />
+    <Content Include="products\c2p4.aspx" />
+    <Content Include="products\c2p5.aspx" />
+    <Content Include="products\c2p6.aspx" />
+    <Content Include="products\c3p1.aspx" />
+    <Content Include="products\c3p2.aspx" />
+    <Content Include="products\c3p3.aspx" />
+    <Content Include="products\c3p4.aspx" />
+    <Content Include="products\c3p5.aspx" />
+    <Content Include="products\c3p6.aspx" />
+    <Content Include="products\c3p7.aspx" />
+    <Content Include="products\c3p8.aspx" />
+    <Content Include="products\c3p9.aspx" />
+    <Content Include="products\c4p1.aspx" />
+    <Content Include="products\c4p2.aspx" />
+    <Content Include="products\c4p3.aspx" />
+    <Content Include="products\c4p4.aspx" />
+    <Content Include="products\c4p5.aspx" />
+    <Content Include="products\c5p1.aspx" />
+    <Content Include="products\c5p2.aspx" />
+    <Content Include="products\c5p3.aspx" />
+    <Content Include="products\c5p4.aspx" />
+    <Content Include="products\c6p1.aspx" />
+    <Content Include="products\c6p2.aspx" />
     <Content Include="Pro_Catagory\Catagory1.aspx" />
     <Content Include="Pro_Catagory\Catagory2.aspx" />
     <Content Include="Pro_Catagory\Catagory3.aspx" />
@@ -514,12 +567,236 @@
     <Compile Include="ProductsList.aspx.designer.cs">
       <DependentUpon>ProductsList.aspx</DependentUpon>
     </Compile>
-    <Compile Include="products\p1.aspx.cs">
-      <DependentUpon>p1.aspx</DependentUpon>
+    <Compile Include="products\c1p1.aspx.cs">
+      <DependentUpon>c1p1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="products\p1.aspx.designer.cs">
-      <DependentUpon>p1.aspx</DependentUpon>
+    <Compile Include="products\c1p1.aspx.designer.cs">
+      <DependentUpon>c1p1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c1p2.aspx.cs">
+      <DependentUpon>c1p2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c1p2.aspx.designer.cs">
+      <DependentUpon>c1p2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c1p3.aspx.cs">
+      <DependentUpon>c1p3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c1p3.aspx.designer.cs">
+      <DependentUpon>c1p3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c1p4.aspx.cs">
+      <DependentUpon>c1p4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c1p4.aspx.designer.cs">
+      <DependentUpon>c1p4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c1p5.aspx.cs">
+      <DependentUpon>c1p5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c1p5.aspx.designer.cs">
+      <DependentUpon>c1p5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c1p6.aspx.cs">
+      <DependentUpon>c1p6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c1p6.aspx.designer.cs">
+      <DependentUpon>c1p6.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c1p7.aspx.cs">
+      <DependentUpon>c1p7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c1p7.aspx.designer.cs">
+      <DependentUpon>c1p7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c2p1.aspx.cs">
+      <DependentUpon>c2p1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c2p1.aspx.designer.cs">
+      <DependentUpon>c2p1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c2p2.aspx.cs">
+      <DependentUpon>c2p2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c2p2.aspx.designer.cs">
+      <DependentUpon>c2p2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c2p3.aspx.cs">
+      <DependentUpon>c2p3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c2p3.aspx.designer.cs">
+      <DependentUpon>c2p3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c2p4.aspx.cs">
+      <DependentUpon>c2p4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c2p4.aspx.designer.cs">
+      <DependentUpon>c2p4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c2p5.aspx.cs">
+      <DependentUpon>c2p5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c2p5.aspx.designer.cs">
+      <DependentUpon>c2p5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c2p6.aspx.cs">
+      <DependentUpon>c2p6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c2p6.aspx.designer.cs">
+      <DependentUpon>c2p6.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p1.aspx.cs">
+      <DependentUpon>c3p1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p1.aspx.designer.cs">
+      <DependentUpon>c3p1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p2.aspx.cs">
+      <DependentUpon>c3p2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p2.aspx.designer.cs">
+      <DependentUpon>c3p2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p3.aspx.cs">
+      <DependentUpon>c3p3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p3.aspx.designer.cs">
+      <DependentUpon>c3p3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p4.aspx.cs">
+      <DependentUpon>c3p4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p4.aspx.designer.cs">
+      <DependentUpon>c3p4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p5.aspx.cs">
+      <DependentUpon>c3p5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p5.aspx.designer.cs">
+      <DependentUpon>c3p5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p6.aspx.cs">
+      <DependentUpon>c3p6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p6.aspx.designer.cs">
+      <DependentUpon>c3p6.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p7.aspx.cs">
+      <DependentUpon>c3p7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p7.aspx.designer.cs">
+      <DependentUpon>c3p7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p8.aspx.cs">
+      <DependentUpon>c3p8.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p8.aspx.designer.cs">
+      <DependentUpon>c3p8.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c3p9.aspx.cs">
+      <DependentUpon>c3p9.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c3p9.aspx.designer.cs">
+      <DependentUpon>c3p9.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c4p1.aspx.cs">
+      <DependentUpon>c4p1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c4p1.aspx.designer.cs">
+      <DependentUpon>c4p1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c4p2.aspx.cs">
+      <DependentUpon>c4p2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c4p2.aspx.designer.cs">
+      <DependentUpon>c4p2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c4p3.aspx.cs">
+      <DependentUpon>c4p3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c4p3.aspx.designer.cs">
+      <DependentUpon>c4p3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c4p4.aspx.cs">
+      <DependentUpon>c4p4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c4p4.aspx.designer.cs">
+      <DependentUpon>c4p4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c4p5.aspx.cs">
+      <DependentUpon>c4p5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c4p5.aspx.designer.cs">
+      <DependentUpon>c4p5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c5p1.aspx.cs">
+      <DependentUpon>c5p1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c5p1.aspx.designer.cs">
+      <DependentUpon>c5p1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c5p2.aspx.cs">
+      <DependentUpon>c5p2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c5p2.aspx.designer.cs">
+      <DependentUpon>c5p2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c5p3.aspx.cs">
+      <DependentUpon>c5p3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c5p3.aspx.designer.cs">
+      <DependentUpon>c5p3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c5p4.aspx.cs">
+      <DependentUpon>c5p4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c5p4.aspx.designer.cs">
+      <DependentUpon>c5p4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c6p1.aspx.cs">
+      <DependentUpon>c6p1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c6p1.aspx.designer.cs">
+      <DependentUpon>c6p1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="products\c6p2.aspx.cs">
+      <DependentUpon>c6p2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="products\c6p2.aspx.designer.cs">
+      <DependentUpon>c6p2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="home.aspx.cs">
@@ -602,7 +879,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="IMG\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>

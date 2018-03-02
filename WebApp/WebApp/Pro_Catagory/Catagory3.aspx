@@ -85,7 +85,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/CompanyProfile.aspx">资质荣誉
+                                    <a href="/TheCertificate.aspx">资质荣誉
                                     </a>
                                 </li>
                             </ul>
@@ -119,7 +119,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
+                           <%-- <ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
                                 <li>
                                     <a href="/news_list/columnsId=59&amp;&amp;newsCategoryId=4.html" target="_blank">公司新闻
                                     </a>
@@ -136,7 +136,7 @@
                                     <a href="/xswl/FrontComContent_list01-1339494100625CurrentIds=4__6&amp;comContentId=6.html">常见问题
                                     </a>
                                 </li>
-                            </ul>
+                            </ul>--%>
                         </div>
                     </div>
                 </div>
@@ -300,18 +300,18 @@
                     <div id="box_left_sub2_sub1">
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488016849" name="说明页">
                             <div id="FrontSpecifies_show01-1339488016849" class="FrontSpecifies_show01-d1_c1">
-                                <p>
+                                <%--<p>
                                     <a href="/messages_list.html">
                                         <img alt="" src="/imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" /></a>
-                                </p>
+                                </p>--%>
                             </div>
                         </div>
                     </div>
                     <div id="box_left_sub2_sub2">
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488126451" name="说明页">
                             <div id="FrontSpecifies_show01-1339488126451" class="FrontSpecifies_show01-d1_c1">
-                                <p>
-                                    <img alt="" src="/imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" />
+                                 <p>
+                                    <img alt="" src="IMG/电话.jpg" />
                                 </p>
                             </div>
                         </div>
@@ -356,9 +356,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=26.html"
+                                                        <a href="/products/c3p1.aspx"
                                                             title="橡胶防护蜡 Ⅰ型" target="_self">
-                                                            <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2ea.jpg" id="FrontProducts_list01-00412_26" alt="" title="橡胶防护蜡 Ⅰ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/橡胶防护蜡.jpg" id="FrontProducts_list01-00412_26" alt="" title="橡胶防护蜡 Ⅰ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -367,7 +367,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=26.html"
+                                                                    <a href="/products/c3p1.aspx"
                                                                         title="橡胶防护蜡 Ⅰ型"
                                                                         target="_self">橡胶防护蜡 Ⅰ型</a>
                                                                 </strong>
@@ -381,9 +381,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
+                                                       <a href="/products/c3p2.aspx"
                                                             title="橡胶防护蜡 Ⅱ型" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_27" alt="" title="橡胶防护蜡 Ⅱ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/橡胶防护蜡.jpg" id="FrontProducts_list01-00412_27" alt="" title="橡胶防护蜡 Ⅱ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -392,7 +392,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=27.html"
+                                                                     <a href="/products/c3p2.aspx"
                                                                         title="橡胶防护蜡 Ⅱ型"
                                                                         target="_self">橡胶防护蜡 Ⅱ型</a>
                                                                 </strong>
@@ -406,9 +406,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=24.html"
+                                                         <a href="/products/c3p3.aspx"
                                                             title="橡胶防护蜡 Ⅲ型" target="_self">
-                                                            <img src="/imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-00412_24" alt="" title="橡胶防护蜡 Ⅲ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/橡胶防护蜡.jpg" id="FrontProducts_list01-00412_24" alt="" title="橡胶防护蜡 Ⅲ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -417,7 +417,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=24.html"
+                                                                    <a href="/products/c3p3.aspx"
                                                                         title="橡胶防护蜡 Ⅲ型"
                                                                         target="_self">橡胶防护蜡 Ⅲ型</a>
                                                                 </strong>
@@ -431,9 +431,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=21.html"
+                                                        <a href="/products/c3p4.aspx"
                                                             title="橡胶防护蜡 Ⅳ型" target="_self">
-                                                            <img src="/imageRepository/93abce1b-0c65-4842-83a6-6ffeee8ee203.jpg" id="FrontProducts_list01-00412_21" alt="" title="橡胶防护蜡 Ⅳ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/橡胶防护蜡.jpg" id="FrontProducts_list01-00412_21" alt="" title="橡胶防护蜡 Ⅳ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -442,7 +442,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=21.html"
+                                                                    <a href="/products/c3p4.aspx"
                                                                         title="橡胶防护蜡 Ⅳ型"
                                                                         target="_self">橡胶防护蜡 Ⅳ型</a>
                                                                 </strong>
@@ -457,9 +457,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=28.html"
+                                                        <a href="/products/c3p5.aspx"
                                                             title="橡胶防护蜡 Ⅴ型" target="_self">
-                                                            <img src="/imageRepository/0273f474-8a0e-4555-95ce-3d1adb99b485.jpg" id="FrontProducts_list01-00412_28" alt="" title="橡胶防护蜡 Ⅴ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/橡胶防护蜡.jpg" id="FrontProducts_list01-00412_28" alt="" title="橡胶防护蜡 Ⅴ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -468,7 +468,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=28.html"
+                                                                   <a href="/products/c3p5.aspx"
                                                                         title="橡胶防护蜡 Ⅴ型"
                                                                         target="_self">橡胶防护蜡 Ⅴ型</a>
                                                                 </strong>
@@ -482,9 +482,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=25.html"
+                                                        <a href="/products/c3p6.aspx"
                                                             title="橡胶防护蜡 Ⅵ型" target="_self">
-                                                            <img src="/imageRepository/8a0f1139-2428-4bc7-ad14-a808465412ee.jpg" id="FrontProducts_list01-00412_25" alt="" title="橡胶防护蜡 Ⅵ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/橡胶防护蜡.jpg" id="FrontProducts_list01-00412_25" alt="" title="橡胶防护蜡 Ⅵ型" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -493,7 +493,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=25.html"
+                                                                   <a href="/products/c3p6.aspx"
                                                                         title="橡胶防护蜡 Ⅵ型"
                                                                         target="_self">橡胶防护蜡 Ⅵ型</a>
                                                                 </strong>
@@ -507,9 +507,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
+                                                         <a href="/products/c3p7.aspx"
                                                             title="炸药蜡1号" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_22" alt="" title="炸药蜡1号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/炸药蜡1.jpg" id="FrontProducts_list01-00412_22" alt="" title="炸药蜡1号" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -518,7 +518,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=27.html"
+                                                                    <a href="/products/c3p7.aspx"
                                                                         title="炸药蜡1号"
                                                                         target="_self">炸药蜡1号</a>
                                                                 </strong>
@@ -532,9 +532,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
+                                                        <a href="/products/c3p8.aspx"
                                                             title="炸药蜡2号" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_22" alt="" title="炸药蜡2号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/炸药蜡2.jpg" id="FrontProducts_list01-00412_22" alt="" title="炸药蜡2号" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -543,7 +543,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=27.html"
+                                                                    <a href="/products/c3p8.aspx"
                                                                         title="炸药蜡2号"
                                                                         target="_self">炸药蜡2号</a>
                                                                 </strong>
@@ -557,9 +557,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
+                                                         <a href="/products/c3p9.aspx"
                                                             title="炸药蜡3号" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_22" alt="" title="炸药蜡3号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/炸药蜡2.jpg" id="FrontProducts_list01-00412_22" alt="" title="炸药蜡3号" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -568,7 +568,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=27.html"
+                                                                    <a href="/products/c3p9.aspx"
                                                                         title="炸药蜡3号"
                                                                         target="_self">炸药蜡3号</a>
                                                                 </strong>
@@ -638,8 +638,8 @@
         <div id="box_footer">
             <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454408098260" name="说明页">
                 <div id="FrontSpecifies_show01-1454408098260" class="FrontSpecifies_show01-d1_c1">
-                    <p>
-                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
+                     <p>
+                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 电话：021-58598507 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
                     </p>
                 </div>
             </div>

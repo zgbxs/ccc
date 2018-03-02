@@ -10,6 +10,6 @@
 namespace WebApp.products {
     
     
-    public partial class p1 {
+    public partial class c2p2 {
     }
 }

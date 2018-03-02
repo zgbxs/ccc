@@ -112,24 +112,6 @@
                                     </a>
                                 </li>
                             </ul>
-                            <ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
-                                <li>
-                                    <a href="/news_list/columnsId=59&amp;&amp;newsCategoryId=4.html" target="_blank">公司新闻
-                                    </a>
-                                </li>
-                            </ul>
-                            <ul id="summenu_FrontColumns_navigation01-1454567950644_39" class="ddsubmenustyle">
-                                <li>
-                                    <a href="/xswl/FrontComContent_list01-1339494100625CurrentIds=4__4&amp;comContentId=4.html">销售网络
-                                    </a>
-                                </li>
-                            </ul>
-                            <ul id="summenu_FrontColumns_navigation01-1454567950644_44" class="ddsubmenustyle">
-                                <li>
-                                    <a href="/xswl/FrontComContent_list01-1339494100625CurrentIds=4__6&amp;comContentId=6.html">常见问题
-                                    </a>
-                                </li>
-                            </ul>
                         </div>
                     </div>
                 </div>
@@ -304,9 +286,9 @@
                                 <li class="content column-num5">
                                     <div class="pic-module">
                                         <div class="pic">
-                                            <a href="/products/p1.aspx"
+                                            <a href="/Pro_Catagory/Catagory1.aspx"
                                                 title="FT合成蜡" target="_self">
-                                                <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2a.jpg" id="FrontProducts_list01-1454567836539_26" alt="" title="FT合成蜡" " />
+                                                <img src="/IMG/ft蜡.jpg" id="FrontProducts_list01-1454567836539_26" alt="" title="FT合成蜡" " />
                                             </a>
                                         </div>
                                     </div>
@@ -316,7 +298,7 @@
                                                 <h1>
                                                     <span>商品名称：</span>
                                                     <strong>
-                                                        <a href="/products_detail/productId=26.html"
+                                                        <a href="/Pro_Catagory/Catagory1.aspx"
                                                             title="FT合成蜡"
                                                             target="_self">FT合成蜡
                                                         </a>
@@ -331,9 +313,9 @@
                                 <li class="content column-num5">
                                     <div class="pic-module">
                                         <div class="pic">
-                                            <a href="/products_detail/productId=27.html"
+                                            <a href="/Pro_Catagory/Catagory2.aspx"
                                                 title="石油蜡微晶蜡" target="_self">
-                                                <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-1454567836539_27" alt="" title="石油蜡微晶蜡" " />
+                                                <img src="/IMG/石油蜡微晶蜡.jpg" id="FrontProducts_list01-1454567836539_27" alt="" title="石油蜡微晶蜡" " />
                                             </a>
                                         </div>
                                     </div>
@@ -343,7 +325,7 @@
                                                 <h1>
                                                     <span>商品名称：</span>
                                                     <strong>
-                                                        <a href="/products_detail/productId=27.html"
+                                                        <a href="/Pro_Catagory/Catagory2.aspx"
                                                             title="石油蜡微晶蜡"
                                                             target="_self">石油蜡微晶蜡
                                                         </a>
@@ -358,9 +340,9 @@
                                 <li class="content column-num5">
                                     <div class="pic-module">
                                         <div class="pic">
-                                            <a href="/products_detail/productId=24.html"
+                                            <a href="/Pro_Catagory/Catagory3.aspx"
                                                 title="特种蜡" target="_self">
-                                                <img src="/imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-1454567836539_24" alt="" title="特种蜡" " />
+                                                <img src="/IMG/橡胶防护蜡.jpg" id="FrontProducts_list01-1454567836539_24" alt="" title="特种蜡" " />
                                             </a>
                                         </div>
                                     </div>
@@ -370,7 +352,7 @@
                                                 <h1>
                                                     <span>商品名称：</span>
                                                     <strong>
-                                                        <a href="/products_detail/productId=24.html"
+                                                        <a href="/Pro_Catagory/Catagory3.aspx"
                                                             title="特种蜡"
                                                             target="_self">特种蜡
                                                         </a>
@@ -385,9 +367,9 @@
                                 <li class="content column-num5">
                                     <div class="pic-module">
                                         <div class="pic">
-                                            <a href="/products_detail/productId=23.html"
+                                            <a href="/Pro_Catagory/Catagory4.aspx"
                                                 title="润滑油" target="_self">
-                                                <img src="/imageRepository/8f76b093-b14d-4912-b955-05762b946809.jpg" id="FrontProducts_list01-1454567836539_23" alt="" title="润滑油" " />
+                                                <img src="/IMG/润滑油.png" id="FrontProducts_list01-1454567836539_23" alt="" title="润滑油" " />
                                             </a>
                                         </div>
                                     </div>
@@ -397,9 +379,63 @@
                                                 <h1>
                                                     <span>商品名称：</span>
                                                     <strong>
-                                                        <a href="/products_detail/productId=23.html"
+                                                        <a href="/Pro_Catagory/Catagory4.aspx"
                                                             title="润滑油"
                                                             target="_self">润滑油
+                                                        </a>
+                                                    </strong>
+                                                </h1>
+                                            </li>
+                                        </ul>
+                                        <p class="buttonP">
+                                        </p>
+                                    </div>
+                                </li>
+                                 <li class="content column-num5">
+                                    <div class="pic-module">
+                                        <div class="pic">
+                                            <a href="/Pro_Catagory/Catagory5.aspx"
+                                                title="相变蜡" target="_self">
+                                                <img src="/IMG/相变蜡-20.jpg" id="FrontProducts_list01-1454567836539_23" alt="" title="相变蜡" " />
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="pro-module">
+                                        <ul class="basic">
+                                            <li class="code">
+                                                <h1>
+                                                    <span>商品名称：</span>
+                                                    <strong>
+                                                        <a href="/Pro_Catagory/Catagory5.aspx"
+                                                            title="相变蜡"
+                                                            target="_self">相变蜡
+                                                        </a>
+                                                    </strong>
+                                                </h1>
+                                            </li>
+                                        </ul>
+                                        <p class="buttonP">
+                                        </p>
+                                    </div>
+                                </li>
+                                 <li class="content column-num5">
+                                    <div class="pic-module">
+                                        <div class="pic">
+                                            <a href="/Pro_Catagory/Catagory6.aspx"
+                                                title="氯化石蜡" target="_self">
+                                                <img src="/IMG/氯化石蜡-52.png" id="FrontProducts_list01-1454567836539_23" alt="" title="氯化石蜡" " />
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="pro-module">
+                                        <ul class="basic">
+                                            <li class="code">
+                                                <h1>
+                                                    <span>商品名称：</span>
+                                                    <strong>
+                                                        <a href="/Pro_Catagory/Catagory6.aspx"
+                                                            title="氯化石蜡"
+                                                            target="_self">氯化石蜡
                                                         </a>
                                                     </strong>
                                                 </h1>
@@ -412,9 +448,9 @@
                                 <li class="content column-num5">
                                     <div class="pic-module">
                                         <div class="pic">
-                                            <a href="/products_detail/productId=21.html"
+                                            <a href="/Pro_Catagory/Catagory7.aspx"
                                                 title="其他产品" target="_self">
-                                                <img src="/imageRepository/93abce1b-0c65-4842-83a6-6ffeee8ee203.jpg" id="FrontProducts_list01-1454567836539_21" alt="" title="其他产品" " />
+                                                <img src="/IMG/其他.png" id="FrontProducts_list01-1454567836539_21" alt="" title="其他产品" " />
                                             </a>
                                         </div>
                                     </div>
@@ -424,7 +460,7 @@
                                                 <h1>
                                                     <span>商品名称：</span>
                                                     <strong>
-                                                        <a href="/products_detail/productId=21.html"
+                                                        <a href="/Pro_Catagory/Catagory7.aspx"
                                                             title="其他产品"
                                                             target="_self">其他产品
                                                         </a>
@@ -449,8 +485,8 @@
         <div id="box_footer">
             <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454408098260" name="说明页">
                 <div id="FrontSpecifies_show01-1454408098260" class="FrontSpecifies_show01-d1_c1">
-                    <p>
-                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
+                     <p>
+                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 电话：021-58598507 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
                     </p>
                 </div>
             </div>

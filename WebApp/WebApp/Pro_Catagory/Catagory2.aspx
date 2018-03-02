@@ -84,7 +84,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/CompanyProfile.aspx">资质荣誉
+                                    <a href="/TheCertificate.aspx">资质荣誉
                                     </a>
                                 </li>
                             </ul>
@@ -118,7 +118,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
+                            <%--<ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
                                 <li>
                                     <a href="/news_list/columnsId=59&amp;&amp;newsCategoryId=4.html" target="_blank">公司新闻
                                     </a>
@@ -135,7 +135,7 @@
                                     <a href="/xswl/FrontComContent_list01-1339494100625CurrentIds=4__6&amp;comContentId=6.html">常见问题
                                     </a>
                                 </li>
-                            </ul>
+                            </ul>--%>
                         </div>
                     </div>
                 </div>
@@ -299,18 +299,18 @@
                     <div id="box_left_sub2_sub1">
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488016849" name="说明页">
                             <div id="FrontSpecifies_show01-1339488016849" class="FrontSpecifies_show01-d1_c1">
-                                <p>
+                                <%--<p>
                                     <a href="/messages_list.html">
                                         <img alt="" src="/imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" /></a>
-                                </p>
+                                </p>--%>
                             </div>
                         </div>
                     </div>
                     <div id="box_left_sub2_sub2">
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488126451" name="说明页">
                             <div id="FrontSpecifies_show01-1339488126451" class="FrontSpecifies_show01-d1_c1">
-                                <p>
-                                    <img alt="" src="/imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" />
+                               <p>
+                                    <img alt="" src="IMG/电话.jpg" />
                                 </p>
                             </div>
                         </div>
@@ -355,9 +355,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
+                                                         <a href="/products/c2p1.aspx"
                                                             title="全精炼石蜡60号" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_27" alt="" title="全精炼石蜡60号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/石油蜡微晶蜡.jpg" id="FrontProducts_list01-00412_27" alt="" title="全精炼石蜡60号" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -366,7 +366,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=27.html"
+                                                                    <a href="/products/c2p1.aspx"
                                                                         title="全精炼石蜡60号"
                                                                         target="_self">全精炼石蜡60号</a>
                                                                 </strong>
@@ -380,9 +380,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
+                                                         <a href="/products/c2p2.aspx"
                                                             title="全精炼石蜡62号" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_27" alt="" title="全精炼石蜡62号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/石油蜡微晶蜡.jpg" id="FrontProducts_list01-00412_27" alt="" title="全精炼石蜡62号" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -391,7 +391,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=27.html"
+                                                                    <a href="/products/c2p2.aspx"
                                                                         title="全精炼石蜡62号"
                                                                         target="_self">全精炼石蜡62号</a>
                                                                 </strong>
@@ -405,9 +405,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
+                                                        <a href="/products/c2p3.aspx"
                                                             title="全精炼石蜡64号" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_27" alt="" title="全精炼石蜡64号" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/石油蜡微晶蜡.jpg" id="FrontProducts_list01-00412_27" alt="" title="全精炼石蜡64号" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -416,7 +416,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=27.html"
+                                                                    <a href="/products/c2p3.aspx"
                                                                         title="全精炼石蜡64号"
                                                                         target="_self">全精炼石蜡64号</a>
                                                                 </strong>
@@ -431,9 +431,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=26.html"
+                                                         <a href="/products/c2p4.aspx"
                                                             title="微晶蜡70" target="_self">
-                                                            <img src="/imageRepository/213713da-30a8-47f2-bd98-c51b4512b2ea.jpg" id="FrontProducts_list01-00412_26" alt="" title="微晶蜡70" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/微晶蜡70.jpg" id="FrontProducts_list01-00412_26" alt="" title="微晶蜡70" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -442,7 +442,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=26.html"
+                                                                    <a href="/products/c2p4.aspx"
                                                                         title="微晶蜡70"
                                                                         target="_self">微晶蜡70</a>
                                                                 </strong>
@@ -456,9 +456,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=27.html"
+                                                         <a href="/products/c2p5.aspx"
                                                             title="微晶蜡80" target="_self">
-                                                            <img src="/imageRepository/334270c2-d20d-4e8a-b1e6-9e1ed1065046.jpg" id="FrontProducts_list01-00412_27" alt="" title="微晶蜡80" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/微晶蜡80.jpg" id="FrontProducts_list01-00412_27" alt="" title="微晶蜡80" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -467,7 +467,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=27.html"
+                                                                    <a href="/products/c2p5.aspx"
                                                                         title="微晶蜡80"
                                                                         target="_self">微晶蜡80</a>
                                                                 </strong>
@@ -481,9 +481,9 @@
                                             <li class="content column-num4">
                                                 <div class="pic-module">
                                                     <div class="pic">
-                                                        <a href="/products_detail/productId=24.html"
+                                                         <a href="/products/c2p6.aspx"
                                                             title="微晶蜡85" target="_self">
-                                                            <img src="/imageRepository/b62907e7-0aa9-4ba9-9b17-ead23b1c3abe.jpg" id="FrontProducts_list01-00412_24" alt="" title="微晶蜡85" onerror="this.src='/images/common/noimage.jpg'" /></a>
+                                                            <img src="/IMG/微晶蜡85.jpg" id="FrontProducts_list01-00412_24" alt="" title="微晶蜡85" onerror="this.src='/images/common/noimage.jpg'" /></a>
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
@@ -492,7 +492,7 @@
                                                             <h1>
                                                                 <span>商品名称：</span>
                                                                 <strong>
-                                                                    <a href="/products_detail/productId=24.html"
+                                                                    <a href="/products/c2p6.aspx"
                                                                         title="微晶蜡85"
                                                                         target="_self">微晶蜡85</a>
                                                                 </strong>
@@ -563,7 +563,7 @@
             <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454408098260" name="说明页">
                 <div id="FrontSpecifies_show01-1454408098260" class="FrontSpecifies_show01-d1_c1">
                     <p>
-                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
+                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 电话：021-58598507 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
                     </p>
                 </div>
             </div>

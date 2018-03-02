@@ -1,8 +1,6 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="p1.aspx.cs" Inherits="WebApp.products.p1" %>
-
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="c2p6.aspx.cs" Inherits="WebApp.products.c2p6" %>
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <!-- InstanceBegin template="/Templates/about.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
@@ -82,7 +80,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/CompanyProfile.aspx">资质荣誉
+                                    <a href="/TheCertificate.aspx">资质荣誉
                                     </a>
                                 </li>
                             </ul>
@@ -116,7 +114,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
+                            <%--<ul id="summenu_FrontColumns_navigation01-1454567950644_51" class="ddsubmenustyle">
                                 <li>
                                     <a href="/news_list/columnsId=59&amp;&amp;newsCategoryId=4.html" target="_blank">公司新闻
                                     </a>
@@ -133,7 +131,7 @@
                                     <a href="/xswl/FrontComContent_list01-1339494100625CurrentIds=4__6&amp;comContentId=6.html">常见问题
                                     </a>
                                 </li>
-                            </ul>
+                            </ul>--%>
                         </div>
                     </div>
                 </div>
@@ -269,20 +267,26 @@
                             <div id="FrontProductsCategory_show01-1339496384106" class="FrontProductsCategory_show01-d1_c1">
                                 <div class="menu-first">
                                     <ul>
-                                        <li class="menu-none">
-                                            <a href="/products/p1.aspx" target="_self" class="menu-text1">FT合成蜡</a>
+                                       <li class="menu-none">
+                                            <a href="/Pro_Catagory/Catagory1.aspx" target="_self" class="menu-text1">FT合成蜡</a>
+                                        </li>
+                                         <li class="menu-none">
+                                            <a href="/Pro_Catagory/Catagory2.aspx" target="_self" class="menu-text1">石油蜡微晶蜡</a>
+                                        </li>
+                                         <li class="menu-none">
+                                            <a href="/Pro_Catagory/Catagory3.aspx" target="_self" class="menu-text1">特种蜡</a>
+                                        </li>
+                                         <li class="menu-none">
+                                            <a href="/Pro_Catagory/Catagory4.aspx" target="_self" class="menu-text1">润滑油</a>
+                                        </li>
+                                         <li class="menu-none">
+                                            <a href="/Pro_Catagory/Catagory5.aspx" target="_self" class="menu-text1">相变蜡</a>
+                                        </li>
+                                         <li class="menu-none">
+                                            <a href="/Pro_Catagory/Catagory6.aspx" target="_self" class="menu-text1">氯化石蜡</a>
                                         </li>
                                         <li class="menu-none">
-                                            <a href="/products/p2.aspx" target="_self" class="menu-text1">石油蜡微晶蜡</a>
-                                        </li>
-                                        <li class="menu-none">
-                                            <a href="/products/p3.aspx" target="_self" class="menu-text1">特种蜡</a>
-                                        </li>
-                                        <li class="menu-none">
-                                            <a href="/products/p4.aspx" target="_self" class="menu-text1">润滑油</a>
-                                        </li>
-                                        <li class="menu-none">
-                                            <a href="/products/p5.aspx" target="_self" class="menu-text1">其他产品</a>
+                                            <a href="/Pro_Catagory/Catagory7.aspx" target="_self" class="menu-text1">其他产品</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -295,10 +299,10 @@
                     <div id="box_left_sub2_sub1">
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488016849" name="说明页">
                             <div id="FrontSpecifies_show01-1339488016849" class="FrontSpecifies_show01-d1_c1">
-                                <p>
+                               <%-- <p>
                                     <a href="/messages_list.html">
                                         <img alt="" src="/imageRepository/9a4e7528-d208-4308-a28a-4fe701fbf613.jpg" /></a>
-                                </p>
+                                </p>--%>
                             </div>
                         </div>
                     </div>
@@ -306,7 +310,7 @@
                         <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1339488126451" name="说明页">
                             <div id="FrontSpecifies_show01-1339488126451" class="FrontSpecifies_show01-d1_c1">
                                 <p>
-                                    <img alt="" src="/imageRepository/d1efabb3-94db-4b24-ac0b-781f6073ae5e.jpg" />
+                                    <img alt="" src="IMG/电话.jpg" />
                                 </p>
                             </div>
                         </div>
@@ -590,21 +594,25 @@
                                                     </div>
                                                 </div>
                                                 <div class="pro-module">
-                                                    <%--<ul class="basic">
+                                                      <ul class="basic">
                                                         <li class="name1"><span>商品名称：</span>
-                                                            液氨</li>
+                                                            85号</li>
                                                         <li class="code">
-                                                            <span>商品编号：</span>
-                                                            7</li>
-                                                        <li class="createdate">
-                                                            <span>上架时间：</span>
-                                                            2012-06-15</li>
-                                                        <li class="skim">
-                                                            <span>浏览次数：</span>
-                                                            <em id="FrontProducts_detail02-001_showhitnumber" class="focustext">40</em>
+                                                            <span>滴熔点℃：</span>
+                                                            82-87</li>
+                                                        <li class="code">
+                                                            <span>运动粘度（100℃），mm2/s：</span>
+                                                            10-20</li>
+                                                        <li class="code">
+                                                            <span>针入度（25℃），1/10mm：</span>
+                                                           18
+                                                        </li>
+                                                        <li class="code">
+                                                            <span>含油量 %（m/m）：</span>
+                                                           不大于5
                                                         </li>
                                                     </ul>
-                                                    <ul class="choose">
+                                                   <%-- <ul class="choose">
                                                     </ul>
                                                     <p class="buttonP">
                                                         <a class="btna btna-unimp-04" href="/public_recommend_products/dataID=27.html" target="_blank" title="好友推荐">
@@ -735,8 +743,8 @@
         <div id="box_footer">
             <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454408098260" name="说明页">
                 <div id="FrontSpecifies_show01-1454408098260" class="FrontSpecifies_show01-d1_c1">
-                    <p>
-                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
+                     <p>
+                        &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  <b>联系方式 : &nbsp 电话：021-58598507 传真：021-58598507 凌经理 15565358067 潘先生 18321912578 地址：上海浦东新区张杨路828-838号26楼 </b>
                     </p>
                 </div>
             </div>
