@@ -318,19 +318,7 @@
             <div class="clearBoth"></div>
         </div>
         <!-- 一列版式结束 -->
-        <div id="box_footer">
-            <div class="containerContent">
-                <!-- 底部版权开始 -->
-                <!-- 底部版权结束 -->
-                <div xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1454408098260" name="说明页">
-                    <div id="FrontSpecifies_show01-1454408098260" class="FrontSpecifies_show01-d1_c1">
-                        <p>
-                            页面版权所有：2015 洛阳普波化工有限公司 <a href="javascript:if(confirm('http://www.miitbeian.gov.cn/  \n\nكτݾϞרԃ Teleport Ultra Ђ՘, ӲΪ ̼ˇһٶԲܲ·޶΢ҿѻʨ׃Ϊ̼քǴʼַ֘քַ֘c  \n\nţЫ՚ؾϱǷʏղߪ̼?'))window.location='http://www.miitbeian.gov.cn/'" tppabs="http://www.miitbeian.gov.cn/">豫ICP备12011363号</a> <a href="javascript:if(confirm('http://luoyang.300.cn/  \n\nكτݾϞרԃ Teleport Ultra Ђ՘, ӲΪ ̼ˇһٶԲܲ·޶΢ҿѻʨ׃Ϊ̼քǴʼַ֘քַ֘c  \n\nţЫ՚ؾϱǷʏղߪ̼?'))window.location='http://luoyang.300.cn/'" tppabs="http://luoyang.300.cn/">中企动力提供网站建设</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+       <!--#include virtual ="/footer.aspx"-->
         <!-- 默认隐藏样式(可编辑区域) 开始-->
         <!-- 默认隐藏样式(可编辑区域) 结束-->
     </div>
