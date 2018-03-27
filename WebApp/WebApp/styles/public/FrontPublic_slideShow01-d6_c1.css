@@ -16,13 +16,14 @@
    width: 100% !important;
 }
 .fullSlide .bd LI{
-   text-align: center;
+    text-align: center;
     width: 1920px;
     height: 540px;
     left:50%;
     overflow: hidden;
     margin-left:-960px;
     position:absolute;
+    background-color: #0099ff;
 }
 .fullSlide .bd LI A{
    display: block;
